@@ -1,0 +1,10 @@
+<div>
+{% for fair in fairs %}
+    <span>{{ fair.name | e }} </span>
+    <ul>
+    {% for item in fair['items'] %}
+        <li><a href="result/id/{{ item.pid }}.html">{{ item.title | e }}</li>
+    {% endfor %}
+    </ul>
+{% endfor %}
+</div>
