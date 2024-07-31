@@ -9,7 +9,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 # Load in the fair data
 fairs = {}
 
-with open('solr.json', 'r') as solr:
+with open('data/solr.json', 'r') as solr:
     data = json.load(solr)
 
     for doc in data['response']['docs']:
