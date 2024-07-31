@@ -177,14 +177,14 @@
         <div class="panel panel-dark">
             <div class="panel-heading in" role="tab" id="heading-1">
                 <div class="panel-title">
-                    <span>{{ fair.name | e }}</span>
+                    <span><strong>{{ fair.name | e }}</strong></span>
                 </div>
                 </div>
                 <div class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-1">
                 <div class="panel-body browse-multi-col">
                     <ul>
                     {% for item in fair['items'] %}
-                        <li><a href="result/id/{{ item.pid }}.html">{{ item.title | e }}</a></li>
+                        <li><a href="result/id/{{ item.pid }}.html">{{ item.title | e }}</a> ({{ item.type }})</li>
                     {% endfor %}
                     </ul>
                 </div>
