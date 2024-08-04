@@ -31,3 +31,9 @@ curl 'http://localhost:8983/solr/fedora/select?fl=pid,handle,handlehttp,doType,d
 ```sh
 scripts/browse.py > html/worldsfairs/browse.html
 ```
+
+### Fix embedded images which are too large
+
+```sh
+scripts/fiximages.py
+```

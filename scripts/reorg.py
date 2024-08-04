@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 from pathlib import Path
-import fileinput
 
 # Reorganize the file layout as saved by wget
 
