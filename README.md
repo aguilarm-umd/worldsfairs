@@ -2,7 +2,8 @@
 
 ## Building the static site
 
-These steps build the static site by harvesting the dynamic site and then applying updates.
+These steps build the static site by harvesting the dynamic site and then
+applying updates.
 
 ### Crawl the dynamic site
 
@@ -20,10 +21,14 @@ scripts/reorg.py
 
 ### Download Solr results
 
+Create data/solr.json and data/inventory.csv
+
 ```sh
 ssh -L 8983:localhost:8983 fedora.lib.umd.edu
 
 curl 'http://localhost:8983/solr/fedora/select?fl=pid,handle,handlehttp,doType,displayTitle,hasPart,dmIdentifier,wfFair_facet,wfContent_facet&fq=((isMemberOfCollection:umd\:2))%20AND%20((doStatus:Complete))&indent=on&q=*:*&rows=378&wt=json' > data/solr.json
+
+scripts/inventory.py
 ```
 
 ### Build the new static browse.html
