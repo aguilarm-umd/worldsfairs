@@ -1,0 +1,170 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Tower of Jewels</title>
+        <title TEIform="title" type="sub">San Francisco Panama Pacific Exposition</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Panama-Pacific International Exposition (1915 : San Francisco, Calif.)">Panama-Pacific International Exposition (1915 : San Francisco, Calif.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Holly Griffin</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">19 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">44sanfrancisco.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-28">February 28, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Tower of Jewels from the Panama-Pacific International Exposition (1915 : San Francisco, Calif.) created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Tower of Jewels: San Francisco Panama Pacific Exposition</title>
+          <author TEIform="author">Holly Griffin</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Panama-Pacific International Exposition (1915 : San Francisco, Calif.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Tower of Jewels.  Panama-California International Exposition (1916 : San Diego, Calif.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">California</item>
+            <item TEIform="item" n="settlement">San Francisco</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Tower of Jewels: San Francisco Panama Pacific Exposition<figure TEIform="figure" entity="umd:11488"></figure>
+          </head>
+          <p TEIform="p">This stereograph offers a view of the <name TEIform="name" type="organization">Tower of Jewels</name> as seen from <name TEIform="name" type="organization">Festival Hall</name> at the <name TEIform="name" type="organization">Panama Pacific International Exposition</name> . Held in 1915, the exposition was one of the largest and most spectacular of all international exhibitions.  It marked the opening of the <name TEIform="name" type="organization">Panama Canal</name> in 1914, and celebrated the development of the Pacific Coast as a center of international commerce.  In 1906, just two years after the city had begun planning for the fair, San Francisco was devastated by an earthquake, which was followed by a great fire that reduced most of the city to ashes (Mattie 132).  The fair was ideally suited to prove to the world that San Francisco had recovered from this disaster (Findling 219).</p>
+          <p TEIform="p">Willing to accept federal recognition without federal funds, <name TEIform="name" type="place">San Francisco</name> defeated <name TEIform="name" type="place">New Orleans</name> in a battle before Congress over the location of the fair.  This victory was partially due to a massive postcard campaign, depleting the West Coast of cardboard for a brief period (Findling 219).  San Francisco rebuilt, but as the American economy went into recession, funding for the exposition evaporated (Mattie 132).  In 1910, however, businessmen were able to raise over four million dollars in just two hours.  Additional state subsidies of five million dollars guaranteed adequate funding for the Panama Pacific Exposition (Findling 219).</p>
+          <p TEIform="p">It was decided that an undeveloped plot of land on the bay next to the Presido military installation would be the home of the 635-acre fair, which opened as scheduled on February 20, 1915.  Meanwhile, the Panama-California Exposition, smaller than the Panama Pacific, was being held in San Diego.  On opening day, San Franciscans were awakened at 6 a.m. by whistles, horns, sirens and marching bands.  By 10 a.m., more than 100,000 people were in attendance.  In <name TEIform="name" type="place">Washington, D.C.</name>, President <name TEIform="name" type="personal">Woodrow Wilson</name> touched a key that started the <name TEIform="name" type="organization">Fountain of Energy</name>, marking the beginning of a fair that would prove to be a great success (Findling 220).  </p>
+          <p TEIform="p">The layout was the inspiration of British architect <name TEIform="name" type="personal">Ernest Coxhead</name>.  Born in 1863, Coxhead attended the Royal Academy Schools in London, and was active in the United States.  The fair formed a sequence of "plazas" or courtyards, each of which was developed by a different architect.  Exhibition buildings formed the walls of the courtyards, protecting fairgoers from the cool winds of the Pacific, and making the exposition more compact.  Classification of the exhibits reflected a general theme of uplift.  The style of the buildings was generally Neoclassical, and each primary structure had a dome, giving rise to the nickname "<name TEIform="name" type="organization">City of Domes</name>."  The three major courts of the exposition were the <name TEIform="name" type="organization">Court of the Universe </name> in the center, the  <name TEIform="name" type="organization">Court of Ages</name> to the east, and the  <name TEIform="name" type="organization">Court of the Four Seasons</name> to the west.  Each exhibition palace was surmounted by a central dome, surrounded by smaller domes and half-domes (Findling 220-221).</p>
+          <p TEIform="p">Although international participation was limited by the eruption of World War I, the Panama Pacific Exposition managed to attract twenty-four foreign nations (Mattie 132).  Older nations constructed their buildings in traditional architectural style, including a Japanese teahouse, a Norwegian chieftain's medieval castle, and a Siamese palace (Findling 221).  Four nations, France, Greece, Italy and Norway, transported their pavilions from Europe, causing them to open four months late due to shipment delays (Mattie 136).</p>
+          <p TEIform="p">The Panama Pacific Exposition was the first fair to make use of indirect lighting.  Buildings of previous fairs were lit almost entirely by an outline of incandescent light bulbs, a practice common to theater marquees.  In San Francisco, three hundred and seventy searchlights and five hundred rooftop projectors reflected the texture and color of the buildings and highlighted the statuary and planting.  Artificial travertine was the primary material used for the buildings of the exposition.  Inspired by the California landscape, artist <name TEIform="name" type="personal">Jules Gu??rin</name> devised the color scheme, using pastel shades of green, blue, pink, lemon and ochre.  Even the shrubbery was color coordinated to the buildings.  The courts abounded with sculpture, and hundreds of full-grown trees were transplanted to the fairgrounds (Findling 221-223).</p>
+          <p TEIform="p">The most visible feature of the exposition was the single 433-foot Tower of Jewels, the centerpiece of the fair and the entrance to the Court of the Universe.  This 2.25" by 2.25" stereograph view shows the tower at an angle visible from Festival Hall. With arches larger than the Arc de Triomphe in Paris, it was ornamented with allegorical statues and murals depicting the triumph of the American West (Todd, 305).  The beautiful structure, designed by <name TEIform="name" type="personal">Thomas Hastings</name> of <name TEIform="name" type="organization">Carr??re and Hastings</name>, was covered with faceted jewels, each backed by a tiny mirror (Findling, 221).  <name TEIform="name" type="personal">John Mervin Carr??re</name> studied at the Ecole des Beaux Arts in Paris where he met Hastings. When he graduated in 1882 he obtained a job with the New York firm of <name TEIform="name" type="organization">Mckim, Mead, and White</name>.  Hastings initially studied at Columbia University before he attended the Ecole des Beaux Arts in Paris. After he graduated in 1884, Hastings returned to New York and joined McKim, Mead and White. In 1886 Carr??re and Hastings left the firm to form their own partnership.</p>
+          <p TEIform="p">The firm's stature within the profession rapidly grew after the turn of the century following the appointment of Carr??re as Chief Architect and Chairman of the Board of Architects for the Pan American Exposition at Buffalo in 1901.  The New York Public Library, completed in 1911, is perhaps the crowning achievement of the partners, and is regarded as the epitome of New York's Beaux Arts period.  Carr??re in 1901 assumed the position of chief architect and head of the board of architects responsible for designing the <name TEIform="name" type="organization">Pan-American Exposition</name> at <name TEIform="name" type="place">Buffalo</name>.  In the early phase of their careers, Carr??re and Hastings designed nearly all of their buildings with elaborate detailing and over scaled ornamentation.  Gradually, the firm refined the work and restrained the tone. They began to borrow from late French Baroque and American Georgian sources. These later buildings show restrained classicism far different from their early ornamentation (Artifice).</p>
+          <p TEIform="p">Fifty thousand Austrian glass fragments in yellow, violet, ruby red, aquamarine and white adorned the Tower of Jewels, although some reports claim that there were as many as 100,000.  The elaborate system of indirect lighting made the glass look like precious jewels.  The tower itself was lit by pulsating red lights, symbolizing the beating artery of the American continent (Mattie 133).  The combination of the Tower of Jewels with the overall color scheme of the fair was so successful that the exhibition was nicknamed "<name TEIform="name" type="organization">Jewel City</name>" (Postcard).</p>
+          <p TEIform="p">The author of a children's book about the Panama Pacific Exposition captured the essence of the tower's appeal:</p>
+          <q TEIform="q" direct="unspecified" type="block">There was the beautiful tower of Jewels, smiling and twinkling its shiny eyes at us, and saying "Come in, children: come in, and walk under my beautiful blue arches, and through my magic courts, and my sheltered gardens, and be happy, and love each other and all the children of the world.  Peace I offer you, and Plenty, and Harmony, and Beauty. Here you are safe, and here you are welcome'</q>
+          <p TEIform="p">(Rydell 209).</p>
+          <p TEIform="p">To thousands of fairgoers, the Tower of Jewels provided the most vivid memory.  According to <name TEIform="name" type="personal">Frank Todd</name>, author of <title TEIform="title">Story of an Exhibition</title>, "when you crossed the Bay into Marin County and got on a level with the northerly ridge of San Francisco's hills, you saw that it rose higher even than they did."  Colonnades of green pillars encircled the tower at various levels, and salvers for fires were placed at high corners.  Statues of eagles were perched on lofty galleries, symbolizing the power and dominion of the United States (Todd 305). </p>
+          <p TEIform="p">"Every salient object and decorative design of it sparkled with rays of ruby and emerald and sapphire and aqua marine from the thousands of brilliants swinging in the breeze.  And through the pierced friezes of the flanking colonnades the sky shone in burning blue," explains Todd.  The tower was most imposing, however, when low fog concealed its foundations and supporting arch, and its upper half appeared to materialize in a semitransparent gray.  At the east and west of the Tower of Jewels were two side colonnades, each encompassing a small enclosed court with a mural fountain.  A timeline was carved into small wall spaces on these courts and on other walls of the tower itself.  Beginning with the panel to the left of the south front colonnade, the inscriptions included events relating to the Panama Canal.  From within the Court of the Universe, however, the reverse inscriptions could be seen, relating to local history of California, and more specifically, San Francisco (Todd, 305).  </p>
+          <p TEIform="p">The central archway was covered by a gigantic barrel vault, 75 feet wide and 119 feet high.  The walls of the vault were decorated with mural paintings by American academic muralist <name TEIform="name" type="personal">William de Leftwich Dodge</name>.  Born in 1867, Dodge was one of the most prominent muralists of his era, at a time when murals were regarded as an essential element of most public architecture, theaters, municipal buildings, and even some private homes (Smithsonian). The paintings were divided into one median section and two shorter lateral segments.  Symbolically, they depicted the unity of the Atlantic and Pacific Oceans through labor, and conquistador <name TEIform="name" type="personal">Francisco de Balboa</name> upon his first glance of the "Sea of the South."  Additionally, the murals illustrated the purchase of the incomplete Panama Canal from France, and the great achievement of its completion through American intelligence and manpower.  The paintings depicted the locks of the Canal swinging open, representing a gateway of nations (Newbegin).</p>
+          <p TEIform="p">Inside the great archway, two centrally located side portals gave access to the wings.  Although these courts could be easily missed by visitors, they were a delight to those fortunate enough to have found them.  The mural fountain in the eastern wing was called the <title TEIform="title">Fountain of Youth</title>. Its design was based on an adolescent girl with "Youth's quaint stiffness of form, and all its innocence and helplessness and hopefulness."   In the western wing was the <title TEIform="title">Fountain of El Dorado</title>, composed by sculptor and art patron <name TEIform="name" type="personal">Gertrude Vanderbilt Whitney</name>.  The legend of El Dorado was illustrated by a half-open portal guarded by two Inca statues, and from both sides the frieze showed a rush of people passing these guardians in pursuit of the Gilded King, before the magic Doors of Opportunity should close (Todd 307).  The ceiling of the Tower of Jewels contained a beautifully colored pictorial design by American mural painter and illustrator Jules Gu??rin (Newbegin).  As Gu??rin explained, "the blue up there blends into the deeper blue of the [William de Leftwich] Dodge murals just beneath.  Those murals are in exactly the right tone. They give strength to the arch. But they are weakened by being in the midst of so much heavy architecture. Their subjects, however, are in harmony with the meaning of the tower" (Newbegin).</p>
+          <p TEIform="p">Upon conclusion of the fair, the citizens of San Francisco were given the opportunity to purchase the actual jewels hung from the Tower of Jewels (Zoe).  A bugler playing taps atop the tower marked the conclusion of the fair on December 4, 1915.  When the fair closed, there had been 18,876,438 admissions (Findling 225).  The exposition did more than commemorate the opening of the Panama Canal.  It celebrated the rebirth of a City, and emphasized a new, optimistic view of American society.  </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Todd, Frank Morton</author>. <title TEIform="title" level="m" rend="italic">The Story of an Exhibition</title>. New York: G.P. Putnam Sons, 1921. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>., ed. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions</title>. New York: Greenwood Press, 1990. 219-226.</bibl>     
+     <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rydell, Robert W</author>., <author TEIform="author">John E. Findling</author>, and <author TEIform="author">Kimberly D. Pelle</author>. <title TEIform="title" level="m" rend="italic">Fair America: World's fairs in the United States</title>. Washington [D.C.]: Smithsonian Institution Press. 62-71.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Mattie, Erik</author>.  <title TEIform="title" level="m" rend="italic">World's Fairs</title>.  New York: Princeton Architectural Press, 1998.  131-137.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rydell, Robert W</author>. <title TEIform="title" level="m" rend="italic">All the World's a Fair: Visions of Empire at American International Expositions</title>. Chicago: University of Chicago Press, 1984. 208-233.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Artifice</author>. <title TEIform="title" level="a" rend="italic">The Great Buildings Collection</title>.<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.greatbuildings.com/gbc/architects/Carrere_and_Hastings.html"> http://www.greatbuildings.com/gbc/architects/Carrere_and_Hastings.html</xref> (accessed 25 April 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Newbegin, John</author>. <title TEIform="title" level="m" rend="italic">The City of Domes: Under The Tower of Jewels</title>.<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.books-about-california.com/Pages/The_City_of_Domes/The_City_of_Domes_ch04.html"> http://www.books-about-california.com/Pages/The_City_of_Domes/The_City_of_Domes_ch04.html</xref> (accessed 15 April, 2003). </bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title">Postcard.</title>" <title TEIform="title" rend="italic">Beautiful Views of the Jewel City: Series 2</title>. San Francisco: Pacific Novelty Company of San Francisco, 1915.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Smithsonian American Art Museum</author>. <title TEIform="title" level="a" rend="italic">Treasures to Go: Artist Biography</title>.<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.nmaa.si.edu/treasures/bios/01296.html"> http://www.nmaa.si.edu/treasures/bios/01296.html</xref> (accessed 15 April, 2003)</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Zoe</author>. <title TEIform="title" level="a" rend="italic">San Francisco Memories: An Interactive Scrapbook in Progress</title>. <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.sanfranciscomemories.com/"> http://www.sanfranciscomemories.com/</xref> (accessed 25 April, 2003). </bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

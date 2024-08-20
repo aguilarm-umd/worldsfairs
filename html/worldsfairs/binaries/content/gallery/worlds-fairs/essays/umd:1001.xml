@@ -1,0 +1,184 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Paris 1900: Petit Palais </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exposition universelle internationale de 1900 (Paris, France)">Exposition universelle internationale de 1900 (Paris, France)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Sesan Iwarere </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">14 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">23Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Petit Palais at the 1900 Exposition Universalle in Paris, France was created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Paris 1900: Petit Palais </title>
+          <author TEIform="author">Sesan Iwarere </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Exposition universelle internationale de 1900 (Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Muse?? du Petit Palais (Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Paris 1900: Petit Palais<figure TEIform="figure" entity="umd:11334"></figure>
+          </head>
+          <p TEIform="p">
+		Along with the Grand Palais and the Pont Alexandre III, the Petit Palais served as one of the main focuses of the International Exhibition of 1900 and helped solidify the position of France as artistic world leader. Despite its inferiority in size to the Grand Palais, contemporary critics noted that the Petit Palais is of "equal importance in creating an impression of the artistic success of the Exhibition" (Boyd, 194). From its inception, it was built to serve as a permanent gallery of painting and sculpture. </p>
+          <p TEIform="p">This black and white postcard represents the inner courtyard of the Petit Palais, which was established at the expense of the Palais de l'Industrie that had been erected for the 1855 Exposition. Architect Eug??ne H??nard (1849-1923) proposed the destruction of the Palais De l'Industrie. In 1894, H??nard received one of three first prizes (others were granted to Charles Girault and Edmond J.B. Paulin) in the competition for the general plan of the Exposition. The final layout of the fair incorporated his suggestion of cutting a new street from the Champs-Elys??es through the Palais de l'Industrie which would cross the Seine River on a new bridge and then terminate at the D??me des Invalides (Wolf, 29). Although some Frenchmen opposed the destruction of the Palais de I'lndustrie, which was seen as one of the most conspicuous landmarks on the Champs Elys??es and served as an exhibition hall at the time, many agreed it was obsolete. According to Richard Morris Hunt, a prestigious American architect, "from the very day it began to rise above the ground the critics cried against the destruction of one of the finest perspective views that Paris afforded, and condemned this heavy and compact mask that was being interposed between the Champs Elys??es and the dome of the Invalides" (Hunt, 31). H??nard recommended replacing the Palais de l'Industrie with two buildings, Palais des Beaux-Arts and Palais des Lettres (Wolf, 29). From H??nard's idea came the establishment of the Grand Palais, Petit Palais, and the Pont Alexandre III.</p>
+          <p TEIform="p">In 1896, Charles-Louis Girault (1851-1932) was nominated chief architect for the Petit Palais. He found his inspiration mainly in eighteenth century French architecture. The main fa??ade was located across from the Grand Palais on the East Side of the Avenue Nicholas II (today Winston Churchill). Of the three other fa??ades, one faced the Seine River, another Avenue des Champs-Elys??es. The plan of the Petit Palais was that of a regular trapezoid and was arranged around a central closed courtyard.</p>
+          <p TEIform="p">The architecture of this courtyard was very eclectic. Its main entrance (see fig) is reminiscent of the Palace of Diocletian (305 A.D.) with its arch supported by columns. The coupled columns of the semi-circular colonnade are typical of the French Baroque style. The vases and statues adorning the cornice are common features of Venetian Renaissance architecture. Overall, the symmetrical composition and rich decoration in high relief are typical of what is commonly called the Beaux-Arts style. The American critic James P. Boyd, an American gave the following description:</p>
+          <q TEIform="q" direct="unspecified" type="block">
+            <p TEIform="p">A semi-circular colonnade of marble columns of beautiful color, and festooned with garlands of gilded bronze, support a roof, the balustrade of which is decorated with guilded sculptures. The panelling of the walls of this semi-circular corridor are composed of marbles of varied color and texture, arranged to produce a wonderful harmony. The floor is comprised of designs of mosaic.</p>
+            <p TEIform="p">The courtyard itself is laid out with the greatest taste. Fountains play here among flowers and shrubs. The basins of the fountains are, above the water-line, decorated in mosaic. The color scheme is very rich, blues and greens, with gold, predominating. Indeed it seems that the reserve maintained in respect of color, in the front facing the avenue, has had here the effect of reaction, and the architect has been inclined to show that, in its proper place, the warmth and wealth of color may be used unsparingly.</p>
+            <p TEIform="p">Before leaving this courtyard we may note the design of the entrance to the central vestibule. Though naturally less ambitious than the main entrance, it is, none the less, a beautiful and artistic work.</p>
+          </q>
+          <p TEIform="p">(Boyd, 169).
+					</p>
+          <p TEIform="p">The purpose of this inner courtyard was to provide a peaceful atmosphere away from the hustle and bustle of the Exposition. The shrubbery and fountains helped create this effect. One American writer vividly rendered this serene character:</p>
+          <q TEIform="q" direct="unspecified" type="block">The interior courtyard recalls the inner ellipse of the 1867 Palais: a place where, in the midst of great art surrounded by a great city, one can pause among fountains and statuary to consider the Meaning Of It All. Or, as one observer put it, 'There is a sense of restfulness in these quiet precincts that attracts the visitor unconsciously thither, and induces him to come again from day to day out of the wearying whirl of multitudinous sight-seeing'.</q>
+          <p TEIform="p">(<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html">http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html</xref>). 
+</p>
+          <p TEIform="p">During the Exposition the Petit Palais hosted a series of exhibits illustrating the history of French Art from 1800 to 1900, which emphasized its various stages of growth (Boyd, 167). The interior was composed of an inner gallery, with many priceless treasures in ivory, tapestry, metal work, jewelry, and porcelain gathered from the most important collections of France, and an outer gallery devoted to a collection of royal French furniture (Butler, 298). Among displays were brass and bronze works, statues and the Armor of King Francis I (Boyd, 200). These various exhibits impressed most visitors. </p>
+          <p TEIform="p">Responses to Petit Palais were generally positive. As told by Herbert Butler, "on all sides one heard expressions of delight from men, women, and children, of all classes and nationalities, as the beauties of the building and its contents were discovered" (Butler, 301). Other observers claimed that the Petit Palais had the "power to educate the mind while it pleases the senses" (Butler, 301). Some observers held the Petit Palais in very high regard. For instance Butler asserted "that more pleasure, of an elevating nature, was given by the Petit Palais than any other building in the exposition". 
+</p>
+          <p TEIform="p">The Petit Palais was a vital asset to the 1900 Exposition. One can easily argue that it was one of the most successful establishments of the Exposition. In fact more praises were expressed for the Petit Palais, than its giant neighbor, the Grand Palais. Visitors enjoyed the serenity of its inner courtyard and were impressed by the artistic exhibits of its interior. The Petit Palais left no doubt that France was the supreme leader of the artistic world. Today, the Petit Palais houses the permanent art collection of the city of Paris and is undergoing a major restoration. 
+ 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Heinemann, William</author>.  <title TEIform="title" level="m" rend="italic">Exhibition Paris 1900</title>. <pubPlace TEIform="pubPlace"> New York</pubPlace>:  <publisher TEIform="publisher">F.A. Stockes Coy</publisher>,  <date TEIform="date">1900</date>. 311-320.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E</author>. "<title TEIform="title" level="a">The Paris Exposition, 1900</title>." <title TEIform="title" level="j" rend="italic"> The Art Journal</title>. <pubPlace TEIform="pubPlace"> London</pubPlace>: <publisher TEIform="publisher">H. Virtue and Company</publisher>, <date TEIform="date"> 1901</date>. 9-10. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E </author>. "<title TEIform="title" level="a">The Palaces of Fine Arts</title>." <title TEIform="title" level="j" rend="italic">The Art Journal</title>.  <pubPlace TEIform="pubPlace">London</pubPlace>: <publisher TEIform="publisher"> H. Virtue and Company limited</publisher>,
+						<date TEIform="date">1901</date>. 41, 43-48. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E</author>. "<title TEIform="title" level="a">Some Views of the Grand Palais and of the Petit Palais</title>." <title TEIform="title" level="j" rend="italic">The Art Journal</title>.  <pubPlace TEIform="pubPlace">London</pubPlace>: <publisher TEIform="publisher">H. Virtue and Company</publisher>, <date TEIform="date">1901</date>. 294-301. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Boyd, James P.</author>
+            <title TEIform="title" level="m" rend="italic">The Paris Exposition of 1900</title>. <pubPlace TEIform="pubPlace"> Philidelphia</pubPlace>: <publisher TEIform="publisher"> P.W. Ziegler &amp; Co.</publisher>, <date TEIform="date">1901</date>. 167-202. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Exposition Universelle 1900: The Chefs-D'oeuvre</title>. Vol. 10. <pubPlace TEIform="pubPlace">Philidelphia</pubPlace>:  <publisher TEIform="publisher">G. Barrie &amp; Son</publisher>, <date TEIform="date">1900</date>-<date TEIform="date">02.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Herbert, James D</author>.
+							<title TEIform="title" level="m" rend="italic">Paris 1937: Worlds On Exhibition.</title>
+            <pubPlace TEIform="pubPlace">Ithaca, N. Y.</pubPlace>:  <publisher TEIform="publisher">Cornell University Press </publisher>, 1900. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Mattie, Erik</author>. <title TEIform="title" level="m" rend="italic">World Fairs</title>.  <pubPlace TEIform="pubPlace">Princeton, N.J.</pubPlace>
+            <date TEIform="date">1998</date>. 103, 106, 11, 180, 187. </bibl>
+          <bibl TEIform="bibl" default="NO">          
+  <author TEIform="author">Chandler, Albert</author>.
+							"<title TEIform="title" level="a"> Culmination - The Paris Exposition Universelle 1900: Progress of the Preparations for the Exhibition of 1900</title>." <title TEIform="title" level="j" rend="italic"> The American Architect and Building News</title>. Vol 57. no. 1133 <date TEIform="date">11 Sept 1897</date>. 90-91. 
+(<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html">http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html</xref>). Accessed on (<date TEIform="date">26 April, 2001</date>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hunt, R.M.</author> "<title TEIform="title" level="a">The General Scheme for the Exhibition of 1900</title>." <title TEIform="title" level="j" rend="italic">The American Architect and Building News</title>. Vol 50. 19 <date TEIform="date">Oct 1895</date>. 31-32.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Anderson, A.</author> "<title TEIform="title" level="a">The Paris Exhibition Buildings </title>." <title TEIform="title" level="j" rend="italic"> Architectural Review</title>. Vol 7. <date TEIform="date">Jan - June 1900</date>. 28-37.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Wolf, Peter M.</author>
+            <title TEIform="title" level="m" rend="italic">Eugene H??nard and the beginning of urbanism in Paris 1900-1914</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">P.M.W.</publisher>, <date TEIform="date">1968</date>. 29-33.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

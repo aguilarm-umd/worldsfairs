@@ -1,0 +1,155 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Montreal, 1967 Map</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Expo 67 (Montréal, Québec)">Expo 67 (Montr??al, Qu??bec)</name>
+        </title>
+        <title TEIform="title" type="version">An Electronic Edition</title>
+        <author TEIform="author">
+          <name TEIform="name">Ly Y. Bui</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by:<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by:<name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by:<name TEIform="name">Sean Daugherty</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">15 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">35Montreal.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu/</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-22">22 December 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified" type="source">
+          <p TEIform="p">Essay on the map of Expo 67 in Montreal 1967 created as a final assignment in <name TEIform="name">World's Fairs: Social and Architectural History</name>, <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Montreal, 1967 Map</title>,
+					<author TEIform="author">Ly Y. Bui</author>,
+					<imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>.
+				</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Expo 67 (Montr??al, Qu??bec)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">   
+       <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">Canada</item>
+            <item TEIform="item" n="region">Québec</item>
+            <item TEIform="item" n="settlement">Montréal</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">
+            <title TEIform="title">Montreal, 1967 Map</title>
+            <figure TEIform="figure" entity="umd:11546"></figure>
+          </head>
+          <p TEIform="p">This Esso city map of Montreal provides an overview of the 1967 exposition. The entire map is approximately sixty centimeters long and forty-five centimeters wide, while the image on our site takes up approximately one sixth of that space. Although the islands on the map are drawn to scale, the buildings depicted on the map are oversized for emphasis, and only the major Expo pavilions are depicted. The map is relatively easy to read. The Montreal expo of 1967 was spread out over four sections in the Saint Lawrence River: The Cit?? du Havre, Ile Sainte-H??l??ne, Ile Notre D??me, and La Ronde.</p>
+          <p TEIform="p">In his book <title TEIform="title" level="m" rend="italic">Terre des Hommes</title> (1939, translated as <title TEIform="title" level="m" rend="italic">Man and His World</title>), Antoine de St. Exup??ry wrote that "to be a man is to feel that through one's own contribution, one helps to build the world." This is the quote that inspired the theme for the Montreal exposition, also named Man and His World, after the novel's title. The 1967 exposition was supposed to take place in the USSR, on the 50th anniversary of the Russian Revolution. Although permission was given to the Soviets in 1960, they backed out in 1962. Jean Drapeau, Montreal's ambitious mayor, proposed that the fair be held in his city. A site was selected on the St. Lawrence River in order to avoid the costly expropriation of land. Only the Ile Sainte-H??l??ne and Mackay Pier, where the Cit?? du Havre would be located, existed originally; the other islands had to be built. The Ile Notre D??me was built out of mudflats, and the Ile Sainte-H??l??ne was extended to make room for La Ronde. These modifications in infrastructure expanded the fair's size to 1000 acres.</p>
+          <p TEIform="p">Originally, the Expo planners wanted countries to exhibit within "theme" pavilions, instead of in their own national pavilions. This would allow for more effective international coverage on specified issues, but Expo policy makers rejected the scheme as they felt that nations might not be receptive. Still, the Expo planners wanted to limit the types of pavilions at the fair, of which there were only five: national, theme, or commercial pavilions, and commercial or service structures. National pavilions were those built to represent a country. Theme pavilions tied in with the theme of the expo and St. Exup??ry's book, bearing names like 'Man the Explorer' or 'Man the Producer'. They were supposed to be significantly larger than any other fair buildings, and would be surrounded by clusters of smaller pavilions. However, according to the <title TEIform="title" level="m" rend="italic">Architects' Journal</title>, budget cuts were responsible for less impressive theme pavilions than first intended. Commercial pavilions were built by companies to represent themselves and included shops or restaurants.</p>
+          <p TEIform="p">Transportation was carried out in several innovative ways. The Expo Express, visible on the map as a brown line, consisted in electric trains traveling at twenty-five miles per hour that linked extreme ends of the exposition, connecting the Cit?? du Havre to La Ronde. Supplementing the Expo Express, the three elevated loops of minirails traveled about ten miles an hour. They allowed people to view exhibits in detail, and were designed to distribute visitors from congestion points such as the metro and Expo Express stations to extremities of the site. The trackless trailer train served the same purpose as the minirail, except it was used for less crowded areas. On the Ile Notre D??me there were also canal boats.</p>
+          <p TEIform="p">The Cit?? du Havre is indicated on the map in purple. The circular structure northwest of the Cit?? was the Autostade, a stadium built to remain in Montreal after the fair (it is still in existence). It had seats for 25,000 spectators and cost Canada three million Canadian dollars to build. The Habitat housing development was also built as a permanent structure in Cit?? du Havre. It is located on the eastern end of the island and is represented on the map by a zig zag-like outline. The goal of Habitat was to provide urban, middle-income housing combining high quality and medium density. Habitat was to be built on a 100 foot long, 220-300 feet wide expanse of space. It was conceived originally as an upside down pyramid, but the layout of the streets conflicted with that design. A right side up pyramid design was used instead, with clusters of block-like housing units stacked on top of each other. The housing units were built using pre-stressed concrete, with the floor of one unit forming the roof of another. Habitat managed to increase wildly in cost, until at the end it became luxury housing. Today, it has become a unique and desirable place of residence. In addition, 'Man the Creator' was one of the theme pavilions located in this section of the fair. It showcased exhibitions of fine arts, contemporary sculpture, photography, and industrial design. It is used today as an art gallery. Located directly to the left of Habitat, the other theme pavilions in this area were 'Man and his Health' and 'Man in the Community', which showed a film prepared by the National Film Board of Canada, presented in a multi-screened, multi-chambered concrete building.</p>
+          <p TEIform="p">The Ile Sainte H??l??ne is the light green area on the map, in the middle of the river. One of its most prominent buildings was the United States national pavilion, represented by the circle at the southeast corner of the colored section. It was nicknamed "Bucky's Bubble", after its designer Buckminster Fuller (1895-1983). Its dome was covered in transparent materials and was particularly spectacular at night, when the exhibits were completely visible from the outside. A minirail ran through the pavilion, offering riders a glimpse at the exhibits inside. The Place des Nations, where the opening ceremony and other important events were held during the exposition, was located at the westernmost tip of the island, which also housed pavilions for Denmark, Finland, Norway, Sweden, Iceland, Austria, Switzerland, Belgium, and the Netherlands. Two U.S. states were also represented: New York and Maine. The theme pavilion on Ile Sainte H??l??ne was entitled 'Man the Explorer', and showcased exhibits about the conquest of space and the polar regions.</p>
+          <p TEIform="p">The Ile Notre D??me, the yellow section near the bottom of the map, housed several interesting buildings. The USSR pavilion, whose design was directed by Michael Posochin, was located across the river from that of the United States and achieved a similar degree of transparency. Designed by the architect Rolf Gutbrod and structural engineer Frei Otto, the German pavilion was located at the southern end of the island, nestled on the map in a corner of the Expo Express tracks. Covering an expanse of 80,000 square feet and supported strategically by eight steel masts, it was a huge tent-like structure in steel mesh and translucent plastic. The masts themselves were held in place by the tension from the steel rope netting. To the left of the German pavilion, that of Britain, designed by Sir Basil Spencer, had a cliff-like podium surrounded almost completely by water. The tower featured a stylized Union Jack, which was highlighted at night. Other pavilions on this island were those of Italy, Canada, Cuba, Czechoslovakia, and Venezuela, the United Nations and Canadian National Railroad Company, and a structure known as Kaleidoscope that was built by six chemical companies. There were also two theme pavilions, 'Man the Producer', located in the middle of the island, above the German pavilion, and 'Man the Provider', at the eastern tip of the section.</p>
+          <p TEIform="p">The fair opened on April 17th, 1967 and attracted over fifty million people. Although only a few dozen of the fair's ninety pavilions are depicted on the map, the image still does a good job of representing the fair and its ideals.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Aarons, Anita</author>. "<title TEIform="title" level="a">The Artists and Expo</title>." <title TEIform="title" level="j" rend="italic">Architecture Canada</title>. 44 (<date TEIform="date">June 1967</date>): 17-19.</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">The Architect's Expo</title>." <title TEIform="title" level="j" rend="italic">Progressive Architecture</title>. 48 (<date TEIform="date">June 1967</date>): 126-127.</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Behind the Scenes at Expo</title>." <title TEIform="title" level="j" rend="italic">Architectural and Engineering News</title>. 9 (<date TEIform="date">April 1967</date>): 108-109.</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Expo '67</title>." <title TEIform="title" level="j" rend="italic">Architects' Journal</title>. 145 (<date TEIform="date" value="1967-06-07">7 June 1967</date>).</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Expo '67: Revisited</title>." <title TEIform="title" level="j" rend="italic">Architecture Canada</title>. 44 (<date TEIform="date">August 1967</date>): 25-44.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Danzig, Philip</author>. "<title TEIform="title" level="a">A&amp;E News Goes to Expo '67</title>." <title TEIform="title" level="j" rend="italic">Architectural and Engineering News</title>. 9 (<date TEIform="date">June 1967</date>): 24-26.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E.</author>. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Komendant, August</author>. "<title TEIform="title" level="a">Post-Modern on Habitat</title>." <title TEIform="title" level="j" rend="italic">Progressive Architecture</title>. 49 (<date TEIform="date">March 1968</date>): 138-147.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Miller, Jerry</author>. "<title TEIform="title" level="a">Expo '67: Search for Order</title>." <title TEIform="title" level="j" rend="italic">Canadian Architect</title>. 12 (<date TEIform="date">May 1967</date>): 44-54.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Prus, Victor</author>. "<title TEIform="title" level="a">Expo 67 Stadium</title>." <title TEIform="title" level="j" rend="italic">Architectural Design</title>. 37 (<date TEIform="date">April 1967</date>): 171-173.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Richards, J.M.</author>. "<title TEIform="title" level="a">Expo 67</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title> (<date TEIform="date">August 1967</date>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rogatnick, Abraham</author>. "<title TEIform="title" level="a">Expo 67, The Past Recaptured</title>." <title TEIform="title" level="j" rend="italic">Lotus</title>. 5 (<date TEIform="date">1968</date>): 12-33.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Schwanzer, Karl</author>, "<title TEIform="title" level="a">Geometric Representation of Austria's Pavilion at Expo '67</title>." <title TEIform="title" level="j" rend="italic">Architect and Building News</title>. 233 (<date TEIform="date" value="1968-06-19">19 June 1968</date>): 936-939.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

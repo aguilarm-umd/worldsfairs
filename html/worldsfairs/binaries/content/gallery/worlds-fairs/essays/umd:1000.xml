@@ -1,0 +1,184 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Paris 1900: Grand Palais </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exposition universelle internationale de 1900 (Paris, France)">Exposition universelle internationale de 1900 (Paris, France)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Sesan Iwarere </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">18 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">22Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Grand Palais at the 1900 Exposition Universalle in Paris, France created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Paris 1900: Grand Palais </title>
+          <author TEIform="author">Sesan Iwarere</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Exposition universelle internationale de 1900 (Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Grand Palais (Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Paris 1900: Grand Palais<figure TEIform="figure" entity="umd:11346"></figure>
+          </head>
+          <p TEIform="p">
+		The Grand Palais served as one of the main buildings that helped solidify France as the supreme leader in the Arts. Like the Eiffel Tower in 1889, it served as a focus for the Exposition. However, the two structures were very different. The Grand Palais placed much greater emphasis on ornamentation. The famous French writer Paul Morand stated that, "while in 1889 architecture was happily on the threshold of an age of iron and steel, in 1900 it had gone back to styles such as those taught at the Beaux-Arts." The Grand Palais incorporated what is commonly referred to as "Beaux-Arts style", which was characterized by formal planning and rich decoration. </p>
+          <p TEIform="p">This black and white postcard represents the primary entrance of the Grand Palais, which was established at the expense of the Palais de l'Industrie (also part of the galleries on this web site) that had been erected for the 1855 Exposition. Architect Eugene H??nard (1849-1923) proposed the destruction of the Palais De l'Industrie. In 1894, H??nard received one of three first prizes (others were granted to Charles Girault and Edmond J.B. Paulin) in the competition for the general plan of the Exposition. The final layout of the fair incorporated his suggestion of cutting a new street from the Champs-Elys??es through the Palais de l'Industrie which would cross the Seine River on a new bridge and then terminate at the Invalides (Wolf, 29). Although some Frenchmen opposed the destruction of the Palais de I'lndustrie, which was seen as one of the most conspicuous landmarks on the Champs Elys??es and served as a museum at the time, many agreed it was obsolete. According to Richard Morris Hunt, a prestigious American architect, "from the very day it began to rise above the ground the critics cried against the destruction of one of the finest perspective views that Paris afforded, and condemned this heavy and compact mask that was being interposed between the Champs Elys??es and the dome of the Invalides" (Hunt, 31). H??nard recommended replacing the Palais de l'Industrie with two buildings, Palais des Beaux-Arts and Palais des Lettres (Wolf, 29). From H??nard's idea came the establishment of the Grand Palais, Petit Palais, and the Pont Alexandre III. 
+</p>
+          <p TEIform="p">In 1896, a national competition was held for the plan of the Grand Palais. As a result, three architects were awarded various sections. Henri-Adolphe-Auguste Deglane (1851-1932) was assigned the front section, Albert Louvet (1860-1936) was given the middle, and Albert-Th??ophile-F??lix Thomas (1847-1907) the posterior (Anderson, 32). Another architect, Charles-Louis Girault (1851-1932) was nominated principal architect of the Grand Palais (Anderson, 32). The architects had to adjust to an irregular site between the Cours la Reine along the Seine River and the Champs Elys??es as the two other avenues bordering the site ??? Nicholas II (today Winston Churchill) and d' Antin (today Franklin Roosevelt) ??? were not exactly parallel to each other. The Grand Palais was to be perpendicular to the Avenue des Champs Elys??es while the old Palais de I'lndustrie was parallel to this major axis.</p>
+          <p TEIform="p">This image of the Grand Palais is a view of the primary entrance facing the Avenue Nicholas II by Deglane. While the exterior walls were made of stone, its roof was built of leaded glass. Its immense scale is evident when compared with the size of pedestrians. Its grand hall measured 500 feet long by 175 feet. Details on this fa??ade were plentiful and very carefully studied. According to James P. Boyd, an architectural critic,</p>
+          <q TEIform="q" direct="unspecified" type="block">However much one was prepared, or desired, to enter the Grand Palace, and nearly all preferred to visit it first, it seemed impossible to do so without repeating the view of its exterior... , and one seemed never to tire of studying the noble columnar effects produced on its fa??ade, nor the elegance and strength of the eight figures between the columns representing the different styles of Grecian, Roman, Phoenician and other national art. Equally fascinating was the repeated study of those exquisite mosaic friezes, extending from ground to second story, which reproduced to the eye the most brilliant epochs in world's history. Nor could one willingly cease to ponder again and again those many masterpieces of sculpture which imparted such a charm of strength, variety and beauty to the entire fa??ade</q>
+          <p TEIform="p">(Boyd, 168).
+					</p>
+          <p TEIform="p">Boyd quoted another precise description of the fa??ade, which said,</p>
+          <q TEIform="q" direct="unspecified" type="block">
+            <p TEIform="p">The stately fa??ade of the Grand Palais fronting upon the Avenue Nicholas II consists of a peristyle of columns in the manner of Louis XVI or of the middle of the eighteenth century. These columns are richly decorated with wreaths of oak and laurel, and at intervals groups of sculpture give relief to the long perspective. The central entrance to the Palais consists of three great arches, each divided by double columns, at the bases of which are four statues representing 'Architecture', 'Painting', 'Sculpture', and 'Music'. On either side of the great entrance are important colossal groups by MM. Gasq and Boucher. These groups are at the bases of the great motives of architecture flanking the entrance, and these are surmounted at a great height by sculptural efforts of great artistic excellence.</p>
+            <p TEIform="p">Here, in the case of the Art Palaces, color and form are kept strictly within the bounds of the higher taste in such matters, with the result that in this very reserve we find the more lasting satisfaction. We have said that this reserve we find the more lasting satisfaction. We have said that this reserve is noticeable both in color and form. It is certainly applicable to the very beautiful decorative frieze in mosaic running along the whole length of this fa??ade. The designer, M. Edouard Fournier, is to be congratulated on a really remarkable achievement. The color scheme consists in a most harmonious arrangement in reds, yellows, greens, and blues, gold being used with discretion and judgment.</p>
+            <p TEIform="p">Perhaps the best point of view from which to obtain a correct impression of this part of the Grand Palais is from the steps leading up to the corresponding entrance to the Petit Palais. And from this point, many criticims are passed upon the appearance of the circular glass and iron span of the roofing. And perhaps, if there is room for criticism, it is on this point. One must remember, however, the great difficulties presented by the problem of the internal lighting of so vast a space, a problem which is of the utmost importance in a building which is to contain works of fine art. Moreover, it may be truthfully stated that, except from this particular point of view, the defect, if defect it to be, is not noticeable in the favorable impression created by the building as a whole.</p>
+            <p TEIform="p">It is not too much to say that the Grand Palais, on the artistic merit of which so much depended, is a triumphant success, and that it will add to the just renown of the French architects of the close of the nineteenth century</p>
+          </q>
+          <p TEIform="p">(Boyd, 178).</p>
+          <p TEIform="p">The fa??ade was perfectly symmetrical, in order to attract attention to its center. Stone colonnades stood on either side of the primary entrance. While the colonnades had single columns, coupled columns supported the primary entrance. At the base of the colonnades sat four statues (they represented Grecian, Roman, Phoenician, and Renaissance Art) which were widely spaced. At the base of each coupled column were closely spaced statues representing Architecture, Painting, Sculpture, and Music. While lateral balustrades were adorned with coupled vases, the central portion was topped with two elaborate groups representing Art and Peace. Overall the rich decoration of the primary entrance, when compared with the colonnades bordering it, attracted visitors to the main entrance. 
+</p>
+          <p TEIform="p">The interior of the Grand Palais was as remarkable as its main fa??ade. It comprised of two stories. Upon entering the building from the primary entrance, one could see an immense hall. This grand hall divided the ground floor of the Grand Palais into two wings. The right wing was devoted to French art, while the left wing was devoted to the picture galleries of foreign nations, known as the Decennial Exhibitions of Fine Arts. The following countries participated: Belgium, Holland, Italy, Russia, Germany, Spain, Sweden, Denmark, Switzerland, Great Britain, United States, Austria and Hungary, Japan, Norway, and Portugal (Heinemann, 317). Exhibits were arranged according to their political importance. They featured sculptures, paintings, architecture, and engravings. The galleries of the French section of the grand hall were devoted to both the Decennial and Centennial Exhibitions. The Centennial Exhibition featured various displays of French art from the Empire, the Restoration, the reign of Louis Philippe, the Second Empire, and the Third Republic up to 1889. Annexed to the grand hall was an elaborate staircase (designed by Louvet) to the first floor, which housed several saloons and meeting rooms as well as exhibits from both the Centennial and Decennial Exhibitions. The layouts of both the ground and first floors provided remarkable vistas. 
+</p>
+          <p TEIform="p">Reactions toward the Grand Palais were mixed. The most common objection was that the main fa??ade (see fig) was overloaded with detail. It was felt that the decorations were too elaborate and sometimes unnecessary. Some felt that the circular glass and metal roof of the Grand Palais were not as aesthetically pleasing as the main fa??ade (Boyd, 178). Albert Chandler, a writer from <title TEIform="title" level="j" rend="italic">World's Fair Magazine</title>, claimed: "What can one say about the Grand Palais, a sort of railway station where masses of stone have been piled up to support what? ??? a high, thin roof of glass. A bizarre contrast of materials! It is as if a giant were flexing his muscles, stiffening his arms and making a tremendous effort to raise a simple head-dress of lace above his head!" (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html">http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html</xref>).</p>
+          <p TEIform="p"> Despite the negative criticisms of the Grand Palais, there were also praises for it. According to James P. Boyd, an architectural critic, "the details of the building are in strict keeping with the character of the general design, and take proper place as decoration" (Boyd, 177). Herbert E. Butler wrote in <title TEIform="title" level="j" rend="italic">Art Journal </title>that "beauty is the first thing to arrest the attention with its marvelous effect of distance and perspective and exquisite taste and judgement in details of decoration and color"(Butler, 9). 
+</p>
+          <p TEIform="p">Along with the Petit Palais and the Pont Alexandre III, the Grand Palais was built for permanence. The halls of the Grand Palais were reused at both the 1925 and 1937 International Expositions. Today it is closed to the public and under restoration. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Heinemann, William</author>.  <title TEIform="title" level="m" rend="italic">Exhibition Paris 1900 </title>. <pubPlace TEIform="pubPlace"> New York</pubPlace>:  <publisher TEIform="publisher">F.A. Stockes Coy</publisher>, <date TEIform="date">1900</date>. 311-320.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E</author>. "<title TEIform="title" level="a">The Paris Exposition, 1900</title>." <title TEIform="title" level="j" rend="italic"> The Art Journal.</title>. <pubPlace TEIform="pubPlace"> London</pubPlace>: <publisher TEIform="publisher">H. Virtue and Company</publisher>, <date TEIform="date"> 1901</date>. 9-10. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E </author>. "<title TEIform="title" level="a">The Palaces of Fine Arts </title>." <title TEIform="title" level="j" rend="italic">The Art Journal</title>. <pubPlace TEIform="pubPlace"> London</pubPlace>: <publisher TEIform="publisher">H. Virtue and Company limited</publisher>, <date TEIform="date">1901</date>. 41, 43-48. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Butler, Herbert E</author>. "<title TEIform="title" level="a">Some Views of the Grand Palais and of the Petit Palais</title>." <title TEIform="title" level="j" rend="italic">The Art Journal</title>.  <pubPlace TEIform="pubPlace">London</pubPlace>: <publisher TEIform="publisher">H. Virtue and Company</publisher>, <date TEIform="date">1901</date>. 294-301. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Boyd, James P</author>.  <title TEIform="title" level="m" rend="italic">The Paris Exposition of 1900</title>. <pubPlace TEIform="pubPlace">Philidelphia</pubPlace>:  <publisher TEIform="publisher">P.W. Ziegler &amp; Co.</publisher>, <date TEIform="date">1901</date>. 167-202. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Exposition Universelle 1900: The Chefs-D'oeuvre</title>. Vol. 10. <pubPlace TEIform="pubPlace">Philidelphia</pubPlace>:  <publisher TEIform="publisher">G. Barrie &amp; Son</publisher>, <date TEIform="date">1900</date>-<date TEIform="date">02.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Herbert, James D</author>.
+							<title TEIform="title" level="m" rend="italic">Paris 1937: Worlds On Exhibition.</title>
+            <pubPlace TEIform="pubPlace">Ithaca, N. Y.</pubPlace>:  <publisher TEIform="publisher">Cornell University Press</publisher>, 100. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Mattie, Erik</author>. <title TEIform="title" level="m" rend="italic">World Fairs</title>.  <pubPlace TEIform="pubPlace">Princeton, N.J.</pubPlace>. <date TEIform="date">1998</date>. 103, 106, 11, 180, 187. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Chandler, Albert</author>.
+							"<title TEIform="title" level="a"> Culmination - The Paris Exposition Universelle 1900: Progress of the Preparations for the Exhibition of 1900</title>." <title TEIform="title" level="j" rend="italic"> The American Architect and Building News</title>. Vol 57. no. 1133 <date TEIform="date">11 Sept 1897</date>. 90-91. 
+(<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html">http://charon.sfsu.edu/PARISEXPOSITIONS/1900EXPO.html</xref>). Accessed on (<date TEIform="date">26 April, 2001</date>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hunt, R.M.</author> "<title TEIform="title" level="a">The General Scheme for the Exhibition of 1900</title>." <title TEIform="title" level="j" rend="italic">The American Architect and Building News</title>. Vol 50. 19 <date TEIform="date">Oct 1895</date>. 31-32.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Anderson, A.</author> "<title TEIform="title" level="a">The Paris Exhibition Buildings </title>." <title TEIform="title" level="j" rend="italic"> Architectural Review</title>. Vol 7. <date TEIform="date">Jan - June 1900</date>. 28-37.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Wolf, Peter M.</author>
+            <title TEIform="title" level="m" rend="italic">Eugene H??nard and the beginning of urbanism in Paris 1900-1914</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">P.M.W.</publisher>, <date TEIform="date">1968</date>. 29-33.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

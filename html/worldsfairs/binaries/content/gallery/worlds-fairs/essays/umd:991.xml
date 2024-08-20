@@ -1,0 +1,153 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Plan of the Weltausstellung</title>
+        <title TEIform="title" type="sub">Vienna 1873</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Vienna International Exhibition (1873)">Vienna International Exhibition (1873)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Ly Y. Bui </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis </name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">12 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">9Vienna.xml </idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-23">February 23, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Weltausstellung from the Vienna International Exhibition (1873) created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Plan of the Weltausstellung; Vienna 1873</title>
+          <author TEIform="author"> Ly Y. Bui</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Vienna International Exhibition (1873)			
+			</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">Austria</item>
+            <item TEIform="item" n="settlement">Vienna</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Plan of the Weltausstellung; Vienna 1873<figure TEIform="figure" entity="umd:11240">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" rend="italic">Kunst und Kunstgewerbe auf der Wiener Weltausstellung, erstes Heft</title>, page 6.</figDesc>
+            </figure>
+          </head>
+          <p TEIform="p">This plan of the Vienna fair of 1873 forms one plate of a pamphlet entitled "Weltausstellung 1873 Wien" which measures about eight by ten inches, and was probably sold at the fair as a souvenir and guide.</p>
+          <p TEIform="p">By 1873 Vienna held a somewhat tarnished image in the minds of the rest of the world. The Austria-Hungary Empire had lost a significant amount of land and power over the last two decades, and a war with France, as well as conflicts with Prussia had triggered internal social and economic upheavals. Austria had several goals for the fair. It wanted to showcase its economic reconstruction, and Vienna's progress in city planning. It meant to eradicate its current reputation as an unstable country. According to fair commissioner Raimond Scramm, Vienna was also trying to position itself as a center of exchange between the East and the West. </p>
+          <p TEIform="p">Scramm's statement is supported by the fact that it was the Lower Austrian Trade Association that proposed the exposition in 1870. The current Emperor Franz Joseph approved the idea and put Wilhelm von Schwarz-Sendborn, the man who had organized Austrian exhibits at previous world's fairs, in charge. Schwarz-Sendborn wanted "a truly universal exhibition , that would embrace every field on which human intellect has been at work" (87, Thurston). Changed from the initial label of "Welt-Industrieausstellung (International Industry Exhibition)," the name of the fair was chosen to represent the principle of universalism. It was finally baptized "Weltausstellung", meaning International Exhibition.</p>
+          <p TEIform="p">Vienna's Prater Park, located in the northeast section of the city, was chosen as the exposition site. The park was approximately 4,000 acres and consisted of lawns, gardens, and forests. It was five times larger than the Champ de Mars in Paris, and easily accessible by foot, rail, boat, and road. Surrounded by the Danube River and Canal, the park was an isolated island that would have been ideal for a fair. The earliest mention of the Prater Park was in 1162, when it was a favorite hunting ground for royalty and aristocrats. Emperor Joseph II opened the park to the public in 1766. Today, it still operates as an amusement park, attracting tourists from around the world. </p>
+          <p TEIform="p">This fair was the first exposition to use multiple buildings instead of one main structure. As displays became more numerous, it became increasingly difficult to fit everything into just one structure, and the Austrian government decided to construct separate buildings to display different aspects of human activity. </p>
+          <p TEIform="p">The most prominent feature on the map is the Rotunda, the enclosed circular building just to the left of the center of the map. The rotunda was actually just one part of the Palace of Industry, which expanded on either side to form a horizontal strip about 2.953 feet long, running from east to west (this is seen as the narrow horizontal strip bisecting the Rotunda on the map), with shorter corridors intersecting it. This created a series of twenty-eight galleries that displayed an international array of industrial products. The palace was designed to be a permanent structure, and was used after the exposition to hold trade shows. When it burned down in 1937, new trade fair exhibition halls were built that still remain in use today.</p>
+          <p TEIform="p">The Machinery Hall ran parallel to, and was located north of, the main building, towards the top of the map. It was 2060 feet long and 125 feet wide. It consisted in a single room, 60 feet high, and was built with brick walls and an iron roof. The building could accommodate two parallel railway tracks, and was reused as a storage building for the Great Northern Railway after the fair was over. </p>
+          <p TEIform="p">The Art Hall, directly to the east of the rotunda and main exposition buildings.. It was 100 by 600 feet and made of brick, with stucco finish on the outside. It held mostly paintings, with a few statues and statuettes dispersed throughout. Art exhibits were divided into three categories: fine art, religious art, and amateur art. </p>
+          <p TEIform="p">For national exhibits, Schwartz-Senborn gave countries space on what he personally thought their economic position in the world was, with the more economically prominent countries receiving more space. This, of course, angered some countries, especially Germany, who disagreed with its ranking. To make amends, this country was given permission to extend its displays through the use of vast annexes throughout the fair site. The position of various countries at the fair was determined by their relative position on the globe. The were located, from east to west: Japan, China, Turkey, Egypt, Russia, Greece, Hungary, Austria, Germany, Belgium, Holland, Sweden, Norway, Denmark, Italy, Switzerland, France, Spain, Portugal, Great Britain, Brazil, South America, and finally the United States. Smaller pavilions, not visible on the map, were interspersed between the main halls. There were arcades, dance halls, restaurants. </p>
+          <p TEIform="p">The Baron's vision of a grand universal event failed to materialize. About half of the exposition space was reserved for Vienna's own exhibits, while the other half was given to showcase the rest of the world. The United States didn't realize how significant the fair was until it was too late to prepare an exhibit, and were sorely missing from the exposition. Great Britain did not display anything new, and France had just been defeated in the Franco-Prussian war, and was not equipped to prepare a comprehensive exhibit.</p>
+          <p TEIform="p">Vienna's reputation also did not improve as a result of the fair. The site itself wasn't even ready when the exposition was officially opened, adding to the view of Austria as a perpetually unprepared country. Days after the opening ceremony, the Viennese stock market crashed, causing a depression and severe unemployment. There was also an outbreak of cholera during the summer of the fair, and a flood that damaged buildings towards the end. This, and the fact that vendors were charging high prices for their goods and services, discouraged visitors from coming to the exposition. Vienna never held another world fair after 1873.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. New York: Greenwood Press, 1990.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Great Britain Royal Commission for the Vienna Universal Exhibition of 1873</title>. London: H.M. Stationary Office, 1874
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Gindriez, Charles</author>. <title TEIform="title" level="m" rend="italic">International Exhibitions </title>. New York: A.S. Barnes and Company, 1878.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">Scramm, Raimond. <title TEIform="title" level="m" rend="italic">The World's Fairs: Letters on International Exhibitions by a Commissioner to Vienna in 1873 </title>. Geneva: Printing Office of the Continent and Swiss Times, 1879.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Thurston, Robert Henry</author>. 
+						<title TEIform="title" level="m" rend="italic">Reports of the Commissioners of the United States to the International Exhibition held at Vienna, 1873</title>. Washington. D.C.: Government Printing Office, 1876.
+					</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

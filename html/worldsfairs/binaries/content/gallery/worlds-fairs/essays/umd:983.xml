@@ -1,0 +1,146 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Memorial Hall</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Centennial Exhibition (1876 : Philadelphia, Pa.)">Centennial Exhibition (1876 : Philadelphia, Pa.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">David Coleman </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by:<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by:<name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by:<name TEIform="name">Cindy Larimer</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">10 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">wfc-essay02.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-22">December 22, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on Memorial Hall at the Centennial Exposition of 1876 in Philadelphia, Pennsylvania created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Memorial Hall</title>
+          <author TEIform="author">David Coleman </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words,and empahisized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="other">Memorial Hall (Philadelphia, Pa.)</name>
+            </item>
+            <item TEIform="item">Exhibition buildings. Design and construction </item>
+            <item TEIform="item">
+              <name TEIform="name" type="personal">Schwarzmann, Hermann J., 1846-1891</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">Centennial Exhibition (1876: Philadelphia, Pa.) </name>
+            </item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Pennsylvania</item>
+            <item TEIform="item" n="settlement">Philadelphia</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Memorial Hall
+		   <figure TEIform="figure" entity="umd:807"></figure>
+          </head>
+          <p TEIform="p">This picture of Memorial Hall is printed on a scarf. Scarves and ribbons were common souvenirs at the early world's fairs. Many visitors, especially those from a different region or country would purchase and wear them to show that they had traveled to the exposition, much like the T-shirt industry today.</p>
+          <p TEIform="p">The massive domed building in Fairmont Park, Philadelphia, is the only major structure remaining from the Centennial Exhibition in 1876. Memorial Hall served as the Art Gallery for the fair and was designed to become a permanent museum. The building was commissioned and paid for by the State of Pennsylvania and the city of Philadelphia. The budgeted amount for the hall was $1,500,000 and it cost just $64,000 more than planned. </p>
+          <p TEIform="p">Although smaller than other major buildings at the 1876 fair, Memorial Hall is massive. Its footprint takes up an acre and a half. It is 365 by 210 feet, and 59 feet tall, with a 150-foot dome sitting on top. Below the building is a 12-foot deep basement. Perched atop the dome is a statue of Columbia standing 23 feet 6 inches tall. Three arched doorways each 15 feet wide and 40 feet high mark the entrance to the hall. The doors of the archways are made of iron and have bronze panels with reliefs of the coat of arms of each state and territory. The United States coat of arms is in the center. Between the arches are two clustered columns crowned with small statuettes symbolizing Science and Art. Around the base of the dome are four statues, set on the corners, representing Commerce, Industry, Mining, and Agriculture. </p>
+          <p TEIform="p">The main entrance opens to a hall 82 feet deep, 60 feet wide, and 53 feet high. From this room three doors lead into the central hall, which is 83 feet square with a ceiling raised to 80 feet under the dome. To either side of the central hall are the main galleries, each measuring 98 by, 84 feet, and 35 feet high. When the temporary dividers are removed and the galleries join the main hall, they create what was at the time the largest hall in the country. This combined hall can be 287 feet long, by 85 feet wide, enough to hold 8,000 people. Above the hall is a grand balcony promenade 275 feet long and 45 feet wide, from which one can overlook the beautiful northern quadrant. Overall the building provides 75,000 square feet of wall surface for paintings and 20,000 of floor space for sculptures.</p>
+          <p TEIform="p">Raised on a six-foot platform overlooking the Schuylkill River, Memorial Hall housed the first international art exhibit in the United States. Participating countries contributed so many works that even this massive structure could not showcase them all. An additional Art Annex was erected about a hundred feet behind Memorial Hall and covered about an acre. It consisted of 36 skylight galleries. An entire additional building was needed to house photographic art. As fireproofing was a major concern Memorial Hall was built without wood, using only granite, glass and iron. The walls of the Art Annex were lined with asbestos, making them fireproof as well. Memorial Hall was further adorned by two very large bronze statues of Pegasus on either side of the entrance. </p>
+          <p TEIform="p">The architect of Memorial Hall was Hermann J. Schwarzmann (1846-1891), who studied engineering as a military cadet. He continued his training in Germany before coming to the United States. In 1869 he was appointed assistant engineer at Fairmont Park where he soon became a key player in making it the best urban park in the country. When he designed Memorial Hall he was still a young and inexperienced architect. It is believed that he was inspired by the winning design for a Palace for An Exhibition of Fine Arts, the topic proposed for the Paris ??cole des Beaux-Arts Prix de Rome competition in 1867 (for an illustration of this Premier Grand Prix, see Drexler, 241). It is worth mentioning that Schwarzmann built a large outer cupola to catch the light and then a smaller flatter dome inside to direct illumination to the desired places. </p>
+          <p TEIform="p">Memorial Hall became the prototype, both from a stylistic and organizational standpoint, for other museums such as the Art Institute of Chicago (1892-1893), Milwaukee Public Museum (1893-1897), Brooklyn Museum (1893-1924), and Detroit Institute of Art (1920-1927). Libraries like the Library of Congress, New York Public Library and Free Library of Philadelphia also emulated its form. And the organizers of the Louisiana Purchase Exposition followed the precedent established by Memorial Hall when they decided to erect their Art Building as a permanent structure. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <name TEIform="name">Drexler, Arthur</name> (ed.) <title TEIform="title" level="m" rend="italic">The Architecture of the ??cole des Beaux-Arts</title>. Cambridge Massachusetts: <publisher TEIform="publisher">MIT Press</publisher>, <date TEIform="date">1977</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Maass, John</author>
+            <title TEIform="title" level="a">Memorial Hall 1876</title>. <title TEIform="title" level="j" rend="italic">Architectura</title>.; <date TEIform="date">1971</date>-<date TEIform="date" value="1972">72</date> p, 127.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Magee, R</author>
+            <title TEIform="title" level="m" rend="italic">Magee's Illustrated guide of Philadelphia and the Centennial Exposition</title>. Philadelphia: <publisher TEIform="publisher">R. Magee</publisher>, <date TEIform="date">1876</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Sandhurst, Phillip</author>
+            <title TEIform="title" level="m" rend="italic">The Great Centennial Exposition</title>. Philadelphia: <publisher TEIform="publisher">P. W. Ziegler &amp;Co.</publisher>, <date TEIform="date">1876</date>.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

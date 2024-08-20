@@ -1,0 +1,162 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Belgian Pavilion </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exposition internationale (1937 : Paris, France)">Exposition internationale (1937 : Paris, France)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Sesan Iwarere </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">10 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">31Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Belgian Pavilion at the 1937 Exposition Internationale in Paris, France created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Belgian Pavilion </title>
+          <author TEIform="author">Sesan Iwarere </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Exposition internationale (1937 : Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Belgium Building.  Exposition internationale (1937 : Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Belgian Pavilion <figure TEIform="figure" entity="umd:947">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" level="m" rend="italic">L'Illustration</title> Vol. 95, No. 4917 (May 29, 1937).</figDesc>
+            </figure>
+          </head>
+          <p TEIform="p">The International Exposition of 1937 marked a competitive showing of national pavilions. The large representation of foreign nations was quite remarkable given that the Exposition was held during the Great Depression. The Belgian Pavilion had pride of place among these national pavilions. Its chief architect was Henry Van de Velde (1863-1957). A major pioneer who at the very beginning of the twentieth century helped Belgium establish a leading role in the Art Nouveau movement, Van de Velde was intrigued by the theme of the fair, the connection between the arts and techniques of modern life. 
+		</p>
+          <p TEIform="p">This photograph was published in a 1937 issue of <title TEIform="title" level="m" rend="italic">L'Illustration</title>, a French news weekly which catered to the conservative middle class. The Belgian Pavilion had a prominent location in the fairgrounds as the first structure situated Northeast of the Eiffel Tower along the bank of the Seine River, which French Prime Minister L??on Blum, and Leopold III, the King of Belgium, had agreed upon. Belgium's prestigious location can be attributed to its historical ties with France. In 1794, Belgium was conquered and annexed by France and that stayed under the French Empire of Napoleon until 1815, during which time French became one of the country's national languages.</p>
+          <p TEIform="p">The architecture of the Belgian pavilion marked a change from its previous pavilions at the 1900 and 1925 fairs, which were patterned after historical monuments in Belgium. The former was an exact reproduction of the City Hall at Audenarde, while the latter related to the gigantic Palace of Justice in Brussels. While these earlier structures stood relatively tall and vertical, the 1937 pavilion was quite low and horizontal, as opposed to the towering Soviet and German pavilions directly across the Seine River. 
+</p>
+          <p TEIform="p">The Belgian Pavilion stood out from the other pavilions of the Exposition. The motto of the building was "originality in concept / perfect in execution" (Industries). Henry Van de Velde designed the exterior along with collaborating architects, Jean-Jules Eggerick (1884-1963) and Raphael Verwilghen (1888-1963). Van de Velde patterned the pavilion after the Industrial Art of Belgium. It was composed of terra cotta plaques that measured 80 by 60-cm. The pavilion used modern architecture with its simple geometrical forms and uniform surfaces. The horizontal lines of the pavilion are emphasized by its proximity to the ground. Gardens, designed by Louis Van der Swalmen, surround the exterior of the pavilion. The interior of the pavilion showed the refinement and comfort which Belgians enjoyed at home and in their personal life. It contained magnificent tapestries, crystals, and Belgian furniture. 
+</p>
+          <p TEIform="p">The reactions to the Belgian Pavilion were mixed. The American architectural historian Henry Russel Hitchcock, a champion of modernism wrote,</p>
+          <q TEIform="q" direct="unspecified" type="block">The Belgian pavilion is a rather disappointing work of the grand old man of European architecture, Henri Van de Velde, for which perhaps his younger associates may be blamed. It is most effective at night when the heaviness of its red terra facing to some extent disappears. But beside the lightness and vitality of the illuminated Eiffel Tower, it appears even at night to belong to another world. Although without much distinction of proportion, its thin curtains of white pale blue and yellow, and its opposite wall of red marble and mirror is vying more successfully than do most of the sumptuous interiors of this building with the comparable splendors</q>
+          <p TEIform="p">(Hitchcock, 168).</p>
+          <p TEIform="p">Serge Chermayeff (1900-1996), another well known Modernist architect, wrote: "The Belgian pavilion is very Belgian: solid (perhaps too solid for an Exhibition building) and a trifle unimaginative, but a serious piece of architectural design well adapted to the type of display and in most cases well detailed" (Chermayeff, 109).
+</p>
+          <p TEIform="p">The International Exposition of 1937 was a remarkable display of national pavilions, of which the Belgium Pavilion was a vital asset. Following the Exposition, it was demolished and Van de Velde's attempt to reconstruct a replica in Brussels was unsuccessful. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Findling, John E</editor>., editor, <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Industries et tiers d'art en Belgique 1937</title>. Bruxelles: [ s.n. <date TEIform="date">1937</date>].</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">The 1937 International Exhibition, Paris ??? An International Exposition of Arts and Techniques Applied to Modern Life.</title>."  <title TEIform="title" level="j" rend="italic">Architectural Record</title>. Vol 82. <date TEIform="date">Oct 1937</date>. 81-83. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Verger, Pierre</author>. <title TEIform="title" level="m" rend="italic">Exposition 37: 60 Photographies</title>.  <pubPlace TEIform="pubPlace">Paris</pubPlace>: <publisher TEIform="publisher">Arts et Metiers Graphiques</publisher>. <date TEIform="date">1937</date>. 22-23.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Chermayeff, Serge</author>. "<title TEIform="title" level="a">Circulation: Design: Display The Architect at the Exhibition</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title>. Vol. 82. no. 488. <date TEIform="date">July 1937</date>. 91-96, 98, 107, 109. 
+
+ </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Exposition 1937: Introduction de Jacques Gruber Presentation de Henri Martin</title>. <pubPlace TEIform="pubPlace">Paris</pubPlace>: <publisher TEIform="publisher">Editions Art et Architecture</publisher>. 4 vols. Vol 4. Decoration Interieure. <date TEIform="date">1937</date>. 25-28.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hitchcock, Henry Russel</author>. "<title TEIform="title" level="a">Paris 1937</title>." <title TEIform="title" level="j" rend="italic">Architectural Forum</title>. Vol 67. <date TEIform="date">July 1937</date>. 168 
+</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

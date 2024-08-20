@@ -1,0 +1,153 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">The San Francisco Golden Gate Exhibition 1939-1940 </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Golden Gate International Exposition (1939-1940 : San Francisco, Calif.)">Golden Gate International Exposition (1939-1940 : San Francisco, Calif.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Anna Burrows </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">17 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">33SanFrancisco.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-17">January 17, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the aerial view of the Golden Gate International Exposition held from 1939-1940 in San Francisco, California created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">The San Francisco Golden Gate Exhibition 1939-1940 </title>
+          <author TEIform="author">Anna Burrows </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">         
+     <name TEIform="name" type="personal">
+						Moulin, Gabriel, 1872-1945
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Golden Gate International Exposition (1939-1940 : San Francisco, Calif.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">California</item>
+            <item TEIform="item" n="settlement">San Francisco</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">The San Francisco Golden Gate Exhibition 1939-1940<figure TEIform="figure" entity="umd:11520"></figure>
+          </head>
+          <p TEIform="p">In 1939, the city of San Francisco hosted an international exhibition, named the Golden Gate Fair in honor of the construction by the city of the world's two largest suspension bridges, the Golden Gate and San Francisco-Oakland, which spanned the San Francisco Bay. With all the skill that could be mustered by American engineers, an island was constructed amidst the Pacific waters, becoming the largest ever manmade island. Christened Treasure Island, this would be the location of the 1939 Exhibition. The visions of a fair surrounded by the glory of the Pacific Ocean had finally materialized. However, this captivating scene took place as Europe verged on the edge of disaster. Germany had already begun its annexation of neighboring countries and threatened to unleash conflict on a global level. In only two short years the United States would be fully involved in this catastrophe. Furthermore, at the time of the fair the United States had just emerged from the Great Depression, which had affected the country in many ways. This fair seemed to provide a brief interlude between these two very difficult times in American history. For this event the U.S. decided to turn attention away from the international climate and focus on the beauty of the Pacific, which ironically is named for peace. 
+
+		</p>
+          <p TEIform="p">This photograph is a 3 X 5 black and white silver gelatin print. This is one of a collection of sixteen taken by the photographer, Gabriel Moulin. This picture is an aerial shot which gives a bird's eye view of the fair. From this overhead, one can easily see the layout of the fair with its various buildings, as well as the location of the island within the blue crystalline waters of the Pacific, the causeway which connected the island to the Bay Bridges, as well as boats for fairgoers. These were the two most popular modes of transportation to the fair. </p>
+          <p TEIform="p">A silver gelatin print is another way of describing a black and white photograph taken on a high gloss paper. This photographic technique is noted for the richness of contrast it lends to the picture, with sharp whites and deep blacks. This kind of picture usually comes in one of three types depending on the chemicals used, either sliver bromide, silver chloride, or chloro-bromide. They are also known for their resistance to damaging environmental factors such as heat, light, and humidity. On average, they can last more than one hundred years. For these reasons, this method of photography was not only effective from an artistic standpoint, but it also has allowed images of the fair to survive for many years. </p>
+          <p TEIform="p">Before the details of the exhibition are discussed, attention is first due to the creative mind behind the photographic record of this event. Gabriel Moulin was born in 1872 in San Jose, but in 1884 would move to San Francisco. At the time of the Golden Gate Exhibition, he was certainly not new to the idea of world's fair photography. By age 22 he had photographed the Midwinter Fair in Golden Gate Park for his mentor Isaac Taber, who was a leading photographer at the time. Gabriel had studied under Taber since the age of twelve. Moulin also received an official commission to capture on film San Francisco's Panama-Pacific Exposition in 1915. Gabriel devoted the rest of his life to a photographic study of his beloved San Francisco, immortalizing it as it underwent many changes. His collection of the Golden Gate Exposition included not only this overhead shot, but also views of the various courts from the ground level, including the Court of the Moon and Pacifica. He would pass this art of distinguished photography to his sons, who would pass it to theirs. One aspect of his photographic style which made it so exceptional was his calculated use of light and shadow to create the most effective and striking portrayal of his subject. Several of images would be used for U.S. postage stamps, including a rendering of A.P. Giannini, who founded the Bank of America. The Moulin family would remain a legacy for American photographers. </p>
+          <p TEIform="p">The goals of the exhibition were two-fold. As previously mentioned, the United States desired to celebrate the completion of the Golden Gate and San Francisco bridges. A second reason for the exhibition was a new phenomenon, Pacific unity. This new movement sought to express a common spirit between the islands of the Pacific, and led to our modern concept of the Pacific Rim. Hence the presence of pavilions from many of the nations of the Pacific, which sought to bring attention to the unique nature of these cultures. This second objective also clearly manifested itself in the landscape and architecture of the exhibition. </p>
+          <p TEIform="p">Devised by the Californians, a style dubbed "Pacifica" aimed to merge architectural concepts from both the eastern and western Pacific coasts. The architect in chief was George W. Kelham, who worked with colleagues such as Arthur Brown, Jr., Lewis P. Hobart, William G. Merchant, Timothy L. Pflueger, and Ernest E. Weihe. The influences of Cambodia, Malaysia, Siam, and East Asia, as well as Mayan and Incan Latin America, could be seen through features such as pyramids, elephant heads, and even pilasters meant to imitate those of Angkor Wat. In collaboration with the architectural theme, several sculptures by William Gordon Huff communicated the general aims of the exhibition, with some also placing an emphasis on prehistoric animals from this region. Four statues surrounded the Tower of the Sun in its cardinal directions. They were meant to represent Science, Agriculture, Industry, and Art. Huff also worked on the Paleontology Exhibit of the University of California, which included small ingenious figurines of animals from the Pleistocene Age, as well as large bas-reliefs. These species were thought to have once inhabited Southern California and resulted from the La Brea tar pit excavation. In addition, botanists brought rare and tropical species such as orchids, hibiscus, and datura, as well as silver trees, orange trees and palm trees to their exhibition. To assure that these delicate breeds could adjust to the San Francisco climate, they were nursed months before the fair in electrically heated plant beds in a city plant hospital. There was a total of 4,000 trees, 70,000 shrubs and 700,000 blooming plants. To sustain the health of all this vegetation, a 3,000,000 gallon reservoir was hollowed out in the rock bed of nearby Yerba Buena island in order to irrigate Treasure Island via a pipeline extending over the San Francisco-Oakland Bridge. 
+</p>
+          <p TEIform="p">Along with these stunning architectural and horticultural displays, the island itself was quite an international marvel. The construction process for Treasure Island was one of immense work and hard labor. The exact site of the island was the shoals just to the north of a pre-existing island, Yerba Buena, which in the past had been a U.S. Naval outpost. These shoals were at a place where the ocean floor was only 26 feet down from the water's surface, creating a danger zone that was much avoided by seamen. Here, 287,000 tons of quarried rock was laid. Much of the ocean floor was dug out and combined with the rock to form wall structures that rose 13 feet above the waterline. This material was then leached to remove the salt, and reinforced with 50,000 cubic yards of loam. These efforts resulted in an island measuring one mile in length, two-thirds of a mile in width, and 400 acres in area. The fair-goers reached this destination by a 900-foot long causeway that connected Treasure Island with the Bay Bridge. There were also landings and ferry slips for small boats to dock at the island, providing a secondary and scenic means of getting to the fairgrounds. </p>
+          <p TEIform="p">Administrative buildings included an office building that cost 800,000 dollars, as well as two hangars of steel and concrete. These both measured 335 feet by 78 feet and cost 400,000 dollars. Although their original purpose was to house the art and exhibits of many nations, these large structures later enabled Treasure Island to become the city's main airport In contrast to their initial use as shelters of international artifacts, they were later used as a primary airbase for the United States military forces in the Pacific during World War II. 
+</p>
+          <p TEIform="p">The master plan centers on a Court of Honor, where the two main thoroughfares intersected. At this point rose the magnificent Tower of the Sun, which can be easily noted in the photograph. This light-covered structure was the identifying feature of the exhibit. Tumbling out to the east was a Court of the East which led to the Lake of All Nations, which was a lagoon which framed the United States Government Building and an open display area. In the northern direction was the Court of Pacific, an entrance which led into an uncovered pageant area, and the Cavalcade of the Golden West. Following along this same road in the southern direction, the Avenue of the Seven Seas, was the Port of the Trade Winds which had docking for seagoing vessels. There was an international pavilion and Pacific Nations' Exhibit Area which held displays of more than forty principalities. The states of the U.S. were represented inside the Federal Building and the Hall of the Western States. A circular boulevard which spanned the island's circumference was lined with such imaginative exhibits as the Chinese City, Streets of the World, and Hollywood Boulevard. In addition, there was a large-scale relief map of the Western part of the United States that could be walked through on foot. The commercial products as well as developing technologies of U.S. corporations were showcased in several places including the Halls of Varied Industries, Foods and Beverages, Homes and Gardens, Electricity and Communications, Metals, Machinery, Homes and Gardens, Mines, Science and Vacationland. There was also a "mineral mountain" of ore which showed gold mining in process. 
+</p>
+          <p TEIform="p">Another characteristic of the fair that not only received much recognition as a technological advance, but also served as a dazzling artistic touch, was the lavish use of electric lights. The task of illuminating the island was a challenge in itself because of its geographic isolation. This feat was accomplished by the use of three 9,000 foot underwater cables, which provided the more than 40,000,000 kilowatt hours required during the length of the fair. The Gayway was directly lit as part of the entertainment, but the other walkway areas were lit with hanging side lanterns. These were an eclectic mix of styles and sizes, ranging from 86 foot high cylinders of canvas coated with glyptol, to traditional Siamese umbrellas and 70 foot stucco walls studded with superheated mica called vermiculite, which emitted a soft radiance. The canvas cylinders each carried one hundred 60-watt and one hundred 40-watt lamps. This conglomerate would require a total of 10 kilowatts of current, as well as large amounts of covering material. There were also countless flood and fluorescent lamps peeping out of the greenery, the latter all filled with a spectrum of tinted gases. There also was the revolutionary use of ultraviolet mercury in "black lamps". Several colors were frequently combined to create the desired effect on the architecture and gardens. This array of luminescence was further complemented by special army-sized lamps positioned on the northern tip of Yerba Buena Island, which all together generated a light source visible for 100 miles. The overall effect of this spectacular lighting was to create a truly brilliant night time view of the island. 
+</p>
+          <p TEIform="p">In so many ways, this fair provided an unforgettable moment, where so many different nations came together to celebrate their diversity as well as unity. This was shown through the architecture, sculpture, lighting, and even floral design. Gabriel Moulin captured the grandeur of this event with his crystalline photography of the exhibition, with as this bird's eye view. His series of pictures dedicated to this event allowed the fair to exist beyond its means, as a time to be savored. In just a short time the breathtaking Pacific, the indescribable scene of the fair, would be devastated with the most horrific war the world had ever seen. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">James, Jack</author>. <title TEIform="title" level="m" rend="italic">Treasure Island, "The Magic City"</title>. <pubPlace TEIform="pubPlace">San Francisco</pubPlace>: <publisher TEIform="publisher">Pisani Printing and Publication Company</publisher>, <date TEIform="date">1941</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">Treasure Island Museum Homepage. "<title TEIform="title" level="a">1939-1940 World's Fair</title>." "<title TEIform="title" level="a">Pan Am China Clippers</title>." "<title TEIform="title" level="a">Light house</title>." "<title TEIform="title" level="a">Technology</title>." (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.dictyon.com/treasure">http://www.dictyon.com/treasure </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">Museum Of The City of San Francisco. "<title TEIform="title" level="a">Lighting the Treasure Island World Fair</title>." "<title TEIform="title" level="a">Pacifica- A New Style of Architecture at the Treasure Island World's Fair</title>." "<title TEIform="title" level="a">Treasure Island World's Fair</title>." (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://sfmuseum.org/hist6/ti-statue.html">http://sfmuseum.org/hist6/ti-statue.html </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">Biography of Gabriel Moulin (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.moulinstudios.com/history.htm">http://www.moulinstudios.com/history.htm </xref>).</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

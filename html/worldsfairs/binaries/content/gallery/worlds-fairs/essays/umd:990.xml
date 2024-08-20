@@ -1,0 +1,167 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Paris 1855</title>
+        <title TEIform="title" type="sub">The Universal Exposition Interior and Exterior of the Palace of Industry</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exposition universelle de Paris en 1855">Exposition universelle de Paris en 1855</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Matt Linkswiler</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis </name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">15 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">8Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-16">February 16, 2006 </date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on Palace of Industry from the Exposition universelle de Paris en 1855 created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">The Universal Exposition Interior and Exterior of the Palace of Industry </title>
+          <author TEIform="author">Matt Linkswiler </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Viel, Jean-Marie-Victor						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Barrault, Alexis						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Exposition universelle de 1867 ?? Paris
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Palais de l'Industrie (Paris, France)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">The Universal Exposition Interior and Exterior of the Palace of Industry <figure TEIform="figure" entity="umd:789"></figure>
+            <figure TEIform="figure" entity="umd:791"></figure>
+          </head>
+          <p TEIform="p">These selected images, an exterior view of the Palace of Industry and a view of the interior of the palace during the distribution of awards, are both detailed views from which much can be observed. Since both images are illustrations, as opposed to photographs, they may not be entirely accurate. The image of the interior is a lithograph, which is approximately thirty-five inches by fifteen inches. Because of the medium employed, the details of the image are not very sharp, but many details are included. Emperor Napoleon III can be seen handing out the awards, and his empress is seen seated behind him. The other image appears to have been taken from a French newspaper article. Today, the actual paper is very old, as can be evidenced by the large tear in the middle of the picture and its worn edges. The actual size of the illustration is about fifteen inches long and eight inches wide. Most significant about the Palace of Industry are its historical precedents, the evolution of its design, its successes and failures, and finally its role at the fair. </p>
+          <p TEIform="p">After London hosted the first international exposition in 1851, Napoleon III realized that France needed to seize back the initiative. The motive given for the 1855 Paris exposition was to celebrate forty years of peace in Europe since Waterloo (Findling, pp. 16-17). A hidden agenda, however, was the competition among the major European nations, to establish their industrial and artistic supremacy. Napoleon III decided that France needed a spectacular structure "based on the plan of the Crystal Palace of London" (Lavedan, p. 228). Therefore, in 1852, France held a competition for a Palace of Industry, a permanent exhibition structure which would be located between the Seine River and the Champs-Elys??es. The winners of this competition were the architect Jean-Marie-Victor Viel and engineer Desjardin, whose design was more traditional than most of the other competitors, and who attempted to duplicate more closely the Crystal Palace. Viel's architectural inspiration came from a few recent buildings that combined the traditional use of masonry with that of cast iron (Steiner, p. 92). The most prominent example of this was the Biblioth??que Sainte-Genevi??ve designed by Henri Labrouste in 1839. This Parisian university library, when it was completed in 1843, was one of the first buildings in which iron and cast iron were used on a large scale behind a stone fa??ade. It is certain that Viel's intention was to emulate the Neo-Renaissance architecture used by Labrouste, as evidenced by his long rows of arched windows (Lavedan, p. 228). Also, Viel took his cue from the glass and metal canopies of the first Parisian railroad stations, markets, and greenhouses (Hautecoeur, p. 314). However, Viel's winning design was too expensive and no contracting firm would undertake the project. In December 1852, York and Company agreed to take the project after a few modifications. They were willing to preserve the original dimensions, but needed to cut back on the use of masonry to reduce the price. They kept all of the iron framework, but nearly halved the amount of masonry. This reworking of the design was performed by Mr. Cendrier, an architect, and Alexis Barrault, an engineer. After a few more changes York and Company decided to keep only Viel and Barrault-Viel having been responsible for the masonry envelope and Barrault for the iron framework inside. In the final design, the only masonry that was used was for the exterior walls, which were to be one meter thick and eighteen meters high. These massive walls were barely able to support the weight of the projecting cornice, so they needed to be reinforced with cast iron columns and beams. Barrault commented that, "all complicated arrangements are unattractive and denote inaccuracy of construction or poor distribution of material" (Steiner, p. 93). His interior was composed entirely of simple iron members with no ornamentation. Barrault called his approach "structural honesty" because the integrity was not hidden behind plaster, as it had been in the original design by Viel (Steiner, pp. 93-94). </p>
+          <p TEIform="p">The Palace of Industry measured 850 feet long and 350 feet wide. The principal nave itself was 630 feet long, 158 feet wide and connected on four sides by two story high, ninety-eight foot wide aisles. It contained semi-circular trusses which bridged an 80 foot span to create an enormous exhibition room. This giant structure was located on a triangular plot of land which was bordered on its sides by the Cours la Reine, the Avenue d'Antin, and the Avenue des Champs-Elys??es. It completely blocked the view of the Invalides (Lavedan, p. 228). As can be seen in the exterior picture of the palace, many trees surrounded the building and added an almost rural atmosphere to the exposition site, which was in the center of the second largest city in Europe. However, the main failure of the Palace of Industry was its poor ventilation, which made the building extremely hot during the day. The attempted remedy was the use of muslin screens, which proved ineffectual. Also, despite its immense size, the palace was not large enough to house all of the expected exhibitors, so two temporary buildings were constructed to house the remaining displays (Findling, p. 18). </p>
+          <p TEIform="p">The image of the interior depicts the closing ceremonies of the exposition on November 15, 1855. Awards were presented to individuals for excellence in their exhibits. The tradition of distributing awards for exhibits had begun long before in the 18th century. Under the Directoire in the 1790's, French exhibitions were held to display both industrial and artistic accomplishments. The French realized that since these accomplishments would impact upon the growth and well-being of the nation, "giving medals to the most meritorious would stimulate innovation and emulation" (Findling, p. 17). While this tradition had occurred for years in France as a national event, the world's fairs in London in 1851 and in Paris in 1855 were the first two major international exhibitions for this purpose. Because of this, the emperor himself was at the awards ceremony. As part of the entertainment, Berlioz conducted his Imp??riale cantata performed by twelve hundred musicians (Findling, p. 17)! Considered to be "the expression of degrees of advancement attained in the different branches of industry by the different nations of the world" (Tach??, p. 355), prizes were awarded by the International Jury. The awards were divided into 27 different classes, including mining, metallurgy, forestry, weaving, scientific instruments, chemical products, food preparation, medicine, glass and pottery, fabrics, and musical instruments, making it possible to compare exhibits which were fundamentally similar. In each class, there were three different varieties of awards. For the highest achievements, a Grand Medal of Honor was awarded. On the next tier of accomplishment, a Medal of Honor was given to the exhibitors. Finally, the remaining individuals who displayed notable achievement in their class received either a Medal of First or Second Class or an Honorable Mention. These awards bolstered the French spirit because a vast majority of them went to French individuals, largely due to the fact that France was represented far more than any other nation (Tach??, pp. 355-356). Despite its many award-winning exhibitors and numerous visitors, the fair still managed to suffer a loss of 8.3 million francs (Findling, p. 19). </p>
+          <p TEIform="p">In 1900, after forty-five years of use, the Palace of Industry was torn down to make room for the Grand Palais, one of the new structures for the 1900 Paris Exposition (Mignot, p. 199). In the 20th century, the Palace of Industry has come under criticism because of its traditional masonry fa??ade. However, Frances Steiner, author of French Iron Architecture, makes the point that the Palace of Industry "should not be considered less progressive than the Crystal Palace because of its use of stone because it was meant to be a permanent exhibition hall." As opposed to Paxton's creation, the Palace of Industry was built to be a lasting structure, and not merely an experiment. The irony of this situation, is that the Crystal Palace actually outlived the Palace of Industry (Steiner, pp. 93-94). </p>
+          <p TEIform="p">The Palace of Industry was a great feat of architecture. It demonstrated the fusion of traditional Neo-Renaissance architecture with modern materials and served as the inspiration for the designs of Parisian department stores (Hautecoeur, p. 315). Despite the success of the Palace of Industry, it did nothing to promote the careers of either Viel or Barrault. Regardless, the Palace of Industry was an influential step in the integration of this revolutionary material, iron, with traditional architecture. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions 1851-1988</title>. New York: Greenwood Press, 1990.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hautecoeur, Louis</author>. 
+						<title TEIform="title" level="m" rend="italic">Histoire de l'architecture classique en France</title>. v. 7. Paris: Rue Bonaparte, 1943.  
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Lavedan, Pierre</author>. 
+						<title TEIform="title" level="m" rend="italic">French Architecture</title>. London: Scholar Press, 1956.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Mignot, Claude</author>. <title TEIform="title" level="m" rend="italic">Architecture of the Nineteenth Century in Europe</title>. New York: Rizzoli International Publications Inc., 1984.  
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Steiner, Frances H</author>. 
+						<title TEIform="title" level="m" rend="italic">French Iron Architecture</title>. Ann Arbor, Michigan: UMI Research Press, 1984.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Tach??, J. C</author>. 
+						<title TEIform="title" level="m" rend="italic">Canada at the Universal Exhibition of 1855</title>. Toronto: Yonge Street, 1856.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

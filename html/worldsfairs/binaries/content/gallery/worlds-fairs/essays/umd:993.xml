@@ -1,0 +1,148 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Statue of Liberty Ribbon</title>
+        <title TEIform="title" type="version">An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Paris Universal Exposition of 1878">Paris Universal Exposition of 1878</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">David Coleman</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">9 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">14Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-08">February 8, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Statue of Liberty Ribbon from 1878 Exposition Universalle in Paris, France was created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Statue of Liberty Ribbon</title>
+          <author TEIform="author">David Coleman, </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Paris Universal Exposition of 1878
+						</name>
+            </item>
+            <item TEIform="item">
+						Statue of Liberty (New York, N.Y.)
+						</item>
+            <item TEIform="item">
+						Souvenirs
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">
+            <title TEIform="title">Statue of Liberty Ribbon</title>
+            <figure TEIform="figure" entity="umd:11264"></figure>
+          </head>
+          <lb TEIform="lb"></lb>
+          <p TEIform="p">This depiction of the Statue of Liberty is interesting because of the medium used. Sewn into a ribbon, this image and its caption symbolize a certain aspect of the relationship between France and the United States of America. The Statue of Liberty has served as the single most important symbol of the friendship between the two countries and the ideal of democracy since its unveiling on October 28, 1886. At the time it was the tallest structure in America.
+		</p>
+          <p TEIform="p">The statue was originally a gift to the United States. The relationship between the two countries dates back before the United States was an independent country (Kotler p7). The French were one of the first to explore and settle in North America. Louis Jolliet and Jaques Marquette traveled the Mississippi. Ren?? Robert Cavelier, sieur de La Salle explored the Great Lakes and established Louisiana. Frenchmen built outposts on the Gulf of Mexico, founded New Orleans, and colonized New France from Louisiana to northeast Canada. In the War of Independence, the Marquis de Lafayette fought with General George Washington. In its final battle at Yorktown, General Jean Baptiste de Rochambeau led the French navy and a land crew. Without French support a victory may have been impossible. The United States returned these favors during the two world wars. </p>
+          <p TEIform="p">The statue was obviously here long before that. The plan started after Lincoln was assassinated. French political reformers under the autocratic regime of Napoleon III looked to Lincoln as a democratic and just politician. These French reformers, including, Edourd-Ren?? Lefebvre de Laboulaye, decided to send a gift to Mrs. Lincoln, a gold medal with an inscription. But they felt they needed to make a larger contribution and chose to make this new gift coincide with the centennial celebration of American Independence. The sculptor Fred??ric-Auguste Bartholdi (1834-1904) was present when the conversation was taking place and offered to create a gift worthy of such a cause. Now that Bartholdi had committed to the project he came to America to look for ideas. His inspiration came from a coin designed by Benjamin Franklin, "Libertas Americana", featuring a woman's head with long flowing hair. The symbol he chose to represent freedom and democracy was a good one that has stood the test of time. </p>
+          <p TEIform="p">The plan was to give the statue to the United States to re-ignite their interdependent relationship. There were a few problems on the way though. French citizens and businessmen had to come up with 400,000 francs to finance it. When the statue arrived it sat in unopened crates until funding for a pedestal could be secured. </p>
+          <p TEIform="p">The fact that this image is of a ribbon is not to be overlooked. The ribbon was bought as a souvenir of the 1878 International exposition in Paris. On June 30, 1878 the completed head of the Lady Liberty was showcased in the garden of the Trocad??ro palace, while other pieces were on display in the Champs Mars. Ribbons, at the early fairs especially, were displayed in art buildings, and women's pavilions as well. They were both a fashionable decoration and product that women were proud to produce. They were perfect inexpensive souvenirs. </p>
+          <p TEIform="p">The caption on the ribbon says "??clairant le Monde" which means, "Illuminating the World". This light is clearly the same one Bartholdi had in mind when he designed the sculpture. That light is the light of freedom and democracy, which kept the French and Americans allies forever. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited:</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Dillon, Wilton</author> and <author TEIform="author">Kotler, Neil. </author>
+            <title TEIform="title" level="m" rend="italic">The Statue of Liberty Revisited</title>. Washington, D.C.: <publisher TEIform="publisher">Smithsonian Institution Press</publisher>,  <date TEIform="date">1994</date>.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Pauli, Hertha </author>and <author TEIform="author">Ashton, E.B</author>. <title TEIform="title" level="m" rend="italic">I Lift My Lamp</title>. New York: <publisher TEIform="publisher">Appleton-Century-Crofts INC</publisher>., 
+						<date TEIform="date">1948</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+						"<title TEIform="title" level="a">Napoleon</title>." <publisher TEIform="publisher">Encyclopedia.com.</publisher>
+            <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.encyclopedia.com/articles/08964.html"> http://www.encyclopedia.com/articles/08964.html</xref>. (<date TEIform="date">May, 10, 2001</date>)</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

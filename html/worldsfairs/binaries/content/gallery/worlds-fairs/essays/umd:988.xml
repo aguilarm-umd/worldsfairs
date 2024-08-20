@@ -1,0 +1,163 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">P. H. Delamotte Photograph of the Interior of the Crystal Palace</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Great Exhibition (1851 : London, England)">Great Exhibition (1851 : London, England)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Elizabeth Creveling</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">2london.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-15">February 15, 2006 </date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on Crystal Palace from the Great Exhibition (1851 : London, England) created as a final assignment in  
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">P. H. Delamotte Photograph of the Interior of the Crystal Palace</title>
+          <author TEIform="author">Elizabeth Creveling</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Delamotte, Philip Henry, 1820-1889
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Crystal Palace (London, Eng.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Great Exhibition (1851 : London, England)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">United Kingdom</item>
+            <item TEIform="item" n="region">England</item>
+            <item TEIform="item" n="settlement">London</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">P. H. Delamotte Photograph of the Interior of the Crystal Palace<figure TEIform="figure" entity="umd:773"></figure>
+          </head>
+          <p TEIform="p">After a successful year of housing the Great Exposition, the Crystal Palace by Joseph Paxton was disassembled and moved to Sydenham, where it stood for the next 85 years (Hobhouse, 32). The Palace, built for the 1851 World's Fair in London, was an architectural and engineering wonder modeled after the bridge and train shed construction of the mid-nineteenth century. The structure had been designed to be quickly assembled out of prefabricated members and easily rebuilt elsewhere. Its light construction was made possible to use of thin cast iron prefabricated elements combined with wood and a glazed outer shell. </p>
+          <p TEIform="p">The Crystal Palace housed the most spectacular collection of artistic and industrial wonders ever assembled in one place thus far. Visitors came from all over the world to see this display of power at the "Exhibition of the Works of All Nations" which was organized by Prince Albert and Henry Cole (Beaver, 12). The success of the Crystal Palace that cost "a penny per cubic foot" (Hobhouse, 39) brought Joseph Paxton much praise as well as a knighthood. The structure at Hyde Park was designed as a temporary building, able to be constructed and disassembled easily. During the Great Exposition the Crystal Palace housed the works of craftsmen, engineers and artists. The most popular of these exhibits was a crystal fountain made especially for the exhibition (Beaver, 47). The full 33,000,000 cubic feet of Crystal Palace was filled with displays and people crowding the aisles examining these wonders (Hobhouse, 39). </p>
+          <p TEIform="p">When the Fair closed the fate of the Crystal Palace was a topic of extreme importance. Its popularity was obvious and Paxton suggested transforming it into a "Winter Park and Garden Under Glass" where visitors could see displays of botany, ornithology, and geology and at the same time enjoy the building as an indoor park (Beaver, 69). This proposal was opposed by Colonel Sibthorpe, a member of the Metropolitan Police Force who vehemently disapproved of the nature of the Exposition and the preservation of the building as a cultural icon. Knowing it would take some work to save his masterpiece, Paxton began raising money and eventually came up with over 500,000 pounds. He formed a company to purchase the building from its initial builders, the engineering firm of Fox and Henderson. The site selected to re-erect the Palace was 200 acres of wooded parkland on the summit of Sydenham Hill. Rebuilding began in August 1852. </p>
+          <p TEIform="p">By rebuilding the famous Crystal Palace and making it a permanent symbol of England's success and role in the Industrial Revolution, the government created a cultural icon that would forever stand in testament to the grand nature of the first International World's Fair. A decision was made to alter the original plans and enlarge the structure, making the Sydenham Palace more massive than its predecessor. The most characteristic portion of the Hyde Park structure, the arched transept, was emulated throughout when the whole structure was rebuilt, creating an entirely arched nave and transept system (Hitchcock, 27). These same arched transepts were considered awe-inspiring by the Victorians, who were deep in the Romantic Age and well versed in the eighteenth-century notion of the Sublime. The lunettes with the familiar spoke pattern provided a terminus for the long nave and served as an element of continuity between the Hyde Park building and the one rebuilt in Sydenham. </p>
+          <p TEIform="p">The new Crystal Palace became a museum of world cultures, with "style courts" such as the Nineveh, Roman and Egyptian courts depicting ancient and modern civilizations for visitors. Matthew Digby Wyatt and architect Owen Jones were "sent abroad to ransack the world's great art collections" and find ideas for the courts (Beaver, 79). Aside from the great courts, Joseph Paxton also "envisioned a system of fountains that would rival Versailles" (Beaver, 79). To accommodate this great waterworks two large towers were erected further distancing the Sydenham structure from its predecessor in Hyde Park.</p>
+          <p TEIform="p">Photography had been invented thirteen years before the erection of the Crystal Palace. By 1851 this new medium had gone through many improvements, and quickly became a documentary and artistic tool for all people. Photographs were used for artistic endeavors, documentation, and souvenirs. Many photographers flocked to the Great Exposition to record the feats in architecture and engineering. William Henry Fox Talbot (1820-1877) recorded the interior of the Crystal Palace while it was still in Hyde Park and did so on Sundays while the Exhibition was closed (Beaver, 37). Another photographer, Philip Henry Delamotte (1820-1889) recorded the building after its move to the Sydenham location (Newhall, 110). He also photographed many English landmarks such as Yorkshire abbeys and Strawberry Hill. </p>
+          <p TEIform="p">Delamotte produced several sets of prints documenting the Crystal Palace, which he sold at a profit. A set of nine original albumen reprints is housed in the Special Collections room of the University of Maryland Architecture Library. One print titled "View up Nave from Gallery at North End" displays the vast interior of the new structure. It is approximately eight by ten inches mounted professionally for the set published by Crystal Palace Art Union. Printed on the paper surrounding the photograph are captions including Delamotte's name and documentation attributing the printing to "Negretti and Zambra." </p>
+          <p TEIform="p">The print on the screen exhibits the deep purple hues achieved through the albumen process and gold chloride solution. The characteristic color was protected from fading on the edges by mounting the prints and keeping them in a darkened collectible box. There is little tonal separation, due to the nature of albumen printing. The geometric complexity of the structure is clearly shown, as well as its numerous galleries and the roof structure displaying the beautiful arched nave. Delamotte positioned his tripod along a side of the nave to achieve a perspective view that would capture the great depth of the building and convey the grand nature of the space. In the foreground Delamotte captured a large amount of detail in the vegetation and supports. The photograph reflects the impression that the exhibits "inhabit" the building, allowing the viewer to see how replete the Palace was with displays. Delamotte did not need to use supplementary lighting; the building itself was perfect for photographs, a virtual skylight. All that was needed was a sunny day. Patches of sun can be seen on the floor. Delamotte could clearly sense the architectural beauty in his subject and captured it artfully. The hustle and bustle of the original building is not conveyed in this print, which possesses a serene quality due to the lack of human presence. </p>
+          <p TEIform="p">Delamotte was able to capture the character of the Crystal Palace, and provided the public a peek into the famous structure. The Crystal Palace will live forever in his beautiful prints helping to influence artists and architects into the future. During its 85 years standing, the Crystal Palace appeared in millions of photographs, establishing it as a symbol of English power from both a political and architectural standpoint. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Arts Council of Great Britain</author>. <title TEIform="title" level="m" rend="italic">Sir Joseph Paxton, 1803-1865: a centenary exhibition organized in association with the Victorian Society [by the] Arts Council of Great Britain</title>. London: The Arts Council, 1965.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Beaver, Patrick</author>. <title TEIform="title" level="m" rend="italic">The Crystal Palace, 1851-1936: a portrait of Victorian enterprise</title>. London: Hugh Evelyn Ltd., 1970. 
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Briggs, Asa</author>. <title TEIform="title" level="m" rend="italic">Iron Bridge to Crystal Palace: impact and images of the Industrial Revolution</title>. London: Thames and Hudson in collaboration with the Ironbridge Gorge Museum Trust, c1979.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hitchcock, Henry Russell</author>. <title TEIform="title" level="m" rend="italic">The Crystal Palace: the structure, its antecedents and its immediate progeny: and exhibition</title>. Northampton, Massachusetts: Smith College Museum of Art, 1952.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hobhouse, Christopher</author>. <title TEIform="title" level="m" rend="italic">1851 and the Crystal Palace; being an account of the Great Exhibition and its contents; of Sir Joseph Paxton; and the erection, the subsequent history and the destruction of his masterpiece</title>. London: Murray, 1950.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Newhall, Beaumont</author>. <title TEIform="title" level="m" rend="italic">The History of Photography: from 1839 to the present</title>. New York: Museum of Modern Art. 1982.
+					</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

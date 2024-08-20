@@ -1,0 +1,158 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Festival Hall</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Panama-Pacific International Exposition (1915 : San Francisco, Calif.)">Panama-Pacific International Exposition (1915 : San Francisco, Calif.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Christopher Jinks</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">12 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">39FestivalHall.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-28">February 28, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Festival Hall from the Panama-Pacific International Exposition (1915 : San Francisco, Calif.) created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Festival Hall</title>
+          <author TEIform="author">Christopher Jinks</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						ANY NAMED PERSON. DELETE OR REPEAT AS NECESSARY??
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						ANY NAMED CORPORATE ENTITY. DELETE OR REPEAT AS NECESSARY??
+						</name>
+            </item>
+            <item TEIform="item">
+						ANY OTHER TOPICAL SUBJECT. DELETE OR REPEAT AS NECESSARY??
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">California</item>
+            <item TEIform="item" n="settlement">San Francisco</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Festival Hall<figure TEIform="figure" entity="umd:11484"></figure>
+          </head>
+          <p TEIform="p">In 1906, San Francisco was rocked by a devastating earthquake.  The city was essentially leveled.  Amazingly, only nine years later the same San Francisco played host to one of the most successful and impressive World's Fairs to date.  Not only had the city recovered from the disaster, but it had also been improved upon.  The Panama-Pacific Exposition of 1915 put the revitalized city on display.</p>
+          <p TEIform="p">In this stereographic print, Festival Hall was photographed against a background of hilly San Francisco.  The entire stereograph is 7 inches long and 3 inches wide and consists of two identical photographs side by side.  This card can be slid into a viewer which combines the two views into a single three dimensional image.  (See viewer on display on this website in the Paris, 1900 gallery.)  The Festival Hall card is number 17 in a set of 100 stereographs of the Panama-Pacific Exposition published by the Keystone View Company in 1915.  According to the description on the back of the card, the photograph was taken towards the southeast from a height of 250 feet inside of the Tower of Jewels.</p>
+          <p TEIform="p">The orientation of this photograph can indicate the location of Festival Hall within the fair.  It is at the extreme end of the grounds as evidenced by the hills of San Francisco in the background.  It also reveals its spot at the head of a lagoon.  This lagoon is the central focus of the South Gardens at the southernmost point of the fair.  The main entrance led directly into the gardens where the Tower of Jewels would be directly ahead to the north and Festival Hall and the Horticulture Hall were to the east and west, respectively.  Past the Tower of Jewels would be the exposition proper. (Benedict 96)</p>
+          <p TEIform="p">Although it was overshadowed by the Tower of Jewels and other pavilions like the Palace of Fine Arts, Festival Hall was a beautiful work of architecture in its own right.  Most saw it as just another dome in a fair dubbed "the city of domes", but this stereograph isolates it to emphasize its particular charm.  Compared with the smaller buildings of the city, its grandeur is evident.  In most other settings, this magnificent structure would be a focal point.  Though its size is difficult to judge, its massive scale can be observed in comparison to the man in the photograph walking along the lagoon.</p>
+          <p TEIform="p">Festival Hall was designed by architect Robert D. Farquhar, a local architect from Los Angeles.  (James)  Farquhar was better known for his designs of domiciles in the region, and many of his works still exist today.  The hall is all curves and is reminiscent of the French Renaissance.  A large rounded lunette adorns the front of the ribbed main dome and provides natural lighting in the hall's interior.  The central dome is complemented by four smaller domes on turrets featuring open archways at the hall's four corners.  The front plaza is embraced by a concave colonnade topped by a balustrade.  Convex colonnades surround the two arcades on either side of the hall.  Though difficult to make out in this image, the hall was adorned with fantastic statues created by sculptor Sherry Fry.  (Brinton 42)  The hall was also extremely colorful, unfortunately invisible in the black and white stereograph.  The surroundings also contributed to the hall's character.  Beautifully landscaped lawns surround the building.  The curve of the lagoon matches the hall's plaza.  Lighted walkways create a procession leading up to the hall.  All of these factors combined to make Festival Hall a truly remarkable and aesthetically pleasing structure.</p>
+          <p TEIform="p">More impressive than the exterior architecture was the hall's interior.  Designed specifically for performances of music and theatre, the building enhanced the experience for its seating capacity of 3000.  According to the fair's official guidebook, the acoustics are "pronounced perfect".  These acoustics were taken advantage of by vocalists and musicians alike.  Festival Hall hosted performances, competitions, and of course festivals, drawing in choirs, soloists, and orchestras from around the country and world.  (<title TEIform="title" rend="italic">Official Guide</title> 77)</p>
+          <p TEIform="p">Perhaps the most impressive performances, though, were given on the hall's own organ.  The organ was at the time the second largest in America and seventh largest in the world, boasting over 7,000 pipes.  The instrument was so massive that it was brought to the fair on eight built to order train cars from New York.  (Ewald 101)  The entire fair ran for nearly ten months and every day at noon an organ recital was performed.  Though there were many guest performers, featured was Edwin H. Lemare, the world's "greatest living organist."  He gave exactly one hundred performances over the course of the fair.  (<title TEIform="title" rend="italic">Official Guide</title> 77)</p>
+          <p TEIform="p">Although several of the Panama-Pacific Exposition's impressive buildings remain, including the Palace of Fine Arts, sadly Festival Hall is not one of them.  However, the pipe organ was spared and now resides in San Francisco's Civic Auditorium.  Although Festival Hall was once lost among the grandeur of the domed city, it can be rediscovered through images such as this.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Benedict, Burton</author>.  <title TEIform="title" level="m" rend="italic">The Anthropology of World's Fairs: San Francisco's Panama Pacific International Exposition of 1915</title>.  Berkeley, California: Lowie Museum of Anthropology; London; Berkeley: Scolar Press, 1983.  pp. 31-102.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Brinton, Christian</author>.  <title TEIform="title" level="m" rend="italic">Impressions of Art at the Panama-Pacific Exposition</title>.  New York: John Lane Company, 1916. pp. 43-50.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ewald, Donna</author>, and <author TEIform="author">Peter Clute</author>.  <title TEIform="title" level="m" rend="italic">San Francisco Invites the World: The Panama-Pacific International Exposition of 1915</title>.  San Francisco: Chronicle Books, 1991.  pp. 5-9, 101.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions 1851-1988</title>. New York City: Greenwood Press, 1990.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">James, Juliet</author>.  <title TEIform="title" level="a" rend="italic">Palaces and Courts of the Exposition</title>. <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.books-about-california.com/Pages/Palaces_and_Courts/Palaces_and_Courts_Chap_24.html">http://www.books-about-california.com/Pages/Palaces_and_Courts/Palaces_and_Courts_Chap_24.html</xref> (accessed March 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Panama-Pacific International Exposition Company</author>. <title TEIform="title"> Official Guide to the Panama-Pacific International Exposition</title>.  San Francisco: The Wahlgreen Company, c1915.  pp. 13-77.</bibl>
+          <bibl TEIform="bibl" default="NO">Porter, Bruce.  Art in California.  San Francisco: R. L. Bernier, 1916.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rydell, Robert W</author>.  <title TEIform="title" level="m" rend="italic">Fair America: World's Fairs in the United States</title>.  Washington, D.C.: Smithsonian Institution Press, c2000. pp. 63-68.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="a" rend="italic">The 1915 Panama Pacific International Exposition</title>. <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.sanfranciscomemories.com/ppie/panamapacific.html">http://www.sanfranciscomemories.com/ppie/panamapacific.html</xref> (accessed March 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">The Panama-Pacific International Exposition: San Francisco, California, U.S.A</title>. Chicago: C. Teich Co., c1915.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

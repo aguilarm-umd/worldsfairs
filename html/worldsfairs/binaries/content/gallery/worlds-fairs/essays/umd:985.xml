@@ -1,0 +1,156 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Festival Hall</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)">Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</name>
+        </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <author TEIform="author">
+          <name TEIform="name">David Coleman</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by:<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by:<name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by:<name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">11 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">wfc-essay04.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified" type="source">
+          <p TEIform="p">Essay on Festival Hall at the 1904 Louisiana Purchase Exposition in Saint Louis, Missouri created as a final assignment in <name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+					<num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Festival Hall </title>
+          <author TEIform="author">David Coleman </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">Gilbert, Cass, 1859-1934</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="other">Festival Hall (Saint Louis, Mo.)</name>
+            </item>
+            <item TEIform="item">Exhibition buildings. Design and construction </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</name>
+            </item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Missouri</item>
+            <item TEIform="item" n="settlement">Saint Louis</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Festival Hall <figure TEIform="figure" entity="umd:752"></figure>
+          </head>
+          <p TEIform="p">In 1901 Cass Gilbert (1859-1934) designed the elaborate hall pictured above for the Louisiana Purchase Exposition, held in Saint Louis in 1904. This short-lived structure deserves attention, as it was a main focus of the fair and an important benchmark in its designer's career.</p>
+          <p TEIform="p">Born in Ohio, Cass Gilbert studied at MIT and in Europe he subsequently set up practice in St. Paul with a former classmate, James Knox Taylor. After a ten-year partnership they split and Gilbert moved on to New York City. Although he had already designed notable buildings, such as the Broadway Chambers Building in 1899 and the Union Club in 1901, his widespread recognition came mostly after winning an Exposition gold at the Fair where he also designed the Palace of Fine Arts, which is now known as the St. Louis Art Museum.</p>
+          <p TEIform="p">William H. Thompson, the chairman for the fair's committee on grounds and buildings, established a thirteen-member team to arrange the fairgrounds. Gilbert was assigned to this commission and served as chairman of the committee that devised the site plan. He had a unique knowledge of the grounds as he had recently studied the adjoining grounds for the competition to design nearby Washington University.</p>
+          <p TEIform="p">Gilbert had a little experience in large-scale site planning at the 1893 World's Columbian Exposition in Chicago where he had been an architecture juror. This was his first real chance to design a plan as large as that of the Louisiana Purchase Exposition, which included 1,240 acres, about twice as much as at the Chicago Columbian Exposition.</p>
+          <p TEIform="p">The Hall's dome was 145 feet wide and set on a cylindrical base 200 feet wide. It seated 4,000 guests and had an enormous stage capable of supporting a full orchestra. It also housed the world's largest pipe organ. A colorful structure with a pinched and crested dome, Festival Hall sat in the center of the fair atop a hill. The setting was perfect. Spouting from the front of the hall was a cascade of elaborately designed fountains and water spouts. The fountains were lined with colonnades, which ran down to a picturesque lagoon. From the lagoon eight of the twelve exhibition buildings could be seen lined up along the hill with the proud central dome of Festival Hall reflected in the water. The cascade could be illuminated at night as well as the pylons of the Colonnade of States behind. Three cascades poured out 90,000 gallons a minute, and over 130,000,000 in a day. That was enough water for a city of half a million people.</p>
+          <p TEIform="p">Cass Gilbert's works are unique due to his ability to produce classical yet innovative designs. He had a "certain touch" that could make a building shout out its new and creative design. At the same time it could be placed in a city of traditional structures without standing out. He designed his buildings with an "eye to the future but his ear to the past" (Kirkham). In his own words, "Shape new thoughts, new hopes, and new desires in new forms of beauty as we may and can, but disregard nothing of the past that may guide us in doing so." (Kirkham) The principle Gilbert adhered to was that you must start with a fundamentally sound idea and build upon that.</p>
+          <p TEIform="p">The idea of a circular domed hall was not new. The vivid colors and unique features, like the beautiful cascades, sculpture, and tall skinny windows, are what made the hall a Cass Gilbert creation just the same as some of his gothic skyscrapers. His New York Life Insurance Company Building (1925) is a perfect example. It does not stand out from its neighboring skyscrapers, yet upon closer examination it still demands attention.</p>
+          <p TEIform="p">Festival Hall not only typified the work of its architect, it also served as an appropriate icon for the fair. The 1904 Louisiana Purchase Exposition in St. Louis was known as much for its entertainment as for its fine arts or national pavilions. The fair was very lavish and catered to the visitor's rather than exhibitor's interests. The Lagoon, Pike, and other entertainment were meant to impress and be enjoyed. The entertainment section called the Pike featured scenes from around the world including a magnificent representation of the Tyrolean Alps, which cost a reported $500,000, where peasants sang their native songs and went about their daily routine. Other standouts included Mysterious Asia and the Magic Whirlpool. The fair also hosted large liquor tasting competitions, introduced ice cream cones to the world, and presented much in the way of plays, music and theatre entertainment, which often took place in Festival Hall.</p>
+          <p TEIform="p">The fair focused largely on entertainment, which very often took place in Festival Hall. Because it was so colorful and exciting, this structure typified the fair, as well as it epitomized Cass Gilbert's talent.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Bennet, Mark. </author>
+            <title TEIform="title" level="m" rend="italic">History of the Louisiana Purchase Exposition Universal Exposition</title>.   <publisher TEIform="publisher">Publishing Co.</publisher>: <pubPlace TEIform="pubPlace">St. Louis</pubPlace>. <date TEIform="date"> 1905.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Fox, Tim.</author>
+            <title TEIform="title" level="m" rend="italic"> From the Palaces to the Pike</title>. <publisher TEIform="publisher"> Missouri Historical Society Press</publisher>: <pubPlace TEIform="pubPlace"> Albuquerque</pubPlace>. <date TEIform="date"> 1997.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">Terry's "1904 World's Fair Page" Student Website (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.inlink.com/~terryl ">http://www.inlink.com/~terryl</xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="a">3D photos of 1904 St. Louis World's Fair</title> Private/Educational. (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.boondocksnet.com/stereo/wf_stlouis.html ">http://www.boondocksnet.com/stereo/wf_stlouis.html </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">Jack Daniel's 1904 St. Louis World's Fair Gold Medal Commemorative Decanter (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.jayski.com/jack/decanter12.htm ">http://www.jayski.com/jack/decanter12.htm </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="a">Meet me at the Fair.</title> Personal. (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.bitwise.net/~ken-bill/fair.htm ">http://www.bitwise.net/~ken-bill/fair.htm </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Irish, Sharon</author>. <title TEIform="title" level="m" rend="italic"> Cass Gilbert, Architect</title>
+            <publisher TEIform="publisher"> The Monacelli Press</publisher>: <pubPlace TEIform="pubPlace">New York</pubPlace>. <date TEIform="date">1999</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Kirkham, Guy</author>. <title TEIform="title" level="a"> Cass Gilbert, Master of Style</title>
+            <title TEIform="title" level="j" rend="italic">Pencil Points</title> 15 (<date TEIform="date"> November 1934</date>), 541-556.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

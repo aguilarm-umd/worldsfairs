@@ -1,0 +1,158 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">La Ronde</title>
+        <title TEIform="title" type="sub">Montreal 1967</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Expo 67 (Montréal, Québec)">Expo 67 (Montréal, Québec)</name>
+        </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <author TEIform="author">
+          <name TEIform="name">Ly Y. Bui </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">12 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">39Montreal.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-18">January 18, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Official Map of Expo 67 held in Montréal, Québec, Canada in 1967 created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">La Ronde, Montreal 1967 </title>
+          <author TEIform="author">Ly Y. Bui </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Expo 67 (Montréal, Québec)
+						</name>
+            </item>
+            <item TEIform="item">			
+			Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">Canada</item>
+            <item TEIform="item" n="region">Québec</item>
+            <item TEIform="item" n="settlement">Montréal</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">La Ronde, Montreal 1967 <figure TEIform="figure" entity="umd:979"></figure>
+          </head>
+          <p TEIform="p">This map is taken from the Official Souvenir book of Expo '67, sold for one dollar at the fair grounds. This book advertises "three-dimensional maps in color", and depicts the various sections of the fair. Its dimensions are about eight and a half by eleven inches. The image on our website is actually the middle portion of a map formed by the two middle pages of the book, and depicts most of La Ronde district. 
+
+		</p>
+          <p TEIform="p">La Ronde constituted the easternmost part of the Montreal exposition site, and was devoted primarily to amusement. This section was designed by a team including Joe Baker, an architect, Norman Slater, an industrial designer and light specialist, Francois Dallegret, a special effects designer, and Leonard Levitan. They were given 135 acres of man made land that had been formed as an extension of the Ile Sainte-H??l??ne. They had only four years to design an amusement center that would be used both during and after the exposition. A small island of granite, rising ten feet above the St. Lawrence River, was actually destroyed so that La Ronde could be created. The granite was blasted away, leaving a perimeter of rock, which was than surrounded by fill. The crater made by the explosion became Dolphin Lake, the body of water towards the north and center of the map.</p>
+          <p TEIform="p">The main entrance to La Ronde was an Expo Express stop (number 513 on the map), which arrived at the Esplanade, an open area towards the left and center of the map. Expo Express was a monorail set up especially for the fair. From there crowds could either go north to get to the Dolphin pool (511), Aquarium (512), and Pioneerland (524). They could also travel south to Children's World (528) and the Youth Pavilion (529). To reach all the other activities, visitors would go east through the Mall, the narrow strip of land bisecting the map into two sections. In Pioneerland, there was also an exhibit sponsored by the province of Alberta, called Fort Edmonton, that showed a "traditional" western setting that included such stereotypical spectacles as action-packed saloons and barber shops. At the dolphin pool, trained dolphins performed tricks to a crowd of up to 900 people. The aquarium was designed by architect George F. Ever to exhibit marine life.</p>
+          <p TEIform="p">At the southwest corner of the map, in addition to Children's world and the Youth Pavilion, stood the Gyrotron (535). According to many architectural critics, this was the only building of even slight architectural interest in La Ronde. It was designed by the architect Sean Kinny, and was comprised of a large pyramid connected to a smaller one. The former showcased a simulated flight through space with planets, space ships, and astronauts, while the latter showed a descent into hell, where the visitor was swallowed by a mechanical monster. 
+</p>
+          <p TEIform="p">Transportation was provided via pedicabs, the "Sky Ride", and the "Minirail,". A train circuit through all the major parts of La Ronde, and its major stations are marked on the map (515, 543). The Sky Ride (519) was a gondola traveling over Dolphin lake, as can be seen in the southeast corner of the lake on the map, and ended near Le Village. It offered aerial panoramic views of the site, along with La Spirale (547), a rotating tower that took passengers up to a height of 312 feet, located between Dolphin Lake and the marina of Port Sainte-H??l??ne. To the immediate right of La Spirale was the Garden of Stars (545), designed by architect Max Roth. The building was created to provide a wide range of entertainment, including cinema or live performance. Le Village (541), in the northeast section of the island, was close to the end destination of the Sky Ride. It was inspired by Old Montreal, and was full of beer halls and restaurants. The buildings had stone walls, and they were gathered around quaint little plazas. There was also an old-fashioned carousel. The safari (550) was directly to the east of Le Village, and featured an array of exotic animals. The area past the marina was cut off from the map and offered little in the way of entertainment and amusement. There were facilities for hovercraft and helicopter entry, though few visitors arrived at this way. There was also a meteorological station that was not open to the public. 
+</p>
+          <p TEIform="p">La Ronde was decorated with wind-lown flags, pin wheels, rotating units, and windsocks to promote a sense of brightness and gaiety. Even the kiosks, designed with eye-atching simple volumes, were brightly colored. Many booths were painted in day-glo colors. Some of those selling tickets were decorated with aluminum skins and antennae lights. 
+</p>
+          <p TEIform="p">Several other aspects of La Ronde are worth mentioning. The Westinghouse company built a massive fountain called The Dancing Waters (530), located in the middle of Dolphin Lake. Visitors could see the display from the sides of the lake or from the Sky Ride. There was also a water ride known as "La Pitoune" (525), at the southwest corner of the Lake and, near the Gyrotron, towards the bottom of the map, a rides center (533), where the traditional amusement rides such as a Ferris Wheel and roller coasters could be found. 
+</p>
+          <p TEIform="p">Today, La Ronde is an operating park with thirty-two different rides, most of them installed after the fair. Like any typical carnival or amusement park, there are children's rides as well as roller coasters. The Sky Ride is no longer accessible to the public, although the machinery is still there. La Spirale and the minirail are still in operation. Le Village has become a "medieval" village, with a "period" putt putt and a variety of restaurants. All the other amusements present at the Expo have been removed from the park. At the end of 2000 La Ronde was acquired by the Six Flags corporation, and it will probably go through many more transformations in the years to come. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Author unknown</author>. "<title TEIform="title" level="a">The Architect's Expo</title>." <title TEIform="title" level="j" rend="italic">Progressive Architecture </title>. <date TEIform="date">1967 June</date> vol.48, p.126-127.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Author unknown</author>. "<title TEIform="title" level="a">Behind the Scenes at Expo</title>." <title TEIform="title" level="j">Architectural and Engineering News</title>. <date TEIform="date">1967 April</date> vol.9, p.108-109.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Author unknown</author>. "<title TEIform="title" level="a">Lighting La Ronde</title>." <title TEIform="title" level="j" rend="italic">Canadian Architect</title>. <date TEIform="date">1968 June</date> vol.13, p.70-76.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Danzig, Philip</author>. "<title TEIform="title" level="a">A&amp;E News Goes to Expo '67</title>." <title TEIform="title" level="j" rend="italic">Architectural and Engineering News</title>. <date TEIform="date">1967 June</date> vol.9, p.24-26.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E.</author>
+            <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Miller, Jerry</author>. "<title TEIform="title" level="a">Expo '67: Search for Order</title>." <title TEIform="title" level="j">Canadian Architect</title>. <date TEIform="date">1967 May</date> vol.12, p.44-54.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Richards, J.M.</author> "<title TEIform="title" level="a">Expo 67</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title>. <date TEIform="date">1967 August</date>, whole issue.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rogatnick, Abraham</author>. "<title TEIform="title" level="a">Expo 67, The Past Recaptured</title>." <title TEIform="title" level="j" rend="italic">Lotus</title>. 1968 vol.5, p.12-33.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

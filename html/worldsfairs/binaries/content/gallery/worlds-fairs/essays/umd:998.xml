@@ -1,0 +1,170 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Richard Morris Hunt: Administration Building, Chicago, 1893.</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="World's Columbian Exposition (1893 : Chicago, Ill.)">World's Columbian Exposition (1893 : Chicago, Ill.)</name>
+        </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <author TEIform="author">
+          <name TEIform="name">Aaron Zephir </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">20Chicago.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Administration Building at the 1893 World's Columbian Exposition in Chicago, Illinois created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Richard Morris Hunt: Administration Building, Chicago, 1893 
+</title>
+          <author TEIform="author">Aaron Zephir </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Hunt, Richard Morris, 1828-1895
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						World's Columbian Exposition (1893 : Chicago, Ill.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Administrative Building.  World's Columbian Exposition (1893 : Chicago, Ill.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Illinois</item>
+            <item TEIform="item" n="settlement">Chicago</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Richard Morris Hunt: Administration Building, Chicago, 1893<figure TEIform="figure" entity="umd:11326"></figure>
+          </head>
+          <p TEIform="p">This 11 by 14 inch photogravure of the great Administration Building at the Chicago World's Columbian Exposition of 1893 was taken from a set of 25 drawings of the exposition buildings. It was the main focus of the fair, and one of the masterpieces of its architect, Richard Morris Hunt (1827-1895). With its fine classical detailing and sweeping scale, this large building was integral to the "White City" concept of the fair. To this day it remains one of the most recognizable landmarks associated with the Columbian Exposition. 
+		</p>
+          <p TEIform="p">The Administration Building was conceived by a board of architects led by Daniel Burnham as part of the scheme for the Court of Honor, the major public space at the fair. As director of architecture and construction for the entire Columbian Exposition, Burnham was responsible for selecting designers for all the major buildings. After much debate, this group of mostly east coast practitioners decided that all the major buildings were to be cast in a pristine and highly decorative classical style based on the architecture of Antiquity. Burnham assigned the task of designing the most prominent building to arguably the most prominent man of the group, the New York architect Richard Morris Hunt.</p>
+          <p TEIform="p">By the time Hunt was selected to design the Administration Building, he was near the end of his distinguished career. The first American architect to attend the prestigious Ecole des Beaux-Arts in Paris, Hunt had acquired the status of "dean of American architecture" (Stein 3). His reputation was supported by his large output of fine eclectic buildings such as the Breakers in Newport (1892-95) and Biltmore House in Asheville, North Carolina (1888-95), both estates for the wealthy Vanderbilt family. These two stylistically different buildings exhibit the quality of Hunt's architecture known as the "grand manner," where he achieved monumentality by combining different sources of classical architecture. This quality was what attracted the fair organizers, and it would be carried to its furthest expression in the Administration Building. 
+</p>
+          <p TEIform="p">As the focal point of the fair, the Administration Building had an important symbolic function. Although not intended for anything related to the fair other than housing offices, the picture shows that it was much larger than necessary for administration purposes. Its great size related to its function as triumphal gateway into the fair. The large majority of visitors arrived by train at the station located directly behind the Administration Building. From the station they would pass through the rotunda of the Administration Building and out to the Court of Honor and the rest of the fair. Thus, the building served as a kind of foyer or vestibule to the fair, being the first structure seen by most visitors. 
+</p>
+          <p TEIform="p">The Administration Building made a stunning first impression. It was extremely tall, composed of a massive base, grand Ionic colonnade and gilded dome. The plan of the building comprised four square pavilions jutting out from the diagonal sides of a 120-foot wide central octagonal space, creating deep recesses for the arched entrance portals. These large arches defined each side of the octagon, containing bronze doors leading outside on the four main sides and into the square pavilions on the four diagonal sides. Above this sturdy base using the Doric order was the stately Ionic colonnade flanked by splayed corners topped with small domes. The central octagonal dome was obviously the building's most distinguished feature, higher and wider that that of the U. S. Capitol building and visible from just about anywhere on the fairgrounds. This sequence of volumes and general massing was influenced to some degree by Ecole des Beaux-Arts student Emile Vaudremer's design for a French mausoleum (1854), a design that Hunt was familiar with from his days at the Ecole. As it was intended to be temporary, the Administration Building was built of a thick, reinforced plaster on an iron and wood skeleton. It was painted white to create the illusion of marble and fulfill Burnham's image of a "White City." But the large number of allegorical sculpture groups by Karl Bitter and the bright gilding of the dome set the building apart from its neighbors. 
+</p>
+          <p TEIform="p">The interior of the Administration Building was no less spectacular than the exterior in its use of monumental forms and lavish sculptural decoration. After all, this was where the visitors would pass through and get a sense of the grandeur to come, and as such was the only major building to have an elaborate interior finish. The administrative offices, press facilities and bank vaults were all located in the corner pavilions, leaving the central rotunda open for decoration. The area above the arcaded level was filled with sculpture and carried the names of men involved with the fair. A balcony and a line of Ionic pilasters separated this zone from the massive interior dome topped by a fifty-foot wide central oculus that allowed light to pour in. Unlike the white exterior, the interior was lavishly colorful. Combined with the complex forms, heavy sculpture and decoration, it created the enormous sense of drama, well suited for the entrance to such a grand international exposition. </p>
+          <p TEIform="p">The Administration Building was almost universally acclaimed by critics and laymen alike. In Hubert Howe Bancroft's Book of the Fair, it was dubbed the "crown of the exposition palaces" (129) and Benjamin Truman called the dome "finer in every respect than any other in the Western Hemisphere" (204). It was even referred to as "one of the finest achievements of modern architecture" by world's fair correspondent Trumbull White (80). These accolades may seem overly inflated, and it should be noted that many progressive modern architects of the day including Louis Sullivan severely criticized the building along with many others at the fair. For them, the design of the Administration Building was too superficial and its lavish classicism represented a backward-looking attempt to keep architecture from expressing the requirements of modern life. Nevertheless, taken on its own terms, the building can be judged a success. Although demolished soon after the fair ended, it remained highly influential in its assertion of Beaux-Arts classicism that came to dominate American public architecture for another three decades. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Bancroft, Hubert Howe</author>.  <title TEIform="title" level="m" rend="italic">The Book of the Fair; An Historical and Descriptive Presentation of the World's Science, Art and Industry, As Viewed through the Columbian Exposition at Chicago in 1893</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher"> Bounty Books</publisher>, <date TEIform="date">1894</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Igleheart, William</author> and <author TEIform="author">Trumbull White</author>. <title TEIform="title" level="m" rend="italic">The World's Columbian Exposition, Chicago, 1893</title>. <pubPlace TEIform="pubPlace">Philadelphia</pubPlace>:  <publisher TEIform="publisher">Historical Publishing</publisher>, <date TEIform="date">1893</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Stein, Susan R.</editor>, ed. <title TEIform="title" level="m" rend="italic">The Architecture of Richard Morris Hunt</title>. <pubPlace TEIform="pubPlace">Chicago</pubPlace>: <publisher TEIform="publisher"> University of Chicago Press</publisher>, <date TEIform="date">1986</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Truman, Benjamin Cummings</author>. <title TEIform="title" level="m" rend="italic"> History of the World's Fair; Being a Complete Description of the World's Columbian Exposition from its Inception</title>.  <pubPlace TEIform="pubPlace">Chicago</pubPlace>: <publisher TEIform="publisher"> Mammoth</publisher>, <date TEIform="date">1893</date>. </bibl>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Bibliographic Sources</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Baker, Paul R </author>. <title TEIform="title" level="m" rend="italic">Richard Morris Hunt</title>. <pubPlace TEIform="pubPlace">Cambridge, Mass.</pubPlace>: <publisher TEIform="publisher">MIT Press</publisher>,  <date TEIform="date">1980</date>. 
+.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Drexler, Arthur</editor>, ed. <title TEIform="title" level="m" rend="italic"> The Architecture of the Ecole des Beaux-Arts </title>. <pubPlace TEIform="pubPlace">Cambridge, Mass.</pubPlace>: <publisher TEIform="publisher">MIT Press</publisher>, <date TEIform="date">1977</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Schuyler, Montgomery</author>.  "<title TEIform="title" level="a">The Works of the Late Richard M. Hunt</title>." <title TEIform="title" level="m" rend="italic"> Architectural Record</title>. 5 (<date TEIform="date">1895</date>): 97-180.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Wight, Peter Bonnett</author>.  "<title TEIform="title" level="a">The Great Exhibition Reviewed.</title>." <title TEIform="title" level="j" rend="italic"> American Architect and Building News</title>. 42 (<date TEIform="date">1893</date>): 7-8, 21-23, 32-34, 47-49, 57-59, 86-88, 158-159. </bibl>
+          <bibl TEIform="bibl" default="NO"> "<title TEIform="title" level="a">The World's Fair Buildings</title>." <title TEIform="title" level="j" rend="italic">American Architect and Building News</title>. 38 (<date TEIform="date">1892</date>): 85-86. </bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">The World's Fair Buildings At Large and the Lessons to be Drawn from Them</title>." <title TEIform="title" level="j" rend="italic">American Architect and Building News</title>. 40 (<date TEIform="date">1893</date>): 181-183. </bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

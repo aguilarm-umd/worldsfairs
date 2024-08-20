@@ -1,0 +1,144 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Map and Bird's Eye View</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="sub">Centennial Exhibition, Philadelphia 1876</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Centennial Exhibition (1876 : Philadelphia, Pa.)">Centennial Exhibition (1876 : Philadelphia, Pa.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Katie Chiles</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Cindy Larimer</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">wfc-essay01.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Map and Bird's Eye View of the 1876 Centennial Exposition in Philadelphia, Pennsylvania created as a final assignment in <name TEIform="name">World's Fairs: Social and Architectural History</name>,            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Map and Bird's Eye View: Centennial Exhibition, Philadelphia 1876 </title>
+          <author TEIform="author">Katie Chiles</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope">URI??</biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words,and empahisized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">Centennial Exhibition (1876: Philadelphia, Pa.)</name>
+            </item>
+            <item TEIform="item">Advertising cards </item>
+            <item TEIform="item">Exhibitions.  Design and construction </item>
+            <item TEIform="item">Exhibition buildings </item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Pennsylvania</item>
+            <item TEIform="item" n="settlement">Philadelphia</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Map and Bird's Eye View: Centennial Exhibition, Philadelphia 1876
+		   <figure TEIform="figure" entity="umd:11258">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" rend="italic">Centennial Souvenir, 1876, Philadelphia.</title>
+              </figDesc>
+            </figure>
+            <figure TEIform="figure" entity="umd:400"></figure>
+          </head>
+          <p TEIform="p">Opening day of the 1876 Centennial Exhibition in Philadelphia was a spectacular festival of flags, music, and a one-hundred gun salute. After President Grant gave his opening address, the signal was given to unfurl and raise every flag and insignia simultaneously on the entire fairground. A chorus of one thousand began to sing, accompanied by an orchestra and chimes, and the barrage of one hundred rifles symbolized a century of independence for the United States of America (McCabe). This was the first major international world's fair in North America, and while many foreigners argued the United States did not have anything to show, the country shone through displaying its growth into a major industrial power.</p>
+          <p TEIform="p">Philadelphia, the location of the signing of the Declaration of Independence, was chosen as the site for the fair. Its central location also played in its favor. The Building Committee hired twenty-seven year-old H. J. Schwarzmann as chief engineer. He not only planned the layout of the grounds, but also designed Memorial and Horticultural Halls, the two structures intended to be permanent. The fairgrounds were about two miles north-west from the center of Philadelphia, across the Schuylkill River in a portion of Fairmount Park. One of the world's largest municipal parks, it was devised in 1682 by the founder of Pennsylvania, William Penn. As he was navigating the Schuylkill River, Penn noticed a grand bluff and exclaimed, "What a faire mount!" (Klein). The natural park-like setting, and the proximity to colonial Philadelphia, created a unique atmosphere for the fair. </p>
+          <p TEIform="p">The two artifacts depicted here are a bird's eye view showing the main buildings of the exhibition, and a map of the exhibition grounds. The bird's eye view is a very artistic interpretation of the fair. The illustration is on a five by seven inch reproduction card, belonging to a larger set of six cards. These cards were most likely sold to visitors as souvenirs of the fair. Each of the other cards depicts one of the main buildings, and the set was sold for a price of twenty-five cents. The original envelope that held the six cards is still intact and all of these items can be found in the Special Collections room of the University of Maryland Architecture Library. The three-dimensional representation on this card is stylized to emphasize only the main buildings, omitting the minor ones to reduce clutter. The largest structures, at the base of the illustration are, from left to right, the Machinery and Main Exhibition Buildings. The other three buildings that follow the Schuylkill River are, from top to bottom, Agricultural, Horticultural, and Memorial Halls. The remaining structure toward the left of the view is the Government Building. </p>
+          <p TEIform="p">The artistic decorations in the border framing the bird's eye view, are particularly eye catching. The style is very classical, perhaps an attempt by the delineator to link the Philadelphia fair to the exhibitions in Europe, especially to those organized by the French, who dominated the fine arts. In each corner of the illustration are <emph TEIform="emph" rend="italic">putti</emph>. <emph TEIform="emph" rend="italic">Putto</emph> in Italian means "boy," and has come to denote a plump, nude young boy, much like a cupid. Often in Renaissance books the first letter of a manuscript was enlarged and decorated with <emph TEIform="emph" rend="italic">putti</emph> acting out a scene or carrying symbolic artifacts (Armstrong). This traditional form of representation ennobles the image of the fair. In the image, each <emph TEIform="emph" rend="italic">putto</emph> represents an aspect of the fair; clockwise from the top left, Industry, Science, Art, and Nature. The Industry <emph TEIform="emph" rend="italic">putto</emph> is holding a gear and crank, Science is pouring a chemical through a funnel into a bottle, Art is painting on an easel, and Nature is surrounded by flowers and fruit. The rest of the border also displays classical ornamentation. At the top are objects of the type displayed at the exhibition: farming equipment, an anchor, and a cannon. The inscriptions underneath the two bottom <emph TEIform="emph" rend="italic">putti</emph> state the publisher, Thos. Hunter, and his address. </p>
+          <p TEIform="p">The landscape is noticeably simplified, not only by leaving out minor buildings, but also by omitting trees and other vegetation. The natural landscape of the exhibition was a unique characteristic, and fair officials of the fair granted much attention and effort to maintain it. "From almost any point a beautiful landscape extended before the gazer, and afforded a pleasant and grateful contrast to the lines of buildings which stretched away on every hand." (McCabe). One major attraction was the large lake, spanning five acres. The lake and its fountain can be seen to the north of Machinery Hall. </p>
+          <p TEIform="p">The map shows less of the landscape and natural beauty, and is a more practical and organized depiction of the Centennial Exhibition. It is actually very small, pasted in the back of a pocket-sized souvenir book entitled <title TEIform="title" rend="italic">Centennial Souvenir</title>. This book contains lithographs of the main buildings of the fair which are labeled in French, German and English. It most likely served as a memento for visitors, a way to remember their fair experience. It is doubtful that the map was very useful for navigation purposes due to its small size. Compared to other maps in the University of Maryland Architecture collection, this one appears to be accurate, although it is difficult to read and omits a few buildings and attractions. In the upper left corner of the map are the dimensions of the main buildings, perhaps to help the visitor remember the grand scale of the fair. This map also shows the railroad lines constructed for the fair, one following the Schuylkill River, the other along the base of the map. The Centennial was the first world's fair to put a great effort into transporting visitors to the fair grounds. </p>
+          <p TEIform="p">There are still some remnants of the fair in Fairmount Park today. The railroads still exist, and Junction Rail Road as seen on the map, now runs alongside a major highway. Of the major buildings, both Horticultural and Memorial Hall (the Art Gallery) remained after the fair, but only Memorial Hall remains today. Memorial Hall served as the city's art gallery until the Philadelphia Museum of Art was constructed. While the hall is now closed to the public, private dances and receptions are occasionally held there and a scaled model of the Centennial fair is displayed in the basement. Along States Drive the only structure remaining is the Ohio pavilion, which now serves as the park's information center. Another notable feature of the park is the Japanese House. While the dwelling was built in 1953, it rests on the same site of the Japanese pavilion that created so much interest at the Centennial Exposition.</p>
+          <p TEIform="p">While only a few tangible objects remain from the Centennial Exhibition, the overall effects of the fair have remained. The exhibition provided a chance for the United States to show the world its industrial achievements. U.S. involvement in previous expositions had not been government sponsored, and therefore the exhibits were not as spectacular as they could have been. Up to this point, not only did Europe view America as an "aspiring country," but US citizens themselves felt inferior. After the fair, many experts revised their opinions, vowing that American industry was overtaking the British, even going so far as to say that Britain had more money, but America had more brains (Maass). The Centennial Fair also influenced future fairs, that adopted the model of a picturesque park setting, with both large and small pavilions, an extensive transportation system, and public services. On the last day of the Exhibition, John Welsh, the president of the Centennial Board of Finance, said good-bye: "Our work has its place in the annals of the nation. If the memories of it be pleasant to our countrymen, we have done well." (Maass). Looking back at the exhibition's accomplishments, it is fair to say they did well.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Armstrong, Lilian</author>. <title TEIform="title" level="m" rend="italic">Renaissance Miniature Painters and Classical Imagery.</title> London: Harvey Miller Publishers, <date TEIform="date">1981</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Klein, Esther M</author>. <title TEIform="title" rend="italic" type="m">Fairmount Park</title>. Bryn Mawr, Pennsylvania: Harcum Junior College Press, <date TEIform="date">1974</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">McCabe, James D</author>. <title TEIform="title" rend="italic" type="m">The Illustrated History of the Centennial Exhibition.</title> Philadelphia: The National Publishing Company, <date TEIform="date">1975</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Post, Robert C.</author>
+            <title TEIform="title" rend="italic" type="m">1876: A Centennial Exhibition.</title> The National Museum of History and Technology Smithsonian Institution, Washington, DC. <date TEIform="date">1976</date>.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

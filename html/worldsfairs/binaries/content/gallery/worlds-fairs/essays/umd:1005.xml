@@ -1,0 +1,151 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">London 1908, Machinery Hall </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Franco-British Exhibition (1908 : London, England)">Franco-British Exhibition (1908 : London, England)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Mariya Levin </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">9 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">28London.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on Machinery Hall at the 1908 Franco-British Exposition in London, England created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">London 1908, Machinery Hall </title>
+          <author TEIform="author">Mariya Levin </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Franco-British Exhibition (1908 : London, England)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Machinery Halls.  Franco-British Exhibition (1908 : London, England)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">United Kingdom</item>
+            <item TEIform="item" n="region">England</item>
+            <item TEIform="item" n="settlement">London</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">London 1908, Machinery Hall <figure TEIform="figure" entity="umd:11414"></figure>
+          </head>
+          <p TEIform="p">This image represents the entrance to Machinery Hall of the 1908 Franco-British Exhibition in London. The original is one in a series of 3.5 x 5.5-inch postcards, printed by Valentine &amp; Sons Ltd. The Machinery Hall covered 125,000 square yards. In this image it looks very elaborate, garish, and reminiscent of Gothic architecture. The flags seen on the top of the building are French and British. There are decorations looking like lanterns around the perimeter of the building. Within the context of the fair, the pavilion was vast yet not imposing. 
+		</p>
+          <p TEIform="p">The London 1908 Exposition was located on an area of agricultural land in Shepherd's Bush, West London, which provided 140 acres of land, close to excellent transportation facilities. Two stations were built on the Underground to serve the exhibition. The Machinery Halls were located in the White City, that was laid out in a cross shape comprising distinct areas for the arts, inventions, entertainment, sports, the Court of Honour, and the central gardens. The nickname related to the light, alabaster shade of the pavilions. In addition the visitors thought the buildings looked like wedding cakes. 
+</p>
+          <p TEIform="p">In the Machinery Halls, heavy industry was represented by displays on mining, iron and steelwork, armaments manufacture, shipbuilding, pumping and motive power machinery, electricity generation, as well as textile and printing machinery. Many displayed objects were "instruments of war" such as a gun carried on the backs of three dummy men. Warship firms displayed models of their scouts, destroyers, armed cruisers and torpedo boats. War relics included an astrolabe of 1578, the barge of the great Napoleon, the flat-bottomed boats which the French used when they captured Algiers, and some of the small cannons used on the gunwales of eighteenth century warships. 
+</p>
+          <p TEIform="p">Numerous modern inventions were also featured. The steel and iron industry displayed flywheels, and suction producers, while railway companies made a model of a Scenic Railway outside. The place of honor in the French hall was taken by the great "Pont-??-Mousson" blast furnace. The London Electricity Companies demonstrated modern cooking with electric range and kettles, and showed sewing machines.</p>
+          <p TEIform="p">One of the great luxuries in the building was a free rest room, in the middle of which was a pleasant fountain. <title TEIform="title" level="m" rend="italic">The Franco-British Exhibition: illustrated review</title> commented on this idea: "Remembering the general comfortless-ness of the grounds, it was a stroke of real genius to put that oasis of rest in the centre of the grim and dour Machinery Halls." 
+</p>
+          <p TEIform="p">The exhibition lasted from May 14 to October 31, 1908. <title TEIform="title" level="m" rend="italic">The Historical Dictionary of World's Fairs and Expositions</title>, states that "attendance came to 8.4 million, with receipts of over 420,000 Pounds ensuring its financial success." The exposition was considered a success by promoting Anglo-French cooperation. The Franco-British exhibition was likely the most popular of the Edwardian era. The buildings served for the International Imperial Exhibition of 1909 and the Japan-British Exhibition of 1910. The Machine Halls were eventually demolished, but the site was reused until WWI, and the main stadium was used until as late as 1984. Currently, the television broadcasting company BBC occupies the site. Both of the Underground stations were originally meant to be open only for the duration of the exhibition, but over the years they have been operated to serve other exhibitions, shows and the athletics track nearby. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Carden, Robert W.</author> "<title TEIform="title" level="a">The Franco-British Exhibition.</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title>.  <date TEIform="date">1908 July</date>, v. 24, p. [32]-37 ; <date TEIform="date">1908 Sept.</date>, p. [108]-111.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Dumas, F.G.</author>
+            <title TEIform="title" level="m"> The Franco-British Exhibition: illustrated review</title>. London: <publisher TEIform="publisher">Chatto and Windus</publisher>, <date TEIform="date">1908</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Findling, John E</editor>., editor, <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>. p. 203-205. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Greenhalgh, Paul</author>. "<title TEIform="title" level="a">Art, politics and society at the Franco-British Exhibition of 1908</title>." <title TEIform="title" level="j" rend="italic">Art History</title>. <date TEIform="date">1985 Dec.</date>, v.8, no.4, p.434-452. </bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

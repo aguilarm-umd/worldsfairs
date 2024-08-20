@@ -1,0 +1,159 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Trylon and Perisphere </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="New York World's Fair (1939-1940)">New York World's Fair (1939-1940)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">James Yu </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">10 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">32NY.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-17">January 17, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Trylon and Perisphere at the 1939-1940 New York World's Fair created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Trylon and Perisphere </title>
+          <author TEIform="author">James Yu </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						New York World's Fair (1939-1940)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Trylon.  New York World's Fair (1939-1940)						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Perisphere.  New York World's Fair (1939-1940)						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">New York</item>
+            <item TEIform="item" n="settlement">New York (city)</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">
+            <figure TEIform="figure" entity="umd:955"></figure>
+            <figure TEIform="figure" entity="umd:957"></figure>
+            <figure TEIform="figure" entity="umd:959"></figure>
+          </head>
+          <p TEIform="p">As the 1939 New York World's Fair was divided into many different thematic zones, its planners wanted a central symbol for this event. The original idea was to have a theme center, with twin 250 feet towers and a semicircular hall to display dioramas. Wallace K. Harrison, a prominent New York architect of the Harrison Fouilhoux firm, was selected to design the theme center in November 1936. Harrison wanted a design that would represent a new architecture concept. In his own words, "we found ourselves constantly referring to the domes and campaniles of Venice, perhaps because the flat country and water of the Fair grounds are very like that of the site of Venice and in addition the sky color of New York is practically the same." (Newhouse,82) The idea of a large dome was a starting point for all further designs, and many different ideas were initially developed. There were plans to use a sphere that was suspended by steel cables, giving it a light, airy feel as well as a large balloon, anchored by steel cables and accessible by elevator. A spherical design was not a new idea, however. An earlier example of such a design was proposed by Etienne-Louis Boull??e in his project for Newton's Cenotaph in 1783, featuring a huge sphere at the center. In the end a design that featured a sphere 200 feet in diameter raised on pillars was selected. Despite its huge dimensions, with a 200-foot diameter, it was hard to grasp the exact scale of the sphere. Harrison and his design team finally came up with the idea of using a tall spike to frame the sphere, but there was still the problem of placing the two in relation with each other. They found inspiration from drawings by a Soviet constructivist architect named Jacob Tchernikhov, which represented two large spheres connected to a tall spike by way of a ramp. 
+
+		</p>
+          <p TEIform="p">The final design had emerged. It included the Perisphere, a 200 foot spherical exhibit building, the Trylon, a 700 foot tall three sided obelisk, and the Helicline, a 950 foot circular ramp which connected the two and allowed visitors to exit. However the final dimensions of the building was reduced from the original values to a 180 foot sphere and a 610 foot spike due to budget limitations, which threw off the carefully calculated proportions. The Perisphere was elevated from the ground by five steel pillars, and rested over a large reflecting pool. Harrison had envisioned a concrete shell for the Trylon and Perisphere, but this also was too expensive, since America was just coming out of the Depression. Instead, he used a steel frame covered by less expensive cement stucco, which was modified to a magnesite compound. This created a bumpy surface, which took away from the modern look. 
+</p>
+          <p TEIform="p">The three images in the gallery are all from a special issue of <title TEIform="title" level="j" rend="italic">L'Illustration</title> (Vol. 97, No. 5023), a well known French illustrated news weekly, dedicated to the New York's Fair. The first image (11 in x 17 in) is the illustrated cover with the American flag prominently displayed, followed by the flags of other participating nations, including France in second place, just behind the United States. On the Perisphere were written "New York World's Fair 1939" and the theme of the fair, "Le Monde de Demain," or the World of Tomorrow. The other two images were photographs of the Trylon and Perisphere (3 in x 4 in). The first show a view of the entire structure, and the second the ramp which connects the Trylon to the Perisphere. 
+</p>
+          <p TEIform="p">To enter the Perisphere, visitors went up a huge, custom made escalator from the base of the Trylon into the center of the Perisphere, where they would stand on two levels of rotating platforms, which moved around the central display, called "Democracity", designed by Henry Dreyfuss, a well known industrial designer. The model showed a utopian city, set one hundred years in the future. As stated by David Gelernter:</p>
+          <q TEIform="q" direct="unspecified" type="block">In the future you would no longer have to live in a city just because you worked in one. You would live in the countryside or in 'garden apartments' around the city's rim. Factory workers would live in green towns just like everybody else. You would drive to work, or to sprawling green parks in the countryside, not on packed city streets but on landscaped highways ... Democracity's utopian World of Tomorrow amounts, in essence, to the modern suburbs.</q>
+          <p TEIform="p">(Gelernter, 71)</p>
+          <p TEIform="p">This exhibit was the second most popular in the fair, as visitors were thrilled to see such a city, compared to the dirty, cluttered cities at the time. Today this Utopian city may seem normal, perhaps even trite, but to people who have just lived the Depression, this would have seemed like paradise. Movies were projected on the side of the sphere with sound provided by elevated loud speakers. Once they had viewed the display from the two levels of platforms, visitors would exit through a bridge into the Trylon, and then descend the long Helicline onto ground level. </p>
+          <p TEIform="p">The Trylon was by regulations the tallest structure at the fair, since it was its symbol. The second tallest building was the Soviet pavilion, by Boris Iofan, with its statue of a worker holding a torch directly facing the Trylon. This gaudy, propagandistic show of Stalin's rule and Democracity's abstract design symbolized opposite ideals. This conflict may not have been intentional, but must have been very obvious. </p>
+          <p TEIform="p">Despite the limited budget and some compromises in aesthetics, the Trylon and Perisphere gave a grand appearance and were very popular among visitors. Rivaling that of the the Eiffel Tower, its architecture was an example of modern design, sleek, abstract, and symbolic. Many different products were sold in its image, including lamps, bookends and paper weights. The Trylon and Perisphere did not have an impact as lasting as the Eiffel tower, as they were demolished after the fair had closed. Still, they symbolize the spirit of America in the late 1930s. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Cohen, Barbara</author>. <title TEIform="title" level="m" rend="italic">Trylon and Perisphere  </title>. <publisher TEIform="publisher">Harry N. Abrams, Inc. Publishers</publisher>: <pubPlace TEIform="pubPlace"> New York</pubPlace>, <date TEIform="date">1989</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Gelernter, David</author>. <title TEIform="title" level="m" rend="italic">1939: The Lost World of the Fair</title>. <publisher TEIform="publisher">The Free Press</publisher>: <pubPlace TEIform="pubPlace">New York</pubPlace>, <date TEIform="date">1995</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Newhouse, Victoria</author>. <title TEIform="title" level="m">Wallace K. Harrision, Architect</title>
+            <publisher TEIform="publisher"> Rezzoli International Publications Inc.</publisher>
+            <pubPlace TEIform="pubPlace">New York</pubPlace>, <date TEIform="date">1989</date>.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

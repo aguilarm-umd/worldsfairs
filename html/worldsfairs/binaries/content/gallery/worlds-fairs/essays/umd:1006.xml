@@ -1,0 +1,178 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Palace of Fine Arts </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Panama-Pacific International Exposition (1915 : San Francisco, Calif.)">Panama-Pacific International Exposition (1915 : San Francisco, Calif.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">James Yu</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">14 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">29SanFrancisco.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Palace of Fine Arts at the 1915 Panama Pacific International Exposition in San Francisco, California was created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Palace of Fine Arts </title>
+          <author TEIform="author">James Yu </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Maybeck, Bernard R.
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Panama-Pacific International Exposition (1915 : San Francisco, Calif.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Palace of Fine Arts (San Francisco)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">California</item>
+            <item TEIform="item" n="settlement">San Francisco</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Palace of Fine Arts 
+            <figure TEIform="figure" entity="umd:11454"></figure>
+          </head>
+          <p TEIform="p">The Palace of Fine Arts was one of the finest building constructed for the 1915 Panama Pacific International Exposition in San Francisco. It was one of the most important symbols of the fair, situated near its center, at the end of the axis on which were located the Courts of the Four Seasons and of the Universe at the center, and the Court of Abundance, with the Machinery Palace framing the other side. 
+
+		</p>
+          <p TEIform="p">The Palace was designed by a well known local architect, Bernard Maybeck (b. New York, New York 1882; d. Berkeley, California 1957) who studied architecture at the Paris Ecole des Beaux Arts. Maybeck then moved to San Francisco, joined the firm of A. Page Brown, and established a private practice in 1894. Maybeck practiced in many styles, some of which he developed from local Californian forms. He also believed in originality for solving architectural problems, and he did just that in designing the Palace. The Palace was hailed as the most original design of the exposition. Although he used many elements from Greek and Roman antiquity, Maybeck did not simply follow customary forms, like other architects who tried to emulate classicism. The Palace was meant to represent a decaying Roman ruins. In the words of Maybeck, the building gave a sense of "sadness modified by the feeling that beauty has a soothing influence." (Maybeck, 3) 
+</p>
+          <p TEIform="p">The Palace of Fine Arts was built around a small artificial lagoon, as can be seen from the first image, a colored photograph from <title TEIform="title" level="m" rend="italic">Colortypes of the Panama Pacific International Exposition at San Francisco 1915</title> (4 in. x 6 in.). It is composed of a wide, 1100 foot pergola, an arch formed by rows of Corinthian columns framing a wide walkway, around a central rotunda situated by the water. In the background behind the colonnades were fire proof art galleries with 113 rooms, exhibiting art, mainly paintings by various local and foreign artists. The center of the arch was placed behind the rotunda, so that the two were not aligned in concentric rings. This allowed a wider arch to be built in the same space, giving it a grander appearance. 
+</p>
+          <p TEIform="p">The pergola can be more closely seen in the next image, reprinted from the same source and measuring 4 by 6 inches, as well as in the third and fourth images, which are photographs from <title TEIform="title" level="m" rend="italic">Souvenir Views of the Panama Pacific International Exposition San Francisco California 1915</title> (7 in. x 11 in.) There were ochre columns, topped by boxes, mixed with pale green ones. The boxes were originally meant to house small trees and hanging vines, but these were not planted for budgetary reasons. At each corner of the boxes stood statues of women looking inwards, sculpted by Ulric Ellerhusen. They were meant to represent the melancholy of life without art. The colonnades stood along the side of the lagoon, as can be seen in the second image, with the reflection of the tranquil water adding a pleasant element. 
+</p>
+          <p TEIform="p">Along the side of the walkway in the pergola was a garden of small trees and shrubbery. Plants were present everywhere in the Palace, along the pergola and the rotunda, befitting the theme of a decaying ruin, overrun by nature. According to Maybeck, "it is the water and the trees" that people came to see (Macomber, 23). The natural scenery was integral to his design. The combination of majestic structures and nature is a testimony to human achievement, through the grand, Roman style building, as well as to its humbling limits, through the effect of the decaying ruins. The scale of the building can be evaluated in the fourth image, compared to the people along the walkway. The columns are majestic, and give one a sense of the "sublime," of awe mixed with admiration in front of a building of such magnitude. 
+</p>
+          <p TEIform="p">The focal point of the palace is the central rotunda. It is composed of a circular dome, supported by eight columns, and is connected to the pergola by a bridge. The design is reminiscent of an ancient Roman temple. Some examples of circular Roman temples include the temples of Vesta and Mater Matuta in Rome, Vesta at Tivoli, and Venus at Baalbek. Inside the rotunda are various artworks that celebrate art through history. On the underside of the dome is a magnificent mural by Robert Reid, depicting the conception and birth of Art, "its commitment to the Earth, its progress and acceptance by the human intellect, is expressed in the four major panels (Macomber, 25)." These panels depict "The Birth of European Art", "The Birth of Oriental Art", "Ideals in Art", and "Inspiration in all Art." Besides the mural and the major panels, many other statues and paintings were integrated into the rotunda, including an equestrian statue of Lafayette. "Aspiration", a sculpture by Leo Lentielli, was suspended over the main entrance to symbolize the rise towards achievement. In front of the rotunda, a kneeling figure, representing a devotee to art, beauty and truth is displayed in front of the altar, which can only be seen from the other side of the lagoon. In the four minor panels were illustrated the four "golds" of California ??? gold, wheat, poppies, and oranges. Over all, art, architecture, and the natural environment were presented as a perfect match. 
+</p>
+          <p TEIform="p">The last image is a stereograph (2.5 in x 2.5 in) showing the statue of "Prima Mater," (a primitive mother) nursing a baby in her arms. Many other sculptures can be found along the pergola, such as Janet Scudder's fountain figures. 
+</p>
+          <p TEIform="p">Although the Palace was not built to last beyond the fair, especially since it was sitting on very valuable land and made primarily from plaster supported by a steel structure, it captured the attention and adoration of the people. Many San Franciscans wished to see a permanent version of the Palace built in the Golden Gate Park. When the fair was closed in 1916, the Palace remained open due to popular demand. It became the site for numerous art shows, and was maintained by donations and fund. However, due to neglect and the temporary nature of its materials, the Palace had begun to crumble, and turned into a real ruin. Plants and vines were overgrown, and ironically covered up the areas which were originally left bare for economic reasons. This only added to the building's aesthetic value, since this was the way that Maybeck had intended his creation. People demanded that it be restored. Finally in 1958, the Californian state legislature agreed to provide two million dollars to fund the reconstruction of the Palace if the city could match these funds, which were donated by Walter Johnson, a wealthy businessman. Work finally began in 1965, when the old Palace was demolished and removed, and a new permanent building erected. 
+</p>
+          <p TEIform="p">Despite all the public adulation received by the Palace, it was not as recognized by architects. Although Maybeck had been trained to follow French academic methods, "his work still does not seem to fit the idea of an American Beaux-Arts architect." (Banham, 34) Maybeck resisted copying elements of his design from previous works. As a result, the Palace couldn't be compared with any prototypes of European architecture. As the British critic Reynard Banham stated, "even though the building may work brilliantly on the ground ... there is nothing to show on the other screen!", referring to the two-slide comparative technique used to reveal similarities between two buildings (Banham, 36). 
+</p>
+          <p TEIform="p">Although the Palace and Maybeck may not have received their due respect from the architectural community, their success is not diminished at all. The Palace still stands, fascinating visitors with its beauty. It is beloved by the people of San Francisco, and in the end, that is more important than praise from other architects. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Banham, Reyner</author>. "<title TEIform="title" level="a">The Plot Against Bernard Maybeck</title>." <title TEIform="title" level="j" rend="italic">Journal of the Society of Architectural Historians</title>. <date TEIform="date">March 1984</date>, p33-37.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Burden Ernest E</author>. <title TEIform="title" level="m" rend="italic">San Francisco's Wildflower: the Palace of Fine Arts</title>. San Francisco: <publisher TEIform="publisher">Phoenix Publishing Co.</publisher>, <date TEIform="date">1967</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Eggener Keith L</author>. "<title TEIform="title" level="a">Maybeck's melancholy: architecture, empathy, empire, and mental illness at the 1915 Panama-Pacific International Exposition</title>." <title TEIform="title" level="j" rend="italic">Winterthur Portfolio</title>. <date TEIform="date">Winter 1994</date>, p.211-226. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">James, Julia H. L.</author>
+            <title TEIform="title" level="m" rend="italic">Palaces and courts of the exposition</title>. San Francisco: <publisher TEIform="publisher">Blair Murdock Co. Publisher</publisher>, <date TEIform="date">1915</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Macomber, Ben</author>
+            <title TEIform="title" level="m" rend="italic">The jewel city: its planning and achievement</title>. San Francisco: <publisher TEIform="publisher">John H. William Publisher</publisher>, <date TEIform="date">1915</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Maybeck, Bernard R</author>. "<title TEIform="title" level="a">Palace of Fine Arts and Lagoon</title>." San Francisco: <publisher TEIform="publisher">Paul Elder and Company Publisher</publisher>, <date TEIform="date">1915</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Sterling, George</author>. <title TEIform="title" level="m" rend="italic">The Evanescent City</title>. San Francisco: <publisher TEIform="publisher">AM Robertson Publisher</publisher>, <date TEIform="date">1916</date>. 
+</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

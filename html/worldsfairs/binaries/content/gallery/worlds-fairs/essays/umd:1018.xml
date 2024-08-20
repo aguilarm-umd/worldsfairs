@@ -1,0 +1,158 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Panorama of the Panama-California Exposition</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Panama-California Exposition (1915 : San Diego, Calif.)">Panama-California Exposition (1915 : San Diego, Calif.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Christopher Jinks</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">16 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">42sandiegopanorama.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-28">February 28, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on Panorama of the Panama-California Exposition created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Panorama of the Panama-California Exposition</title>
+          <author TEIform="author">Christopher Jinks</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Goodhue, Bertram Grosvenor, 1869-1924
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Panama-California Exposition (1915 : San Diego, Calif.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">California</item>
+            <item TEIform="item" n="settlement">San Diego</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Panorama of the Panama-California Exposition<figure TEIform="figure" entity="umd:11442"></figure>
+          </head>
+          <p TEIform="p">Prior to 1915, world's fairs and exhibitions were held in well-established and large cities.  Existing resources and transportation were ample or could be easily improved upon.  The Panama-California Exposition of 1915 was different as it changed the small port town of San Diego into a sprawling and successful metropolitan area.  </p>
+          <p TEIform="p">This postcard is approximately 1-1/2 inches high by 3-1/2 inches wide and depicts the Panama-California Exposition as seen from the surrounding area of Balboa Park.  It comes from a set published by I. L. Eno of San Diego and copyrighted in 1914 by the organizers of the exposition, before the fair actually opened.  This panoramic photograph gives the viewer an idea of just how impressive the exposition was.  From this vantage point, it is easy to imagine the fair as a mythical kingdom on a majestic plateau.  This was precisely the image that its planners hoped to convey.</p>
+          <p TEIform="p">The dominant color of the postcard is green.  The mesa on which the exposition perched was covered in foliage, an unusual sight for this part of the world.  Please keep in mind that this is an image of southern California, a region on the brink of the massive Mojave Desert of Arizona.  Only a few years prior to 1915, the mesa was a mound of scrub and a few desert plants.  An irrigation and planting campaign transformed the landscape into the mass of greenery visible on the postcard.  (Brinton 31)</p>
+          <p TEIform="p">The exposition was meant to celebrate events dating back to the early sixteenth century.  The Spanish explorer Balboa was the first to explore into the new world in 1512, crossing the isthmus of Panama and discovering the eastern shore of the Pacific Ocean.  To commemorate this discovery, San Diego changed the name of City Park, where the fair was to be held, to that of Balboa Park for the exposition.  (Findling 227)  In 1542, Juan Rodr??guez Cabrillo became the first to enter the San Diego harbor.  Don Sebasti??n Viszca??no later ventured further up the coast in 1602.  The area was then colonized by Spanish missionaries, a trend repeated throughout much of the Southwest and the California coast.  Missions began dotting the landscape and determined the location of future towns and cities.  The mission that sat atop the same mesa as the exposition was founded by a monk named Father Jun??pero Serra in 1769.  (Neuhaus 8</p>
+          <p TEIform="p">The idea for a fair was initially proposed in 1909 by San Diego banker G. Aubrey Davidson.  (Findling 227)  The plan was to hold a festival to celebrate the opening of the newly finished Panama Canal.  However, San Diego was not alone.  San Francisco and New Orleans were also contenders to host a Panama exposition.  It was decided that the state of California would get the nod from the United States government, with San Francisco holding a large international exposition and San Diego concurrently hosting a smaller fair focused on regional exhibits.  A major reason for such a decision was that the California ports would feel a greater impact from the canal, being on the west coast of the continent. More importantly, however, the plans for San Diego and San Francisco called for less federal contribution.  (Findling 227</p>
+          <p TEIform="p">Architectural character was a point of controversy early on in the planning process.  Many of the backers and planners felt that to be historically accurate, pavilions should be designed in the Spanish mission style which was most familiar to the area.  However, this idiom was deemed too simple and lacking in monumentality.  After all, original missions were not built by professionally trained architects, but rather by monks building a utilitarian shelter.  Thus chief architect Bertram Grosvenor Goodhue and other planners of the fair selected Spanish Colonial, a more grandiose and ornate style.  (Neuhaus 24)  Goodhue (1869-1924) was a Connecticut native and a well established architect who had recently left the group of Cram, Goodhue, and Ferguson in Boston to establish his own independent office in New York.  (Withey 239)  Choosing ???High Baroque??? architecture proved to be a good decision, as the fair won many accolades for its beauty.</p>
+          <p TEIform="p">One of the most distinctive and recognizable features of the exposition is visible on the extreme right of the postcard: the Puento Cabrillo.  This bridge was designed by engineer and Director of Works Frank P. Allen, Jr.  (Neuhaus 79)  Although they deemed it beautiful and definitely grand, many critics of the fair would have preferred a more ornate bridge matching the fair's Spanish colonial idiom.  Nevertheless, the Puento Cabrillo was an impressive creation.  Its highest point rose 110 feet above the floor of the canyon of the same name.  Its seven arches spanned 450 feet of thin air. Including both approaches, the total length exceeded one thousand feet.  The bridge leads up to the fair's main western entrance.  Although the original plan called for a main entrance on the east, the Puento Cabrillo's grandeur demanded that fairgoers enter from the west.  (Neuhaus 26)  The bridge offered a vista of the southwest landscape and helped to emphasize the kingdom-on-the-hill atmosphere.  The Puento Cabrillo did not fail to impress the visitors for whom it was the first experience of the exposition.  They would also not be disappointed after that.</p>
+          <p TEIform="p">As fairgoers approached the city, the first building they came upon was the Administration Building designed by Irvin Gill.  Although ornate, the building was overshadowed by the looming California Building and the wall that encompassed the exposition.  To many it appeared a mere guardhouse and received little attention.  (Neuhaus 29)  Visitors were eager to pass through the gaping archway that led into the heart of the exposition.</p>
+          <p TEIform="p">The first building that was encountered through the main gate was the California Building, designed by Goodhue himself. Its tower and massive dome dominated the skyline.  With the Building of Fine Arts, it framed the California Quadrangle.  (Brinton 31)  The architecture of the California Building borrowed from many different styles.  The overall form reminded many of the Cathedral of St. Sophia in Constantinople.  (Neuhaus 17)  The four arches supporting the main dome were distinctly Byzantine in origin, and the tower recalled the praying towers or minarets of Moorish mosques.  The colored tiles adorning the dome were distinctly Spanish.  The ornate front fa??ade was crowned by a statue of Father Serra, the founding monk.  Below him were Viszca??no, Cabrillo, and other explorers of the region.  Walls were left plain for some stretches, but punctuated by relief work.  Small pools created a calming effect around the exterior.  (Neuhaus 17-20)  The California Building was truly magnificent to behold.</p>
+          <p TEIform="p">The main axis of the exposition continued west of the Puento Cabrillo and became the Prado, or central avenue, lined with exhibition buildings on each side.  It led into the center of the exposition where it opened up into a central plaza.  The Plaza de Panama was the intersection of the Prado and the minor north-south axis.  To the south, visitors encountered the Organ Pavilion, visible at the right of the postcard, where concerts were given daily.  The pavilion had a central area housing the organ and curved colonnades that swept out to embrace the Plaza de los Estados.  The individual state pavilions were located directly behind the plaza.  The north of the minor axis was home to the Botany Building, visible as a brown dome on the left.  The building was surrounded by lush botanical gardens.  (Neuhaus 44)</p>
+          <p TEIform="p">Although the buildings of the fair housed many exhibits set up by the Smithsonian, there were few exhibits as impressive to many as the "city" itself.  In addition to the buildings, there was hardly a spot in the fair not adorned with beautiful plants.  Many agree that while the architecture made the fair unforgettable, the foliage made it spectacular.  Plants native both to the southwest and to Spain were dominant in every echelon of the city.  The Prado itself was lined with beautiful acacia trees.  In addition to this, the grass lawns, and especially the huge park directly behind the California building, invited fairgoers to lounge in their green embrace.  The impressive botanical gardens also awed many with their tropical and exotic displays, all framed by two landscaped pools, the Laguna de los Flores and the smaller Lagunita.  (Neuhaus 27-44)  The impressions that the foliage left on visitors led many to dub the exposition, "The San Diego Garden Fair." </p>
+          <p TEIform="p">The Panama-California Exposition was so successful that it remained open for part of 1916.  Its regional pride with international flavor made the fair truly a site to behold.  The majority of the fair's pavilions still exist today, including one of San Diego's most recognizable symbols, the California Building.  Some organizations spawned from the fair also still exist today, like the world famous San Diego Zoo.  The exposition left a huge impression on the hearts of many, but more than anything on the heart of the city of San Diego.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Brinton, Christian</author>.  <title TEIform="title" level="m" rend="italic">Impressions of Art at the Panama-Pacific Exposition</title>.  New York: John Lane Company, 1916.  pp. 31-39.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Elder, Paul</author>, editor.  <title TEIform="title" level="m" rend="italic">The Architecture and the Gardens of the San Diego Exposition</title>.  San Francisco: P. Elder, c1916.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>.  <title TEIform="title" level="m" rend="italic">Historical Dictionary of World???s Fairs and Exhibitions</title>.  New York: Greenwood Press, 1990.  pp 227-230.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Neuhaus, Eugen</author>.  <title TEIform="title" level="m" rend="italic">The San Diego Garden Fair</title>.  San Francisco: P. Elder and Company, 1916.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Official Publication Panama California International Exposition</title>.  San Diego: I. L. Eno, 1916.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="a" rend="italic">Panama-California Exposition homepage</title>.  <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.sanfranciscomemories.com/ppie/panamapacific.html">http://www.sanfranciscomemories.com/ppie/panamapacific.html</xref> (accessed March 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rydell, Robert W</author>.  <title TEIform="title" level="m" rend="italic">Fair America: World???s Fairs in the United States</title>.  Washington, D.C.: Smithsonian Institution Press, c2000. pp. 68-71.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Withey, Henry F</author>.  <title TEIform="title" level="m" rend="italic">Biographical Dictionary of American Architects</title>.  Los Angeles: Hannessey and Ingalls, Inc., 1970.  pp. 239-240.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

@@ -1,0 +1,157 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">The Rotunda of the 1873 Vienna International Exhibition</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Vienna International Exhibition (1873)">Vienna International Exhibition (1873)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Ly Y. Bui</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis </name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">10Vienna.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-23">February 23, 2006 </date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Rotunda of the 1873 Vienna International Exhibition created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">The Rotunda of the 1873 Vienna International Exhibition</title>
+          <author TEIform="author">Ly Y. Bui</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Vienna International Exhibition (1873)
+						</name>
+            </item> 
+           <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Rotunde. Vienna International Exhibition (1873)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">Austria</item>
+            <item TEIform="item" n="settlement">Vienna</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">The Rotunda of the 1873 Vienna International Exhibition<figure TEIform="figure" entity="umd:11252">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" rend="italic">Kunst und Kunstgewerbe auf der Wiener Weltausstellung, erstes Heft</title>, page 6.</figDesc>
+            </figure>
+          </head>
+          <p TEIform="p">Austria hosted a world's fair in 1873, as it aimed to present itself as a world leader and the equal of England and France. The structure that served as the focal point and ideological locus for the Vienna Exhibition was its striking Rotunda, a feat of engineering and design, which is pictured here during the fair's opening ceremonies on May 1, 1873.</p>
+          <p TEIform="p">On that day, the streets of the Ringstrasse were wet with a cold drizzle. More than twenty thousand Viennese citizens came out to see the festivities, yet the area around the Rotunda, Leopoldstadt and Praterstern, did not seem even half full. Emperor Francis Joseph appeared at noon, signaling the beginning of the ceremonies. The program was unusually brief; it concluded in less than thirty minutes and lacked any type of formal speech. However, the one characteristic that immortalized that day was the music. The strains of the Imperial Opera's orchestra and the voices of two Viennese Glee Clubs united in performing Handel's March, the waltzes of Strauss, and the Austrian national hymn.</p>
+          <p TEIform="p">While the music emerged as a high point of the initial celebrations, the atmosphere in Vienna during the fair seemed rather half-hearted. For the past several years, the nation had been enjoying a period of economic growth and domestic prosperity. However, just a fortnight after these opening ceremonies, the Austrian stock market underwent a severe crash, wreaking havoc on the domestic economy. This frustrated the efforts of the Austrians to convey a strong impression to the international community. Ironically, it also seemed that while other countries experienced success in selling their national products to the fair visitors, the Austrian displays lay untouched. For these reasons, the atmosphere in Vienna during the fair was not as jubilant as had been seen at other exhibitions. However, the crash occurred after the Rotunda was built, so the budget for the construction of the Rotunda strikes one as fairly impressive. In July 1871, the original amount allocated for its building was 6,000,000 florins. However, in September of 1872, an additional 6,000,000 florins was added.</p>
+          <p TEIform="p">The website image is an 8 X 11 inch black and white engraving that appeared in the periodical <title TEIform="title" rend="italic">Kunst und Kunstgeverbe auf der Werner Weltasstelling</title>. One can note the presence of a small crowd, in their finest attire inside the building. It seems logical that this picture was sketched by an artist who had been present during the ceremony. This picture accurately shows the elaborate interior of the building, with its decorative ceiling panels and archways. This building was inspired by the style of the Italian Renaissance. One architect that is intimately associated with this genre is Andrea Palladio (1508-1580). His best known work may be the Villa Rotunda, which took its cue from the Pantheon in Rome. (Ree) Palladio's innovative design would earn the admiration and respect of many as a major architectural achievement. Having the central hall in a circular form also provides more floor area for the amount of wall surfaces, and gives a feeling of open space. </p>
+          <p TEIform="p">The foundation for the Vienna Rotunda was tenuous from the beginning; it rested on the moist earth that was often flooded by the annual springtime swelling of the nearby Danube River. Indeed, the solid earth only extended six feet beneath the structure; below that was the moist and unstable Danube waterbed. Miraculously, the spring of 1873 was unusually dry and water did not creep into the foundations. To counteract this softer ground, piles of cement were first laid, topped by blocks of brick covered by stone slabs, which formed the actual supports for the iron columns. These piles stood four feet above the ground, to ensure the stability of the foundation. The outside walls of the structure were composed of cement and stucco, with the lower portions in imitation stone. A circular arcade surrounded this area and led into four gardens.</p>
+          <p TEIform="p">The engineer for the Vienna Rotunda was J. Scott Russell, who utilized 4,000 tons of iron. Including its topmost crown which was 60 feet tall, its height reached to 284 feet. The diameter of the dome itself was 440 feet, with a circumference of 1,080 feet and peak of 284 feet. Its structure consisted of 32 pairs of columns of iron each 80 feet tall. It is estimated that these columns, which had been reinforced with iron plating, each individually bore the weight of 109 tons. These iron columns provided the only physical support for the dome. The supporting columns were connected by an iron circular girder riveted together on the site. In a display of modern technology, this ring was then raised by hydraulic lift, with the columns placed under it as it was elevated. Radial girders 200 feet long were bolted to the girder at its top and bottom. These measurements place the Vienna Rotunda as the largest of its kind. By comparison, it was 3.17 times larger than the dome of St. Paul's cathedral in London, 2.26 than that of St. Peter's in Rome, and 2.22 larger than the Crystal Palace in London.</p>
+          <p TEIform="p">The underside of the dome was covered with canvas which was laced though rings under each of the radial girders. This underside was then graced with drawings 21 feet across, lending a "fresco-like" appearance to the material.</p>
+          <p TEIform="p">Despite the mechanical perfection that this structure seemed to have attained, it was erected in an amazingly short amount of time. In September 1872, just months prior to the fair opening, the Rotunda "..wore the look of a prematurely ruined Coliseum..." (Gindriez, 23) It was only in the two weeks preceding the opening ceremony that the last layer of gravel was laid in front of the entrance. At this time scaffolding still shrouded the south and west portals. Floor finishing and the provision of chairs had yet to be addressed. It is estimated that the night of April 13, more than 15,000 workers were present in an attempt to bring the effort up to schedule. To speed construction, Austria even received by railway iron plates and pillars from Belgium and northern Germany.</p>
+          <p TEIform="p">The Vienna Rotunda was a grand structure that served as the heart of the exhibition. It was built on Austria's hopes of proving itself to the world, although this country still had difficult times ahead. However, the use of this impressive architecture granted a sense of elegance and nobility to the opening ceremonies.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Gindriez, Charles</author>. <title TEIform="title" level="m" rend="italic">World's Fair International Exhibitions</title>. New York: A.S. Barnes and Co., 1878. 
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">U.S. Commission to the Vienna Exhibition</author>. <title TEIform="title" level="m" rend="italic">Reports, United States Commissioners, Vienna International Exhibition</title>. Washington D.C.: Government Printing Office 1876. Volume 4.
+					</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ciupitu, Octavina</author>. <title TEIform="title" level="a" rend="italic">Earlier Architecture in Austria</title>. (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://arch.kth.se/hemsidor/otherhome/octavianhome/Austria/vienna.html">
+				http://arch.kth.se/hemsidor/otherhome/octavianhome/Austria/vienna.html</xref>).
+				1995</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">ViennaSlide</author>. 
+<title TEIform="title" level="a" rend="italic">The Ringstrasse</title> and <title TEIform="title" level="a" rend="italic">The Prater</title>.  (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://viennaslide.com/e-start.htm">
+http://viennaslide.com/e-start.htm</xref>)
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ree, Paul van der</author>. <title TEIform="title" level="m" rend="italic">Italian Villas and Gardens :a corse di disegno</title>. Amsterdam: Prestel, 1992</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

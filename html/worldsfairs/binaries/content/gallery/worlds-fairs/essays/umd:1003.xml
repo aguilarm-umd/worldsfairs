@@ -1,0 +1,159 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">The Court of Honor </title>
+        <title TEIform="title" type="version">An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Franco-British Exhibition (1908 : London, England)">Franco-British Exhibition (1908 : London, England)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Katie Chiles</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">10 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">27London.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Court of Honors at the 1908 Franco-British Exposition in London, England was created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">The Court of Honor </title>
+          <author TEIform="author"> Katie Chiles</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005"> 2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Kiralfy, Imre
+						</name>
+            </item>
+            <item TEIform="item">             
+ <name TEIform="name" type="corporate">
+						Franco-British Exhibition (1908 : London, England)						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Court of Honor.  Franco-British Exhibition (1908 : London, England)						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">United Kingdom</item>
+            <item TEIform="item" n="region">England</item>
+            <item TEIform="item" n="settlement">London</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">The Court of Honor <figure TEIform="figure" entity="umd:11410"></figure>
+          </head>
+          <q TEIform="q" direct="unspecified" type="block">By day it is a vision of dazzling whiteness, with its tiled court and plashing cool waters, its pointed arcades and lattice windows. At night it is equally effective with its thousands of lights and the rainbow colours of the cascade.</q>
+          <p TEIform="p">-Robert W. Carden, <title TEIform="title" rend="italic">Architectural Review</title>
+            <date TEIform="date"> July, 1908</date>
+          </p>
+          <p TEIform="p">Despite varied opinions about the 1908 Franco-British Exhibition, an event designed to confirm the friendly relations between France and Britain as described in the <title TEIform="title" level="j" rend="italic">Entente Cordiale</title>, there was collective praise for the Court of Honor. The full grandeur of the Court can hardly be felt by the image presented here on a three by five inch postcard. As visitors entered from the main gates of Wood Lane, the Court of Honor was their first impression of the fair. The largest in Britain to date, the Exhibition occupied 140 acres of Shepherd's Bush in west London, an area now known as the "White City" due to the white plaster of the fair's structures. </p>
+          <p TEIform="p">Visible from the postcard printed by Valentine &amp; Sons Ltd., the court surrounds an artificial lake measuring 400 by 100 feet and crossed in the middle by an ornamental bridge. Various small pavilions protrude into the water, each with an octagonal plan and topped with a dome. These wooden framed structures are covered in layers of canvas and plaster. Artists molded the delicate lattice work, sculpture, and detail with additional plaster. The bridge and pavilions of the Court are influenced by Oriental architecture, an oddity for a Franco-British Exhibition. Matching buildings surround the lake on four sides. The large structure toward the upper right-hand corner of the postcard is mirrored by a pendant building on the opposite side of the lake. These were the Palaces of French and British Industries. At the far end of the lake and obstructed from view in the postcard were the entrance gates from Wood Lane. On the fourth side, behind the viewer in this image, was a spectacular cascade in front of Congress Hall. Already impressive during the day, the view was brilliant at night: a cascade of water flowed over a framework of semi-opaque glass with colored lights beneath, producing a brilliant rainbow of light (Carden). Surrounding structures were illuminated by lanterns and other electrical lighting. 
+</p>
+          <p TEIform="p">Imre Kiralfy, its coordinator, was the driving force behind the fair. He had found previous fame in running extravagant exhibitions, and lived up to expectations by planning the Franco-British Exhibition concurrently with that year's Olympiad, held in a stadium nearby. Kiralfy saw the fair as an opportunity to gain cultural respectability; however, since he was not a trained architect, he received much criticism on his designs. He designed the Court of Honor as well as the steel frames for all of the major buildings, then consulted the architects who devised the plaster facades to create the "White City." Many critics felt that he limited the creativity of the architects by giving them pre-planned structures for their buildings. Placing blame on Kiralfy, they denounced the cosmetic role leading architects were asked to fulfill, pointing out the "vulgar error of putting the wrong end of the stick before the horse." (Greenhalgh). There were also complaints that the buildings did not fit together, despite the overall whiteness of the fair. This was mainly the result of two very different countries contributing architecturally to the fair. The French were much more adventurous with their Art Nouveau mentality, while the British constructed more classically respectable buildings (Carden).
+</p>
+          <p TEIform="p">Kiralfy was responsible for this unique physical and political setting. This was the first time that two countries had jointly sponsored an international exhibition. As explained by A. Shadwell, the <title TEIform="title" rend="italic">Entente Cordiale</title> stood for "mutual appreciation and good will, for common aims and interests; it covers sentiment, understanding, and material relations; and in all these senses it has been conspicuously promoted by the exhibition." (Dumas). There were also other agendas for the fair: to help ease the domestic tensions in London involving the women's movement, organized labor, and the Tories, and to assert Britain's imperial stature. 
+</p>
+          <p TEIform="p">The use of an Oriental style of architecture, especially evident in the Court of Honor, has been criticized for its discrepancy with the purpose of the fair. In the <title TEIform="title" level="j" rend="italic">Guardian</title>, a London newspaper, Sir Walter Armstrong wrote that the Court of Honor "is neither French nor English, but Mohamedan-Hindoo, and the other buildings have more in common with the architecture of Spanish-America or the Baroque of a united Germany than with anything in the two countries involved." (Greenhalgh). The motive for using an Oriental style of architecture may have been for Britain to show off its most prized possession, India, thus displaying itself as a powerful empire. It is somewhat ironic that in a fair celebrating friendship with France, the British intentionally used architecture to compete with French imperialism. 
+</p>
+          <p TEIform="p">While some felt that its architecture failed to exhibit the stated theme, the fair was a great accomplishment and had lasting effects. It is important to note the efforts of both countries to work together to construct and fund the Exhibition. The fair grounds, and Olympic stadium, remained and served as the site for future exhibitions and events. "White City" became a pleasure/amusement park, and the stadium's functions ranged from training Olympic athletes to the site for greyhound dog races. The stadium has since been demolished, and the fair grounds now hold the Daytona Raceway, an amusement "karting track," as well as the administrative buildings for the British Broadcasting Company (Grose). </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Carden, Robert W.</author> "<title TEIform="title" level="a">The Franco-British Exhibition</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title>.  <date TEIform="date">1908</date> July, v. 24, p. [32]-37; <date TEIform="date">1908</date> Sept., p. [108]-111.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Dumas, F.G.</author>
+            <title TEIform="title" level="m" rend="italic">The Franco-British Exhibition: illustrated review</title>.
+				London: <publisher TEIform="publisher">Chatto and Windus</publisher>, <date TEIform="date">1908</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Greenhalgh, Paul</author>. "<title TEIform="title" level="a">Art, politics and society at the Franco-British Exhibition of 1908</title>." <title TEIform="title" level="j" rend="italic">Art History</title>. <date TEIform="date">1985 Dec.</date>, v.8, no.4, p.434-452 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Grose, Tim</author>. "<title TEIform="title" level="a">White City Stadium</title>." <title TEIform="title" rend="italic">UK Running Track Directory</title>. <date TEIform="date">2001</date>. (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.runtrackdir.com/uk/london(wc).htm">http://www.runtrackdir.com/uk/london(wc).htm </xref>).</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

@@ -1,0 +1,157 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Buffalo 1901: Pan-American Exposition Bird's Eye View of Grounds and Map of Exposition</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Pan-American Exposition (1901 : Buffalo, N.Y.)">Pan-American Exposition (1901 : Buffalo, N.Y.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Matt Linkswiler </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">15 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">24Buffalo.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Bird's Eye View of Grounds and Map of the 1901 Pan-American Exposition in Buffalo, New York created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Buffalo 1901: Pan-American Exposition Bird's Eye View of Grounds and Map of Exposition 
+</title>
+          <author TEIform="author">Matt Linkswiler </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Pan-American Exposition (1901 : Buffalo, N.Y.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">New York</item>
+            <item TEIform="item" n="settlement">Buffalo</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Buffalo 1901: Pan-American Exposition Bird's Eye View of Grounds and Map of Exposition 
+<figure TEIform="figure" entity="umd:11358">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" level="m" rend="italic">Pan-American Exposition, Buffalo 1901</title> (Buffalo: Pan-American Exposition Co., 1901).</figDesc>
+            </figure>
+            <figure TEIform="figure" entity="umd:871"></figure>
+          </head>
+          <p TEIform="p">These two images, the bird's eye view and the map of the exposition, are views of the entire exposition grounds. The map can be considered to be a completely accurate plan of the fairgrounds. It is on the back of the October 15th program for the fair, and measures fifteen inches by eight inches. The program, which Time Saver Guidebooks sold for five cents, included all of the events that were scheduled to take place on that day, a few articles about the most popular attractions, and advertisements for restaurants and hotels in the area. The colors of the program are dull and dark, and the layout is simple. The map itself depicts all of the major buildings that hosted events or popular exhibits. A bird's eye view however, is an artistic rendering, and therefore does not necessarily have to be correct. This particular image was found in a pamphlet called "Pan-American Exposition, Buffalo 1901", which featured many brilliantly colored pictures of the fair, as well as a brief background and summary of events. The image is approximately twelve inches by eight inches and takes up two pages of the pamphlet. The original drawing for the bird's eye view was drawn by the office of Carr??re &amp; Hastings, and was edited by Harry Fenn. I shall study the accuracy of the bird's eye view, the general layout and organization of the exposition, the style of the architecture, the unique and novel color scheme, and the wide use of sculpture. 
+
+		</p>
+          <p TEIform="p">In 1895, a group of prominent Buffalo citizens went to the Cotton States and International Exposition in Atlanta. At that exposition, Buffalo had its own special exhibit and a "Buffalo Day". While at a banquet, the men were thinking of ways to promote their city. One suggested that hosting a world's fair would bring great attention to Buffalo. Upon further discussion, the idea became more realistic since the state and local governments were convinced to fund the project. In 1897, the Pan-American Exposition Company was incorporated, and it was decided that the theme behind the exposition would be the gathering of the Americas to exhibit and share their cultures. The fair was unique in that it was limited to countries in the Western Hemisphere, excluding the usual dominance of the European giants, and allowing the smaller countries to enjoy more space and attention (<title TEIform="title" level="m" rend="italic">Pan American Exposition Buffalo 1901</title> (no page numbers)). 
+</p>
+          <p TEIform="p">Most significant for us is the accuracy of the bird's eye view. It portrays the fair as a collection of vivid colors and luscious landscapes. Obviously, the image exaggerates the blue color of the water, the deep green of the trees, and the contrast between the bright reds of the roofs and the stark whites of the facades, as they contribute to its pictorial value. As for the precise rendering of the major buildings, the view correlates well with the map. Some of the directions of the buildings are inaccurate, but overall, the major structures are placed closely to their actual location on the map. A few of the minor buildings were left out to make the exposition grounds seem more spacious. Since the fair was called the "Rainbow City", it can be assumed that the colors of the buildings are probably fairly close to those actually used. Photographs can be found for some of the buildings pictured in this view and demonstrate the architectural accuracy of the bird's eye view. A lot of time was spent making sure that the bird's eye view was as close as possible to the actual view of the fair, but changes were made in order to increase artistic interest (Brush, p. 103). 
+</p>
+          <p TEIform="p">The plot of land selected for the fair was the Rumsey property along with a section of Delaware Park. The Delaware Park grounds, which can be seen at the bottom-most portion of the bird's eye view, had recently been under extensive development to create beautiful views of clear lakes, rolling hillsides, meandering roads, and luscious forests, which made the perfect setting for the Pan-American Exposition (Brush, p. 103). The famous New York architect responsible for the master plan, John M. Carr??re (1858-1911), used these wonderful surroundings to create an impressive sight. His layout was carefully composed and well coordinated with the colors used by Charles Turner, the director of color. A contemporary art critic commented that the "[F]elicity of arrangement and fantasy in construction are the Exposition's cardinal merits" (Findling, p. 167). Upon entering the Esplanade, visitors are surrounded by buildings dealing with arts and politics, such as the U.S. Government building, the Ethnology Building, the Temple of Music, and the Manufactures and Liberal Arts Building. Further along the major axis are buildings with a more contemporary and scientific theme, like the Machinery and Transportation Building, the Electricity Building, the Electric Tower, and the Railroad Exhibit at the top. Using the map, this organization can be found. This association of closely related buildings, while logical, was not always incorporated in international expositions. The Pan-American Exposition was an average sized fair, but seemed spacious with its 350 acres. Other major expositions such as the Columbian Exposition in Chicago were larger in area, but that of Paris in 1900 was smaller and more cramped (Brush, p. 107). 
+</p>
+          <p TEIform="p">The architecture of the exposition was in the style of the Spanish Renaissance, the traditional architecture of the former Spanish colonies in the Americas. This style could be found in almost all of the American countries that were represented in the fair, which made this a very appropriate theme. This symbolized a common bond between the participating nations and provided a sense of unity and "historical continuity of life in the Americas." (Brush, p. 101). The design harmony among most of the buildings is in fact quite striking (Brush, p. 101). </p>
+          <p TEIform="p">The advertisement of the fair hailed it as the "Rainbow City". The entire country had been talking about the great success of Chicago's "White City" in 1893. To top that, the designers of the Buffalo fair decided that it was now time to try something different. For this purpose, Charles Turner was hired as the director of color for the exposition (Findling, p. 167). He used color to direct the visitors through the fair and keep them in awe. According to Hamilton Wright Mabie,</p>
+          <q TEIform="q" direct="unspecified" type="block">Turner used color to draw visitors along the pathway of civilization from its beginnings, represented by harsh primary colors at the perimeters of the exposition grounds, to the height of modern civilization, symbolized by the Electric Tower at the center of the site, decorated in subtle, harmonious pastel shades</q>
+          <p TEIform="p">(Findling, p. 167). </p>
+          <p TEIform="p">Turner was attempting to differentiate between the traditional and modern architecture of American cultures. To do this, he used primary colors for representations of ancient architecture, and more contemporary pastel colors for current marvels of technology. This chromatic graduation helped move visitors from the less civilized outer sections of the fair, to the more civilized inner section (Findling, p. 168). A display of color of this scale had never been undertaken before, and was given excellent reviews by critics before the fair opened. This demonstration of color was also well received by the fairgoers who were still remembering the whiteness of the Court of Honor in Chicago. In the book, <title TEIform="title" level="m" rend="italic">Around the Pan with Uncle Hank</title>, by Thomas Fleming, it was rumored that "If Chicago's White City had been in existence then, it would have turned green with envy on beholding the beautifully tinted 'Pan'". A display of color of this scale had never been undertaken before, and was given excellent reviews by critics before the fair opened. 
+</p>
+          <p TEIform="p">Sculpture was also widely used in the exposition. It played an important role in enhancing the major theme of the fair. Most of the sculpture was the work of Karl Bitter (1867 - 1915), who worked from his studio in Hoboken, NJ and sent his work by train to Buffalo. Most of the sculptures were of the Spanish Renaissance style and featured symbols of freedom and cultural pride (Brush, pp. 103-104). One critic predicted that: "the Exposition is to be notable for its decorative sculpture which will be on a more elaborate scale than has ever been attempted before" (Brush, p. 104). However, once the exposition opened, the sculpture was overlooked for more impressive details. 
+</p>
+          <p TEIform="p">This pair of images tells much about the Pan-American Exposition. At first glance, the layout and organization of the fair are the most impressive qualities. However, upon closer inspection, much more can be seen. The color scheme, the style of architecture, and the use of sculpture are all aspects which are important for understanding the fair. It can be seen that much planning and careful thought was put into the Pan-American Exposition, and analysis of it adds to a greater understanding of its workings. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Brush, Edward Hale</author>. "<title TEIform="title" level="a">The Artistic Side of the Pan-American Exposition</title>." <title TEIform="title" level="j" rend="italic">Architectural Review</title>. v. 9, <date TEIform="date">1901</date>: pp. 99-107.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>. <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions 1851-1988 </title>. <pubPlace TEIform="pubPlace">New York City</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Fleming, Thomas</author>. <title TEIform="title" level="m" rend="italic">Around the Pan with Uncle Hank: his trip through the Pan-American Exposition</title>. <pubPlace TEIform="pubPlace">New York City</pubPlace>: <publisher TEIform="publisher">NutShell Publishing Co.</publisher>, <date TEIform="date">1901</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">Pan American Exposition Buffalo 1901</title>.  <pubPlace TEIform="pubPlace">Buffalo</pubPlace>: <publisher TEIform="publisher">Pan-American Exposition Co.</publisher>, <date TEIform="date">1901</date>.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

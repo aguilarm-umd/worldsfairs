@@ -1,0 +1,162 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Dublin 1853 Main Hall </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exhibition of Art and Art-Industry (1853 : Dublin, Ireland)">Exhibition of Art and Art-Industry (1853 : Dublin, Ireland)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Mariya Levin </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Dan Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">1dublin.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-02-16">February 16, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Main Hall from the Great Industrial Exhibition (1853 : Dublin, Ireland) created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Dublin 1853 Main Hall </title>
+          <author TEIform="author">Mariya Levin </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="personal">
+						Benson, John, 1811-1862
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Great Industrial Exhibition (1853 : Dublin, Ireland.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Great Exhibition Building (Dublin, Ire.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">Ireland</item>
+            <item TEIform="item" n="settlement">Dublin</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Dublin 1853 Main Hall <figure TEIform="figure" entity="umd:11222"></figure>
+          </head>
+          <p TEIform="p">This image is a beautiful color lithograph, measuring 25 by 35 inches, which features the main hall of the Great Exhibition Building in Dublin in great detail. The hall was 425 feet in length by 100 in width, and 105 in height. In the back there is a large organ. Displayed high on the walls are flags from different countries. 
+		</p>
+          <p TEIform="p">The building is best described by <title TEIform="title" rend="italic">The Illustrated Dublin Exhibition Catalogue</title>, which says:</p>
+          <q TEIform="q" direct="unspecified" type="block">Presenting a front to Merrion-square of 300 feet, the main or centre feature of elevation consists of a semicircular projection, which forms the Eastern termination of the Central Hall. This in a noble apartment of 425 feet in length, and 100 feet in height, covered by a semicircular roof trellis robs, in one span of 100 feet. On each side of the Centre upon trellis ribs, in one span of 100 feet. On each side of the Centre Hall, and running parallel to it for the same length, are two halls 50 feet wide, with domed roofs, similar to that which covers the main nave or hall of the building. The Height from the floor to the roof of each of these halls is 65 feet. They are approached through passages from the Centre Hall. In addition to these three halls are four compartments of 25 feet wide, running the whole length of the building; two are placed between the Centre Hall and the side halls, and two on each side of the latter; divided into sections of 25 feet square, forming convenient divisions for the purposes of classification. Over these compartments are spacious galleries, also running the length of the building, which not only afford increased space for exhibition, but form an agreeable promenade from whence the effect of the three halls may be seen to greater advantage. To the south of the Central Hall, left of the spectator, is a hall devoted to foreign contributions; adjacent to which is the Fine Arts Court, corresponding in position to the Machinery Court. The northern and southern courts have galleries running round them, from which the spectator also looks into the Central Court. The ceiling of the halls being divided into panels formed by the trellis ribs, and the other constructive parts of the building, has allowed ample opportunity for effective decoration. Light is admitted from above in one unbroken and equally distributed body. The construction of the building is strongly marked on the elevation, and forms in fact the ornamental character of the design. There are also external galleries which are attractive features. The materials of the building are iron, timber, and glass. 
+</q>
+          <p TEIform="p">Inside this spacious and very beautiful building were collected a large number of paintings and other artistic works from many nations. 
+</p>
+          <p TEIform="p">The Irish Industrial Exhibition Building housed the entire fair. It was located in the center of Dublin (the capital of Ireland) on the lawn of the Royal Dublin Society. It lasted from the 12th of May to the 31st of October, Her Majesty, accompanied by the Prince Consort and the Prince of Wales, then a lad of twelve, paid an official visit on the 29th of August. 
+</p>
+          <p TEIform="p">On May 12, 1853, when the exhibition opened, the architect, John Benson, was granted knighthood, an honor considered well deserved for a structure which satisfied everyone. According to <title TEIform="title" rend="italic">The Illustrated Dublin Exhibition Catalogue</title> it was due to the merit of the builder that while overcoming many serious difficulties, the building was finished on time. Sir John Benson later went on to remodel "The Theatre Royal" and design Berwick Fountain, Grand Parade in 1861 in Cork, UK. </p>
+          <p TEIform="p">In 1853, an International Exhibition was also held New York City. That in Dublin owed its funding to a very wealthy humanitarian. William Dargan had planned to donate $100,000 to the effort, but ended up giving $400,000 to the Exhibition. (Ingram) Overall attendance was 1,156,232, leaving a financial loss of approximately 9,000 Pounds. </p>
+          <p TEIform="p">The social conditions in Ireland just at the time of the fair were dramatic. The country was overcrowded with large unemployment. According to the The Illustrated Dublin Exhibition Catalogue:</p>
+          <q TEIform="q" direct="unspecified" type="block">...with so many natural helps to Manufacture, has hitherto availed herself of few or none of them; with coal and iron and limestone in abundance, her mines have been but very partially worked; with waterpower running from every great lake in sufficiency to turn all the spindles that derive their impulse from steam in Manchester, It runs idly, and to waste, into bays and harbors that are estuaries of the Atlantic; with a surplus in population craving employment, its people have been without occupation; their labor "at home" has barely sufficed to procure the means of a miserable existence. Ireland has been emphatically termed " a land of raw materials," and he who develops its resources, calls it latent energies into actions, and enables man to derive comforts and luxuries from the wealth of mature, may be indeed described not only as a Patriot to his country, but as Benefactor to the World (Virtue).</q>
+          <p TEIform="p">The Great Irish Exhibition Building measured 265,000 square feet, one third the size of the Crystal Palace of 1851, but twice the size of New York's Crystal Palace (Sproule). While the London Structure used a great amount of glass and metal, the architect of the Dublin Exhibition building demonstrated the best use of wood, an appropriate material given the term (Sproule).</p>
+          <p TEIform="p">The Dublin fair brought jobs and honor to the people of Ireland. The <title TEIform="title" rend="italic">Illustrated Dublin Exhibition Catalogue</title> contrasts the London Exhibition to the Great Irish Industrial Exhibition in the following terms:</p>
+          <q TEIform="q" direct="unspecified" type="block">We consider the Great Exhibition held in Dublin in the year 1853, as even a larger contribution to the wealth of these kingdoms, than the Great Exhibition which took place in London in the year 1851; and we do not doubt that His Royal Highness Prince Albert, on visiting the Irish Capital, will earnestly rejoice that his indefatigable exertions and enlightened policy - which made that year memorable - have again borne rich fruitage, and again advanced the best interest of his country (Virtue).</q>
+          <p TEIform="p">Visitors were struck with the richness and splendor of the building more than by any of the objects that it contained. The critics enjoyed the magnificent building for "the rapidity with which it was erected" (a few months), "the sufficiency of its plans, and the enormous mass of its carefully worked materials (Sproule)." The usual style of Exhibition buildings, were halls that remind the visitor of a bazaar. This Exhibition Building had a well proportioned interior, which made its splendid halls themselves, examples of an incentives to something higher and grander in design than had before been attained (Sproule). "The Building itself was perhaps the most successful novelty exhibited, both in Art and Manufacture (Sproule)."</p>
+          <p TEIform="p">No information on the fate of the Great Exhibition Building, other than it no longer stands and no attempt was made to rebuild the structure with more permanent materials.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Findling, John E</editor>., editor, <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>. p. 10-11</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ingram, J.S.</author>
+            <title TEIform="title" level="m" rend="italic">The Centennial Exposition; Described and Illustrated</title>. <pubPlace TEIform="pubPlace">St. Louis</pubPlace>: <publisher TEIform="publisher">Hubbard Bros.</publisher>, <date TEIform="date">1876</date>. p. 31-33</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="m" rend="italic">The Illustrated Dublin Exhibition Catalogue</title>. <pubPlace TEIform="pubPlace">London</pubPlace>: <publisher TEIform="publisher">Virtue,</publisher>
+            <date TEIform="date">1853</date>. p. v</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Sproule, John</author>. <title TEIform="title" level="m" rend="italic">Irish Industrial Exhibition 1853</title>. <pubPlace TEIform="pubPlace">London</pubPlace>: <publisher TEIform="publisher">William S. Orr &amp; Co.</publisher>, <date TEIform="date">1854</date>. p. 27-41.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

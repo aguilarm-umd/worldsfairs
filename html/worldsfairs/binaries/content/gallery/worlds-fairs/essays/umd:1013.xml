@@ -1,0 +1,161 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">1883 Colonial Exposition, Amsterdam</title>
+        <title TEIform="title" type="sub"> Card Game</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Internationale Koloniale en Uitvoerhandel Tentoonstelling (1883 : Amsterdam, Netherlands)">Internationale Koloniale en Uitvoerhandel Tentoonstelling (1883 : Amsterdam, Netherlands)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Holly Griffin</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis </name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">16 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">37Amsterdam.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-27-02">February 27, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on a card game from the 1883 Colonial Exposition, Amsterdam created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">1883 Colonial Exposition, Amsterdam: Card Game </title>
+          <author TEIform="author">Holly Griffin </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Internationale Koloniale en Untvoerhandel Tentoonstellung (1883: Amsterdam)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+            <item TEIform="item">
+						Exhibition buildings
+						</item>
+            <item TEIform="item">
+						Souvenirs (Keepsakes)
+						</item>
+            <item TEIform="item">
+						Playing cards
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+            <item TEIform="item">Board Games</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">Holland </item>
+            <item TEIform="item" n="settlement">Amsterdam</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">1883 Colonial Exposition, Amsterdam: Card Game<figure TEIform="figure" entity="umd:11270"></figure>
+          </head>
+          <p TEIform="p">The card pictured here is one of a larger deck, comprising a round-style game. Card games were a popular souvenir item among fairgoers. The game was a competition between nations illustrated in the larger cards of the set, measuring 4' 1/2;" by 2'3/4", representing the countries holding colonies at the	time, and the smaller cards, 3" by 1 3/4", representing major industries. Represented were the <name TEIform="name" type="place">Netherlands</name>, listed as the first country on the direction sheet, <name TEIform="name" type="place">England</name>, <name TEIform="name" type="place">Germany</name>, <name TEIform="name" type="place">Belgium</name>, <name TEIform="name" type="place">France</name>, <name TEIform="name" type="place">Russia</name>, the <name TEIform="name" type="place">United States of America</name>, <name TEIform="name" type="place">Turkey</name>, <name TEIform="name" type="place">Italy</name> and <name TEIform="name" type="place">Spain</name>.</p>
+          <p TEIform="p">There were twelve cards for each of the ten industries, including a sheriff, a cannon, a vehicle, furniture, poultry, machinery, velocipedes, agriculture implements, musical instruments, and children's toys. For the same industry, each card features the name of a different colonizing nation. The colonial policies followed by the Netherlands in the 1880s coincide with the overall theme of the card game. Just as Netherlands played the role of a colonizer in the real world, the card game of its Amsterdam fair represented the colonization process of inferior countries to the superior nation. A victory in the game was obtained in a way similar to the method by which a colonizing nation would gain its colonies.</p>
+          <p TEIform="p">Printed in black on a white background, the cards have been hand-painted with watercolor ink. One can determine that they were not created using a stamp, as strokes are visible. The American colonization card displays several typical industries and technologies found in United States, including a flag, a picture representing the mining industry, a telegraph, a sewing machine, a factory, a watch, and what is surmised to be a white male industrialist with a top hat.</p>
+          <p TEIform="p">This card game represents an industrial competition, the winner earning the greatest quantity of industry cards. On the front cover of the box holding the cards, there is a picture of the central underpass which served as the main entrance to the fair. The entrance, built in a Moorish style, was reached by passing through the Rijksmuseum gate. This museum is still in existence, and is the largest installation of its kind for art and history in the Netherlands. It is perhaps best known for its collection of 17th-century Dutch masters, with twenty paintings by <name TEIform="name" type="personal">Rembrandt</name> and many priceless works by <name TEIform="name" type="personal">Vermeer</name>, <name TEIform="name" type="personal">Frans Hals</name> and <name TEIform="name" type="personal">Jan Steen Rijks</name>.</p>
+          <p TEIform="p">In the first half of the nineteenth century, the Netherlands experienced little economic growth. By the 1860's, however, this trend began to reverse, partially due to the opening of the Noord Canal, which brought oceangoing vessels to Amsterdam. At the same time, the national rail system improved rapidly, and a new central station opened Amsterdam in 1879 (Findling 78). International expositions promoted economic growth and tourism; as Amsterdam shove to emulate the cosmopolitan flavor of cities like Paris and London, a world's fair would be an asset to the city (Mattie 60).</p>
+          <p TEIform="p">A French entrepreneur, <name TEIform="name" type="personal">Edouard Agostini</name>, saw potential in a fair in the Netherlands, and mailed brochures to influential Amsterdam business leaders (Mattie, 60). According to Mattie, "because the Netherlands was not well known except of the wealth of its colonial empire, the committee decided to organize the fair as a colonial exhibition, giving it the formal name of <name TEIform="name" type="organization">Internationale Koloniale en Untvoerhandel Tentoonstellung te Amsterdam</name>" (Mattie, 60). Although the idea of a fair was met with some skepticism, planning continued.</p>
+          <p TEIform="p">The Dutch government initially refused to pledge any money for the event; however a persistent Agostini eventually found backing in a little-known Belgian	financial firm, <name TEIform="name" type="organization">Tasson and Washer</name>. The firm was prepared to construct the main building in exchange for all of the entrance fees and proceeds from leasing exhibition space. The Dutch became suspicious and resentful because mainly	French and Belgian architects were responsible for the fair's construction. Fears were realized after the closing of the fair when Tasson and Washer went	bankrupt, despite the exhibition's high returns, and independent investors received a return of only one fifth of their investments (Mattie, 60).</p>
+          <p TEIform="p">Despite financial setbacks, the Amsterdam exhibition, the first international exposition with a colonial theme, marked its place in the history of the world's fairs. Entire native dwellings from overseas were erected, and were inhabited by indigenous peoples, treating fairgoers to an encounter with the exotic. In subsequent fairs, native villages complete with "savages" became fixtures, demonstrating the superiority of Western culture. Additionally, the fair was unique in that it emphasized the trade of industrial products as opposed to their manufacture (Mattie, 60).</p>
+          <p TEIform="p">An area of wasteland on the south side of Amsterdam was selected, as it offered adequate space for the fair. The rectangular main building measured 1,000 by 394 feet, and was built over a canal. In addition to the <name TEIform="name" type="organization">Main Building</name> was the <name TEIform="name" type="organization">Dutch Colonial Building</name>, measuring 417 by 250 feet. Inside the <name TEIform="name" type="organization">Colonial Pavilion</name> were several different types of agricultural products, cultural treasures, native arms and more. Although the Main Building of the Antwerp fair was acceptable to critics, the Colonial Pavilion was not. Critics attacked both the appropriateness of the building as well as the purity of its style (Mattie, 62). The Colonial Pavilion, (which was also partially built over water) and the <name TEIform="name" type="organization">Machinery Gallery</name> enclosed a triangular space for smaller pavilions, including one for the city of Paris. In front of the Colonial Pavilion was a small settlement representing various oversees colonies.</p>
+          <p TEIform="p">Although only the Netherlands and Belgium had comprehensive exhibits, foreign participants included most of the other countries of Europe, as well as China, Japan, India, Turkey, the Middle East and Africa, the United States and Canada among others (Findling 78-79). The remainder of the site served as an amusement park (Mattie, 61). At the focal point of the amusement park was the <name TEIform="name" type="organization">Music Pavilion</name>, which was surrounded by German, Dutch and English restaurants (Mattie, 61). There were several other buildings on the site, including a pavilion for the city of Amsterdam, a Japanese Bazaar, small shops and restaurants. A	canal, traversed by a bridge of bamboo, ran through the fairgrounds, providing a home for a Chinese junk (Findling, 78)</p>
+          <p TEIform="p">At the time, finding an appropriate architectural style for the Netherlands raised much controversy. Consequently, the exhibition buildings received mixed reviews. At stake was the concept of architectural "truth," based on the question of whether or not the exterior of buildings should reveal their functions, and whether those exteriors should be stylistically pure, regardless of the chosen style. For at least one group of Dutch architects, "honest" architecture was epitomized by the <name TEIform="name" type="organization">Rijksmuseum</name>, designed by <name TEIform="name" type="personal">P. J. H. Cuypers</name> (1827-1921) (Mattie, 62). Cuypers was responsible for the design of many churches in neo-Gothic style in the Netherlands, and as such was one of the leading figures in the process of Catholic emancipation in the second half of the 19th century.</p>
+          <p TEIform="p">Cuypers was also responsible for numerous restorations of existing churches, including those of many medieval, now protestant churches. His attempts to restore parts of such churches was an occasional a source of conflict within the protestant community. Apart from his architectural work, Cuypers was a gifted artist in other respects, his work including several monuments and tapestries. Despite his many accomplishments, Cuypers is usually remembered today as the architect of the central station and Rijksmuseum in Amsterdam. Many of Cuypers' more important designs have already been demolished or otherwise destroyed, but many still remain (Archimon). The incorporation of the Rijksmuseum into the Amsterdam exhibition considerably enhanced its allure(Mattie, 62). </p>
+          <p TEIform="p">Unfortunately, very few designs were met with general approval. One that did, however, was the fa??ade of the Main Building, designed by French architect <name TEIform="name" type="personal">Paul Fouquiau</name>. A temporary structure, it was built of wood, with a glass roof, but it was covered with plaster and painted canvas to give the impression of marble. The fa??ade was a 164 foot-wide wall made of canvas, wood and plaster with two 82-foot high towers at each end. The huge, drooping piece of canvas was suspended between the two towers and was decorated in a grotesque Indian motif, featuring large elephant heads and other animals, all cast in plaster. The building's other decorated motifs also evoked colonial outposts, and in this sense the exterior was consistent with the interior, a feature of "honest architecture." The interior design was by the Belgian <name TEIform="name" type="personal">Gedeon Bordiau</name>, who also designed the Main Building at the 1885 <name TEIform="name" type="place">Antwerp</name> exhibition. The entire interior exhibition space had an area of nearly 650,000 square feet.</p>
+          <p TEIform="p">The early seventeenth-century Dutch Renaissance style was chosen for the remainder of the pavilions at the Amsterdam Colonial Exposition. During this period, Dutch provinces developed into a strong nation and freed themselves from the yoke of the Spanish. The Italianate <name TEIform="name" type="organization">Dutch Royal Pavilion</name>, which was a departure from the national style, was the subject of attacks by critics as well. Foreign pavilions that demonstrated their own national histories, however, generally earned critic approval (Mattie, 62). </p>
+          <p TEIform="p">Thousands of visitors attended the fair, staying in new hotels like the 'Americain' and 'Krasnapolsky', buying souvenirs from the exposition, and stimulating the economy of the city. When the exposition closed its doors on November 1st, more than one million tickets had been sold (World). The 1883 Colonial Exposition in Amsterdam had indeed been a success.</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="a" rend="italics">World Expositions in Amsterdam: 1883</title>.
+						World Expositions in Amsterdam. <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://parallel.park.org/Netherlands/pavilions/world_expositions/index_2.htm">http://parallel.park.org/Netherlands/pavilions/world_expositions/index_2.htm</xref> (accessed 10 March 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">John E. Findling</author>, editor. <title TEIform="title" level="m" rend="italics">Historical Dictionary of World's Fairs and Expositions: 1851-1988</title>. New York: Greenwood Press, 1990. 78-79.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Mattie, Erik</author>. <title TEIform="title" level="m" rend="italics">World's Fairs</title>. New York: Princeton Architectural Press, 1998. 59-65.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Archimon</author>. <title TEIform="title" level="a" rend="italics">P.J.H. Cuypers (1827-1921)</title>.						<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.archimon.nl/architects/jcuypers.html">http://www.archimon.nl/architects/jcuypers.html</xref> (accessed 25 April 2003).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Rijks Museum</author>. <title TEIform="title" level="a" rend="italics">About the Collection</title>.  <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.rijksmuseum.nl/collectie/overdecollectie?lang=en">http://www.rijksmuseum.nl/collectie/overdecollectie?lang=en</xref> (accessed 10 March 2003).</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

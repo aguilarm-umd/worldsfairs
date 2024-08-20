@@ -1,0 +1,163 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Manufactures Building</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="World's Columbian Exposition (1893 : Chicago, Ill.)">World's Columbian Exposition (1893 : Chicago, Ill.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Aaron Zephir </name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by:<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by:<name TEIform="name">Jean McEvoy</name>
+          </resp>
+        </respStmt>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Header creation and encoding by:<name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">13 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">21Chicago.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Manufactures Building at the 1893 World's Columbian Exposition in Chicago, Illinois created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Manufactures Building</title>
+          <author TEIform="author">Aaron Zephir </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						World's Columbian Exposition (1893 : Chicago, Ill.)
+						</name> 
+           </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Manufactures and Liberal Arts Building.  World's Columbian Exposition (1893 : Chicago, Ill.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Illinois</item>
+            <item TEIform="item" n="settlement">Chicago</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Manufactures Building<figure TEIform="figure" entity="umd:11314"></figure>
+          </head>
+          <p TEIform="p">This 11 by 7 inch color lithograph seen here depicts the Manufactures and Liberal Arts Building at the Chicago World's Columbian Exposition of 1893. As the main exhibit space of the fair, it was the largest building ever constructed at the time and the most visited site at the exposition. The general scheme for the building was laid out during the early planning stages of the Chicago fair. It was to be located facing Lake Michigan on its long axis and the east end of the Court of Honor, where the other main buildings were grouped, on its short axis. Architect John Wellborn Root, partner of fair director Daniel Burnham, devised the basic function for the building. Because Root died early in the planning stages, the program was radically altered by his successor Charles Atwood. The latter's idea for a clear span surrounded by galleries prevailed, as fair organizers were intent to surpass that of the famous Galerie des Machines at the Paris exposition of 1889. New York architect George B. Post (1837-1913) was chosen to design the Manufactures building from a group of mostly eastern architects selected for the major fair buildings, including Richard Morris Hunt and McKim, Mead and White. His experience in large classically detailed New York buildings such as the Produce Exchange (1881-84) and the Havemeyer Building (1891-93), both demolished, made him a good candidate to uphold the White City ideal of the fair, emphasizing classical canons of composition and ornamentation. His expertise in the use of iron and steel, as in the large interior light court of the Produce Exchange, would come in handy if the Manufactures Building was to succeed in its "clear-span rivalry" with the Galerie des Machines (Hoffmann).
+		</p>
+          <p TEIform="p">Post succeeded in both aesthetic and technical challenges. Not only the largest building at the fair, the Manufactures Building was one of its greatest architectural assets. It measured 1,687 by 787 feet, had an exhibit space of 44 acres, and a central hall spanning 370 feet and rising 211 feet. The great steel arch trusses were certainly the building's most remarkable feature, left exposed and filled in with glass to form a greenhouse-like ceiling that allowed light to pour in. Surrounding the central space were galleries with additional exhibit space that looked down into the great hall. The exterior was no less impressive. Constructed of the same reinforced plaster as most of the other buildings at the fair, the Manufactures Building featured a severely classical fa??ade. Its uniform Corinthian arcade ran in a continuous sweep for the entire length of the building, interrupted only by the triumphal arch motifs of the central and end entrance pavilions. The building was the only one at the fair to feature such an open arcade, and as such was very popular among visitors seeking a place to rest in the shade and enjoy the view of Lake Michigan. 
+</p>
+          <p TEIform="p">The appeal of the Manufactures Building was based not only on its architectural merits, but also on the wealth of exhibits inside. Since the building was essentially one large room, interior space had to be parceled out to each nation, leaving room for a wide aisle in each direction. At the intersection of these aisles, in the center of the building, stood a 135-foot alabaster clock tower from the American Self-Winding Clock Company, with arches at the base that allowed circulation underneath. This clock acted as a focus amid the jumble of exhibits. From atop its tower, one could gaze down at the exhibits of the four greatest nations: the United States in the northeast, Germany in the northwest, Great Britain in the southwest, and France in the southeast. Behind lay all the other nations of the world among a mind-boggling array of artifacts. Displays of Belgian lace, Austrian armor, German military armaments, and Italian marbles and sculptures attracted particular attention. The French exhibit was exceptionally beautiful, marked by a huge hemispherical niche containing a statue of the Republic. The British exhibits were also noteworthy, especially the vast collections of ceramics and porcelain from such famous manufacturers as Crown Lambeth and Wedgwood. But one of the most popular and eye-catching displays was that of the Tiffany Company in the United States section. Its colossal gold Doric column topped by a glass globe and golden Eagle was one of the most conspicuous landmarks inside the building. The diamond exhibits alone numbered over 10,000 pieces, including the gray canary diamond, Tiffany's greatest showpiece set on top of a rotating velvet pyramid. </p>
+          <p TEIform="p">The Manufactures Building was without a doubt one of the most critically praised of all the fair buildings. Its sheer size, proliferation of exhibits, and stately fa ade received almost universal acclaim. American world's fair correspondent Trumbull White compared the role of the Manufactures Building at the Columbian Exposition to that of the Eiffel Tower at the Paris Exposition Universelle of 1889, as both were "the principal point of attack for every sightseer" (95). American Architect and Building News called it "the most successful fair building of the whole group and, withal, extremely interesting and abundantly architectural in its treatment" (85). It is difficult to find negative criticism of this building other than that of the progressive Chicago architects who despised everything classical and historicizing about the fair. However, Sullivan and his followers were a minority; most critics thought the building a complete success. Even so, it was always meant to be temporary, and it was torn down the year after the fair. The Manufactures and Liberal Arts Building served its purpose well, and when that purpose was complete, its life was also. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Hoffman, Donald</author>. 
+						"<title TEIform="title" level="a">Clear Span Rivalries: The World's Fairs of 1889-1893</title>." 
+						<title TEIform="title" level="j" rend="italic">Journal of the Society of Architectural Historians</title>. 29.1 (<date TEIform="date">1970</date>): 48-50. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Igleheart, William</author> and <author TEIform="author">Trumbull White</author>. <title TEIform="title" level="m" rend="italic">The World's Columbian Exposition, Chicago, 1893</title>. <pubPlace TEIform="pubPlace">Philadelphia</pubPlace>: <publisher TEIform="publisher">Historical Publishing</publisher>, <date TEIform="date">1893</date>. </bibl>
+          <bibl TEIform="bibl" default="NO"> "<title TEIform="title" level="a">The World's Fair Buildings</title>." <title TEIform="title" level="j" rend="italic">American Architect and Building News</title>. 38 (<date TEIform="date">1892</date>): 85-86. </bibl>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Bibliographic Sources</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Bancroft, Hubert Howe</author>.  <title TEIform="title" level="m" rend="italic">The Book of the Fair; An Historical and Descriptive Presentation of the World's Science, Art and Industry, As Viewed through the Columbian Exposition at Chicago in 1893</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: 
+						<publisher TEIform="publisher">Bounty Books</publisher>,  <date TEIform="date">1894</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Baker, Paul R </author>. <title TEIform="title" level="m" rend="italic">Richard Morris Hunt</title>. <pubPlace TEIform="pubPlace">Cambridge, Massachusetts</pubPlace>: <publisher TEIform="publisher">MIT Press</publisher>, <date TEIform="date">1980</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Karlowicz, Titus M </author>. "<title TEIform="title" level="a">Notes on the Columbian Exposition's Manufactures and Liberal Arts Building</title>." <title TEIform="title" level="j" rend="italic">Journal of the Society of Architectural Historians</title> 33.3 (<date TEIform="date">1974</date>): 214-218.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Landau, Sarah Bradford</author>. <title TEIform="title" level="m" rend="italic">George B. Post, Architect, Picturesque Designer and Determined Realist </title>. <pubPlace TEIform="pubPlace">New York</pubPlace>:  <publisher TEIform="publisher">Monacelli</publisher>, <date TEIform="date">1998</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Schuyler, Montgomery</author>. "<title TEIform="title" level="a">The Works of the Late Richard M. Hunt</title>." <title TEIform="title" level="m" rend="italic">Architectural Record</title>. 5 (<date TEIform="date">1895</date>): 97-180.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Truman, Benjamin Cummings</author>. <title TEIform="title" level="m" rend="italic"> History of the World's Fair; Being a Complete Description of the World's Columbian Exposition from its Inception</title>.  <pubPlace TEIform="pubPlace">Chicago</pubPlace>: <publisher TEIform="publisher"> Mammoth</publisher>, <date TEIform="date">1893</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Wight, Peter Bonnett</author>.  "<title TEIform="title" level="a">The Great Exhibition Reviewed</title>." <title TEIform="title" level="j" rend="italic">American Architect and Building News</title>. 42 (<date TEIform="date">1893</date>): 7-8, 21-23, 32-34, 47-49, 57-59, 86-88, 158-159. </bibl>
+          <bibl TEIform="bibl" default="NO"> "<title TEIform="title" level="a">The World's Fair Buildings At Large and the Lessons to be Drawn from Them</title>." <title TEIform="title" level="j" rend="italic">American Architect and Building News</title>. 40 (<date TEIform="date">1893</date>): 181-183. </bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

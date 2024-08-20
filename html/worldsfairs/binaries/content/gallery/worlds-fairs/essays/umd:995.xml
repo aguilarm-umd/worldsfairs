@@ -1,0 +1,161 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">The Monaco Building of the Paris 1889 Exposition </title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg=" Exposition universelle de 1889 (Paris, France)">	Exposition universelle de 1889 (Paris, France)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Anna Burrows</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">18 KB </extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">16Paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Monaco Building of the 1889 Exposition Universalle in Paris, France created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">The Monaco Building of the Paris 1889 Exposition</title>
+          <author TEIform="author">Anna Burrows</author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Paris World's Fair (1889)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Monaco Building. Paris World's Fair (1889)
+						</name>
+            </item>
+            <item TEIform="item">
+						Monaco -- Politics and government
+						</item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">The Monaco Building of the Paris 1889 Exposition<figure TEIform="figure" entity="umd:829"></figure>
+          </head>
+          <p TEIform="p">The Exposition Universelle de 1889 in Paris was meant to commemorate the centennial of the French Revolution. It boasted new architectural styles, as well as the more generous use of electricity in the pavilions. In the earliest world's fairs, all the displays were housed collectively under one roof. This eventually changed to a different type of organization, where exhibits were separated into categories based on their content, as was already the case at the 1873 Vienna exhibition. At the 1876, 1878 and 1889 fairs, countries presented their own individual pavilions. While at first the international community seemed a bit hesitant to participate in a fair meant to celebrate a Revolution, many countries decided to participate and erect a special pavilion. Countries such as Japan, Siam, Persia, Turkey, Russia, Greece, as well as many Latin American nations presented national exhibits. When the 1889 Paris Exhibition is first mentioned, most people immediately think of the construction of the famed Eiffel Tower. This striking monument, enhanced with nighttime lights, brought the admiration of many and earned itself a place as a permanent fixture and international symbol for Paris. The fair was known for its impressively modern constructions of iron and glass, such as Machinery Hall. The pavilion for the Principality of Monaco can be noted at this fair, not for its grand scale or modern appeal, but for its delicate return to a classic style which turned attention to a small, yet sophisticated nation. Its proximity to the Eiffel tower symbolized the ongoing relationship between France and Monaco. </p>
+          <p TEIform="p">There were several reasons why Monaco received such attention at the fair, with its placement in the very heart of the exhibition. Changes experienced within the principality were directly translated into the landscaping and design of the pavilion. This 8 X 11 inch photograph of the Monaco building is one of a series of 28 taken at the 1889 exhibition. Its viewpoint captures the impressive entrance facade, framed by the surrounding palm trees. This is a rather idealistic image, as there are no people or other objects to distract from the pavilion. However, the photograph does show the positioning of the structure, as well as some if its details, rather effectively. It rested just in the southwestern shadow of the Eiffel tower, as seen in the picture; photographs of the building could not be taken without catching the Eiffel tower rising behind it. One can also note the archways on the first platform of the Eiffel tower, which peep just over the roof of the Monaco building and have since been removed. 
+</p>
+          <p TEIform="p">As the Eiffel Tower was intended to be the central structure of the celebration, the juxtaposition of the Monaco Pavilion in such close proximity to the tower cannot go unnoticed. At the time of the exhibition, Monaco existed as a principality with a constitutional monarchy. The history of Monaco was irrevocably linked with France. In 1489, King Charles VIII of France granted Monaco its independence; up until that point the region had been completely under French sovereignty. However, in 1793 the Revolutionary regime in France reneged on this decision, reclaiming Monaco as part of its territory. In 1861 Monaco was given its independence again. Monaco has since remained a principality governed by the local Grimaldi family. This manifestation of friendship through the pavilion is not surprising, as France seemed to prefer to maintain good relations with her former dependents. In fact, in 1951, an agreement of friendship and mutual administration was signed between the two neighbors, decreeing that if the line of Grimaldi were to come to an end, Monaco was to become an autonomous French department. After its independence in 1861, and particularly at the turn of the twentieth century, Monaco experienced an awakening. Its Grand Prix, Exotic Gardens, and Monte-Carlo Casino were soon discovered by wealthy Europeans and Americans, and it gained an image as one of the most fashionable and cultured places to travel and vacation. As the villegiature of the French Riviera emerged, Monaco became the object of much international admiration. This tiny country with a lush landscape, no income tax, and a rumored 300 days of sunshine annually, caught the fascination of many famous individuals. The area between Grasse, Cannes, and Nice soon became known as the golden triangle of the C??te d'Azur, a spectacular location nestled between the Mediterranean coast and the snow-capped Alps. In 1861 the railroad was extended to Cannes, and 1869 Nice was connected as well. In 1863, the Seabath Company established a casino and several luxurious hotels in the "Spelugues" quarter, which in 1866 was renamed Monte Carlo in honor of Prince Charles III, then the current monarch. In 1889, Prince Charles III passed away and was succeeded by Prince Albert I, who governed over Monaco as it continued to develop. As travel was made easier, and guides and resorts sprang up everywhere, the number of vacationers visiting the French Riviera continued to increase. Indeed, "...the idle rich of Europe customarily migrated from place to place with a weather eye on the barometer, in search of eternal springtime", which was certainly to be found on the Mediterranean coast. (Gardens) In Cannes alone, 250 elaborate houses and gardens were constructed between 1840 and 1870. The establishment in Monaco of the successful Opera in 1869 and the Mus e Oc anographique, touted as the best aquarium in Europe, drew more crowds. By the 1850's, there was already a large British presence in the region. This fascination with the unknown and exotic, coupled with the increasing improvement in modes of transportation, led to the popularization of this region. (Gardens) Luminaries such as F. Scott Fitzgerald and his wife Zelda, legends of the Jazz Age, would later retreat here in lavish glory. The growing popularity of the French Riviera and Monaco is seen in the building, whose design and foliage conjures up the image of the ideal country home with a unique sense of mystery. 
+</p>
+          <p TEIform="p">Unlike the more progressive buildings of the fair, the Monaco pavilion, modeled after an Italian Villa of the Renaissance Period, symbolized a return to the classical. The pavilion itself was modeled after an Italian villa of the Renaissance period. Although already present in Roman antiquity, this type of country villa was revived in the late 15th century when Europe was being flooded with new ideas about man's place in the universe. Many new developments in scientific and philosophical thought were emerging, as well as a new appreciation for the harmony which could be found between man and nature. These thoughts were the inspiration for Italian Renaissance architecture at the time. Indeed, the goal of a villa architect should be to "...deduce the hidden order from the chaos presented to him by nature". (Villas) The villa developed under this influence and became one of Italy's most representative structures. Architect Andrea Palladio, is well associated with the development of this particular building type. His lovely country houses with features inspired by Roman form gave identifying characteristics to what would be called the Italian villa. External structures such as colonnades, porticos and arcades would become trademarks of this architecture type and can be seen in the Monaco Pavilion. Unlike the more progressive buildings of the fair, the Monaco pavilion, modeled after an Italian Villa of the Renaissance Period, symbolized a return to the classical. The pavilion itself was modeled after an Italian villa of the Renaissance period. Although already present in Roman antiquity, this type of country villa was revived in the late 15th century when Europe was being flooded with new ideas about man's place in the universe. Many new developments in scientific and philosophical thought were emerging, as well as a new appreciation for the harmony which could be found between man and nature. These thoughts were the inspiration for Italian Renaissance architecture at the time. Indeed, the goal of a villa architect should be to "...deduce the hidden order from the chaos presented to him by nature". (Villas) The villa developed under this influence and became one of Italy's most representative structures. Architect Andrea Palladio, is well associated with the development of this particular building type. His lovely country houses with features inspired by Roman form gave identifying characteristics to what would be called the Italian villa. External structures such as colonnades, porticos and arcades would become trademarks of this architecture type and can be seen in the Monaco Pavilion. </p>
+          <p TEIform="p">The Monaco building itself included a central hall which was then surrounded by four smaller corner pavilions. An atmosphere of exotic charm was easily created through the landscape. Palm trees, cacti, jasmine, rhododendron and other blooms and plants brilliantly complement the orange marble veneer of the facades. On the interior, there were also hangings of Monte-Carlo fabrics to ornament the walls. </p>
+          <p TEIform="p">For Palladio, the villa was meant to occupy a central and elevated position, from which nature could sprawl outwards, with a commanding view from the porticos of the building. This ideal was implemented in the Monaco building. In addition, the gardens also followed the tradition of the gardens on the French Riviera, which were planned with particular attention to the architecture which they accompanied. It was even said that at this time "...visiting gardens was a social pastime on the C??te d'Azur". (Gardens). Just at the time of the fair, the head gardener of Monaco, Augustin Gastaud, was in the process of formulating the soon to be famous Jardin Exotique, known for its succulents. The wealthy who vacationed in the C??te d'Azur showed a growing interest in subtropical plants which hinted to the distant and mysterious Orient. Indeed, the Monaco building epitomized the popular trends of French Riviera gardens at the time, which placed special emphasis on irregularities, rare plants, and flowers". (Gardens) </p>
+          <p TEIform="p">Altogether, the Monaco building represented the blooming of the culture of the French Riviera, as Europe and the West became entranced with the appeal of travel to warmer climates and alluring surroundings. For this reason, it was given a significant position in the fair. Furthermore, the architecture and gardens of the pavilion sought to express the spirit of the villa and its coexistence with nature, as well as the distinctive plants which were so favored by tourists to the region. The building alluded to the luxurious and aesthetic lifestyle for which the principality was becoming known. It symbolized change experienced by the the country it represented. 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" level="j" rend="italic">L'Exposition de Paris de 1889</title> No. 1, <date TEIform="date">15 Oct. 1888</date>. </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Michel, Racine.</author> "<title TEIform="title" level="a">The Paris Exhibitions-Expositon Universelle de Paris</title>." <title TEIform="title" level="m" rend="italic">The Gardens of Provence and the French Riviera</title>. <publisher TEIform="publisher">MIT Press</publisher>, <date TEIform="date">1987.</date> (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.photoart.com/expos/index.htm">http://www.photoart.com/expos/index.htm </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Loitering Through the Paris Exposition</title>." <title TEIform="title" level="j" rend="italic">Atlantic Monthly</title>. March 1890. Volume 39, Issue 2. <title TEIform="title" rend="italic">Making of America Collection, Cornell University Library</title>.  (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.boondocksnet.com/expos/paris1889.html ">http://www.boondocksnet.com/expos/paris1889.html </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Impressions of the International Exhibition of 1889</title>."  <title TEIform="title" level="m">The Century</title>. December 1889. <title TEIform="title" rend="italic">Making of America Collection, Cornell University Library</title>  (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.boondocksnet.com/expos/paris1889.html ">http://www.boondocksnet.com/expos/paris1889.html  </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">Paris Panorama of the Nineteenth Century</title>." <title TEIform="title" level="m"> The Century</title>. December 1889. Volume 39, Issue 2. <title TEIform="title" rend="italic">Making of America Collection, Cornell University Library</title>.   (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.boondocksnet.com/expos/paris1889.html ">http://www.boondocksnet.com/expos/paris1889.html   </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <title TEIform="title" rend="italic">"Monaco" by Gale Force of Monaco</title>  (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://monaco.mc/monaco/index.html ">http://monaco.mc/monaco/index.html</xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Monte-Carlo Multimedia</author>
+            <title TEIform="title" level="m" rend="italic">General Informations</title>. <date TEIform="date">2000</date>  (<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.monte-carlo.mc/principalitymonaco/globalinformations/">  http://www.monte-carlo.mc/principalitymonaco/globalinformations 
+ </xref>).</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Masson, Georgina</author>. <title TEIform="title" level="m" rend="italic">Italian Villas and Palaces</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>:  <publisher TEIform="publisher">Abrams</publisher>, <date TEIform="date">1966.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ree Paul van der</author>. <title TEIform="title" level="m" rend="italic">Italian Villas and Gardens: a corso di disegno</title>. <pubPlace TEIform="pubPlace">Amsterdam</pubPlace>:  <publisher TEIform="publisher">Prestel</publisher>, <date TEIform="date">1992</date>.</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        

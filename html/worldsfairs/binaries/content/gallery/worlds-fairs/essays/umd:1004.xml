@@ -1,0 +1,156 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Temple of Music</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Pan-American Exposition (1901 : Buffalo, N.Y.)">Pan-American Exposition (1901 : Buffalo, N.Y.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Ricardo Gonzalez</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">10 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">25Buffalo.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-12-21">December 21, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Temple of Music at the 1901 Pan-American Exposition in Buffalo, New York created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Temple of Music </title>
+          <author TEIform="author">Ricardo Gonzalez  </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Pan-American Exposition (1901 : Buffalo, N.Y.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Temple of Music. Pan-American Exposition (1901 : Buffalo, N.Y.)
+						</name>
+            </item>
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Electric Tower. Pan-American Exposition (1901 : Buffalo, N.Y.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibition buildings -- Design and construction
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">New York</item>
+            <item TEIform="item" n="settlement">Buffalo</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Temple of Music<figure TEIform="figure" entity="umd:11364">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" level="m" rend="italic">Pan-American Exposition, Buffalo 1901</title> (Buffalo: Pan-American Exposition Co., 1901).</figDesc>
+            </figure>
+          </head>
+          <p TEIform="p">In the annals of World's Fairs, the 1901 Buffalo fair is listed, as a matter of record. However, it is one of the lesser-remembered fairs. This is not due to a lack of planning or physical appeal, but rather to the fact that on September 6, 1901, President William McKinley was shot and killed at the Temple of Music. This was the kind of event that is so infamous and carries such bad press that it condemns everything it touches, from the setting, the surrounding events, and the people involved, to the same black blanket of notoriety. Due to the President's assassination, the popularity of the Fair spiraled downward. Despite the deploring of the Fair, however, it was home to some remarkable buildings. </p>
+          <p TEIform="p">The displayed colored rendering of the Temple of Music is from the pages of <title TEIform="title" level="m" rend="italic">Pan American Exposition: Buffalo 1901</title>, a guidebook to the Buffalo Fair. With bright colors, the picture accurately captures the image of the Temple and its surrounding buildings. The Temple, designed by August C. Esenwein, could hold 2,200 people. On the main stage, a gigantic pipe organ was installed for concerts. On the outside the Temple was painted in a mixture of colors, mostly pastels, ranging from blue-green to scarlet. Along with the main "Pan-American" architectural mode of the Fair, it was built in the Spanish Revival style, and sported a central, brightly colored, octagonal dome that rested on a square base. Facades had intricate moldings that covered the outside of the Temple, from angels playing instruments to the large "MVSIC" sign in Roman characters over the main entrance. The Temple of Music fulfilled several practical and symbolic functions. It acted as a general reception hall and place to commemorate special occasions. The main ceremonies of Dedication Day were held here, where many dignitaries showed up to enjoy the fair, and Vice President Theodore Roosevelt gave the opening speech. Here several ambassadors were received and introduced to the Pan-American Exposition. As a universal language, music had the capacity to speak to anyone and greet them equally. With its large stage and great acoustics, it was ideal for ceremonies ranging from award banquets to dialogs from famous speakers. It also served as the main house for pipe organ performances, as well as those from numerous bands. 
+
+</p>
+          <p TEIform="p">In this drawing, one can also see the centrally-located Electric Tower rising in the distance, separated from the Temple by the Court of Fountains. Although the announced occasion for the fair was to strengthen cultural and economic ties with Latin America after the Spanish-American War of 1898, an ulterior motive was to attract attention, both from potential citizens and business partners, to the Buffalo area. One of the reasons why the local government suddenly wanted to advertise Buffalo was the new Niagara Falls dam, opened in 1896, which provided low-cost electricity. The Electric Tower symbolized the importance of electricity to Buffalo. At 375 feet high, it stood tall over all the buildings at the Fair. Its general colors were white and light blue, being relieved by streaks of green and gold. Henry Cobb, the Electric Tower's architect, designed it in the Spanish Revival style, with the main shaft remaining smooth and unadorned only to be topped with elaborate ornamentation. The base expanded outward into two wings supported by an antique colonnade. The peak held a statue of "Lady Electricity Lighting the World". The waters of Niagara Falls flowed through the bottom of the Tower, and the surrounding statues were accordingly aquatic, symbols of the newfound power of hydroelectricity. 240,000 eight-watt light bulbs were placed all around the Fair, but especially along the length of the Tower and the adjacent Court of Fountains, which together held about 70,000. In the evening, the Tower was bathed in light. This, along with the Tower's tall, decorated fa??ade, made it the spectacle of the 1901 Fair. 
+
+</p>
+          <p TEIform="p">Where previous Fairs had chosen to further their themes solely through architecture, the 1901 organizers also considered building placement and color, bring fair planning to a new level. The layout of the buildings was devised so as to represent the aspect of man's environment within three main categories. Looking north, the left side of the fair was reserved for the natural surroundings of man, signified by the Horticulture Building, Mines &amp; Metallurgy buildings, and the Rose Garden. The right was set aside for man's institutions, including the US Government building and the international pavilions. The middle, where the two sections met, was the place where the "genius of man" was displayed, the result of the use of both nature and society. This third portion is shown on the postcard, with the Temple of Music to the left of the central Tower. This positioning placed the subject of music towards the "natural" left side and the harnessing of electricity in the center as the most prominent of man's accomplishments. The color for the Fair was handled by Charles Y. Turner, who concentrated on depicting through hues and shades the struggle and triumph of man over the elements. On the outskirts of the Fair, which held pavilions on primitive cultures and societies, the buildings were painted in harshly contrasting primary colors, depicting both the elementary natures of the societies and their discordant, crude temperaments. Inwards, towards the center of the Fair, the buildings began to deal with progressively "better" societies, and correspondingly, the colors became lighter and more muted. The Temple of Music, as shown in the image, was painted in light pastels, with some patches of bright red, signifying its presence in archaic societies as well as modern ones. The Electric Tower, considered to represent the most advanced aspect of the Fair, was the lightest of all, painted near white. This method of "metaphorical planning" inspired several later cities to utilize similar techniques in their fairs, such the "Mediterranean" architecture scheme of the 1915 San Diego Exposition and the utilitarian coloring of the 1933 Chicago Fair. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E</author>. <title TEIform="title" level="m" rend="italic"> Historical Dictionary of World's Fairs and Expositions 1851-1988 </title>. <pubPlace TEIform="pubPlace">New York City</pubPlace>: <publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date">1990</date>. </bibl>
+          <lb TEIform="lb"></lb>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Eck, Susan</author>. "<title TEIform="title" level="a">The Color Scheme by C. Y. Turner, Director of Color</title>." <title TEIform="title" rend="italic">Pan American Exposition: Buffalo</title>
+            <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://panam1901.bfn.org/documents/turnerarticle.html"> http://panam1901.bfn.org/documents/turnerarticle.html </xref>
+            <date TEIform="date">1901.</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Eck, Susan</author>. "<title TEIform="title" level="a">The Sculpture Plan by Karl Bitter, Director of Sculpture</title>." <title TEIform="title" rend="italic">Pan American Exposition: Buffalo 1901</title>. <xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://panam1901.bfn.org/documents/sculptureplan.html"> http://panam1901.bfn.org/documents/sculptureplan.html </xref>
+          </bibl>
+          <lb TEIform="lb"></lb>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

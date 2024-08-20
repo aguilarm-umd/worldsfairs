@@ -1,0 +1,173 @@
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">A Century of Progress Exposition Official Book of Views</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Century of Progress International Exposition (1933-1934 : Chicago, Ill.)">Century of Progress International Exposition (1933-1934 : Chicago, Ill.)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Katie Chiles 
+</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">17 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">30Chicago.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2006-01-05">January 5, 2006</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Official Book of Views from the Century of Progress International Exposition held in Chicago, Illinois in 1933 created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">A Century of Progress Exposition 
+Official Book of Views </title>
+          <author TEIform="author">Katie Chiles </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+            <biblScope TEIform="biblScope"></biblScope>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Century of Progress International Exposition (1933-1934 : Chicago, Ill.)
+						</name>
+            </item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+            <item TEIform="item">
+						Exhibition buildings
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1901-2000</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">North America</item>
+            <item TEIform="item" n="country">United States</item>
+            <item TEIform="item" n="region">Illinois</item>
+            <item TEIform="item" n="settlement">Chicago</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">A Century of Progress Exposition 
+Official Book of Views <figure TEIform="figure" entity="umd:11504">
+              <figDesc TEIform="figDesc">Source: Allen D. Albert, <title TEIform="title" level="m" rend="italic">Official View Book, A Century of Progress Exhibition</title> (Chicago: Reuben H. Donnelley Corp., 1933).</figDesc>
+            </figure>
+          </head>
+          <q TEIform="q" direct="unspecified" type="block">You will hardly come upon your first view within the pages of this book without realizing that you have been brought into contact with something altogether new, something new and at variance with the traditions of other days. If you are like most of us, you will wonder if the future is to look like this, and, if it does, what your place is to be in it.</q>
+          <p TEIform="p">
+            <name TEIform="name">Allen D Albert</name>
+            <title TEIform="title" level="m" rend="italic">Century of Progress Exposition, Official Viewbook</title>.</p>
+          <p TEIform="p">To describe the 1933 Chicago World's Fair in a word, one might choose, "modern" or "dazzling," perhaps even "outrageous." The fair experimented with modern architecture, dazzling electric illumination, and a daring color scheme meant to reflect the scientific content of the fair's exhibits. The fair featured advancements in all fields of science, ranging from the inner-workings of the automobile engine to the most recent theory on the structure of the atom. Entitled "The Century of Progress," it used these vivid colors and impressive exhibits to create a light-hearted and uplifting experience intended to distract the nation from the hardships of the Great Depression. The viewbook featured here provides visitors with a souvenir of this striking event and a way to remember the exhibits and buildings after the exhibition was over and the fairgrounds returned to a public park. 
+</p>
+          <p TEIform="p">The viewbook was compiled by the Architectural Commission for the fair, with the text by Allen D. Albert, an honorary secretary, and forward by Rufus C. Dawes, the president. The book, approximately nine by twelve inches, and consisting of 64 pages of vibrant images of the fair, depicts the major buildings, exhibits and attractions. These images are mostly watercolors, sometimes enhanced photographs or cartoons. The viewbook is not very well organized, lacking a table of contents and following no real pattern as to the order in which the pictures are presented. However, this is not essential to its purpose. It was compiled to provide visitors with something to look back at and remember the fair, and also as an introduction to the fair for those who could not attend in person. In the forward, Dawes reflected that when the exposition comes to a close, the buildings and physical content of the fair would be gone: "After that the Exposition must live in the memories of men. Such views as these, carrying the color and the atmosphere of the Exposition will serve not only to stimulate memory but to keep it close to the realities of our Exposition." 
+</p>
+          <p TEIform="p">The watercolor on the front of the Viewbook depicts the Island Midway surrounded by water, with lagoons on the left leading to the mainland, and by Lake Michigan on the right. The large semicircular red building shown in the picture is the Electrical Group, where advancements in electricity and illumination were displayed. Below is Enchanted Island, an amusement park where children could enjoy games, shows and joy-rides. The large structure at the bottom of the picture is the Horticultural Building which exhibited many botanical achievements, as well as explaining scientific events such as why rings form within a tree trunk. Above the Electrical Group are the Halls of Communication (four tall green pillars) and Social Sciences (tan roof, blue sides). Beyond these buildings the base of the Sky Ride can be seen as well as the triangular arrangement of the Federal Building and Court of States. The Back cover of the book folds out to continue the panoramic view and show the mainland portion of the fair, including the Hall of Science, the Travel and Transportation Building, and the Esplanade of Flags, to name a few. The same view shown on the covers of the viewbook is also included within, accompanied by the caption, "A Scene Unprecedented, Glamorous, Almost Incredible." </p>
+          <p TEIform="p">The pages inside the viewbook are just as colorful and exciting. The main focus is on the aesthetics of the fair, with just short descriptions of the buildings and exhibits. As stated by Albert, "...we leave the exhibits within the buildings largely to your imagination. They reflect the great theme of the Exposition - the transformation of life through the ministrations of science." Some of the most pivotal images are those of the Sky Ride, the Hall of Science, and the Transportation Building. </p>
+          <p TEIform="p">Visible at the very top of the image on the cover of the book is the base of the Sky Ride. This incredible structure was compared to the Eiffel Tower in the 1889 Paris Exposition, and the Ferris Wheel of the 1893 Columbian Exposition. The Sky Ride was an application of the science and technology featured at the fair, and represented the "new age" by adapting a streamlined style, of straight lines and rounded edges. Visitors were provided with a thrill as they were carried 210 feet above sea level in "rocket cars" between the mainland and the island midway. The view from the ride extended from downtown Chicago to lower Michigan across the lake. The viewbook describes the scene at night: "The unprecedented illumination of the Fair transforms the spectacle into a sea of colored lights for which our previous experience supplies no comparison." 
+</p>
+          <p TEIform="p">The Hall of Science was both figuratively and literally the focal point of the fair. The structure was designed by Philadelphia architect, Paul Philippe Cret. The viewbook provides a watercolor picture of the building, with a caption describing its dimensions (700 by 400ft.) and U-shape structure, but fails to depict its true significance in tying the whole fair together. The fair's theme is represented by the fountain found in front of the building, entitled, "Science Advancing Mankind." It consists of a great robot, symbolizing science, with powerful hands pushing against the backs of a man and woman who symbolize mankind (Ganz). </p>
+          <p TEIform="p">One of the more spectacular achievements of the fair's architects was the Travel and Transportation Building. The architects, Bennett, Burnham and Holabird, applied the theory of the suspension bridge to the dome of this building. The dome was expandable, and enclosed the largest unobstructed area under a roof anywhere in the world. The viewbook provides a watercolor of the exterior of the building, in vibrant shades of green and yellow. A few of the exhibits inside are described, which consist of the oldest and newest automobiles, vehicles and railroad cars displaying the amazing advancements in transportation. 
+</p>
+          <p TEIform="p">The architecture of the Century of Progress was in sharp contrast with the classical style, employing minimized ornamentation, improved structural materials, and focusing on practicality. The architects shifted from concentrating on two-dimensional facades to creating three-dimensional effects. The buildings also emphasized purpose; most did not have any windows because lighting could now be controlled electrically from the inside. New construction techniques were displayed, using new lightweight materials and showing new uses for old materials, especially in the displays of modern houses. The movement away from classical architecture already had been observed in the 1925 Paris fair which popularized the Art Deco style, and in Mies van der Rohe's German pavilion of the 1929 Barcelona fair. However, in the Century of Progress, this modern streamlined architecture was a theme encompassing all buildings rather than a scattered presence in a few pavilions. 
+</p>
+          <p TEIform="p">Because the architects refrained from structural ornamentation in their structures, they used bright colors to create a statement and tie the whole fair together. Joseph Urban was hired as the Director of Color, and his work has been the subject of both praise and criticism. Previously subtle tones were used as passive, decorative elements. The officials of the 1933 fair intended to make color a primary characteristic of this event. In the journal <title TEIform="title" level="j" rend="italic">Architectural Forum</title>, William Muschenheim explained that, "[S]ince in this case, color was intended to make a positive contribution to the significance of the whole, it seemed necessary to employ a palette made up of the strongest, clearest, purest, most direct pigments available." However, Urban's color creations were not always appreciated. In the English journal <title TEIform="title" level="j" rend="italic">The Architectural Review</title>, the influential American critic Douglas Haskell denounced both architecture and color stating that, "what had not already been fretted away in the jagged forms was frazzled by the disparate hues." While the architecture and vibrant colors of the fair may have been too radical for some, they created an uplifting and fresh atmosphere that this viewbook attempts to recreate. 
+</p>
+          <p TEIform="p">An artist's rendering is often different from the scene appearing in reality and it is important to consider this fact when analyzing the viewbook. When compared to actual photographs, the structure of the buildings depicted within and on the cover of the book is fairly accurate. The watercolor does soften some of the harsh lines and angles of the buildings, in effect rounding off the edges. The editors were also able to isolate and idealize the building they wanted to focus on, often omitting nearby buildings to create a picturesque setting. An example is the rendering of the Japanese pavilion which shows the building in a secluded landscape of charming trees and gardens. In reality, there were buildings behind and beside the pavilion, with an often crowded walkway directly in front (Kaufmann). However, in many of the other illustrations, including the image on the screen, the artists embellished the bustle of activity at the fair, by filling the water and air with boats, airplanes, hot air balloons and blimps. While there were such vehicles in a few pictures of the fair, they were not as numerous. The authors used these objects to create a carnival-like atmosphere by cluttering the background and creating a festive setting. While the illustrations are quite accurate, the creation of a viewbook consisting only of artistic renderings, allows the authors to showcase an ideal; they display how they wanted their fair to be remembered. 
+</p>
+          <p TEIform="p">The success of the fair in the midst of the Great Depression is impressive. The nation, and world, left behind their misfortunes and came together with optimism to celebrate science and the advancements of mankind. In a fair like no other, there were magnificent displays designed to educate the general public and increase their interest in technology. The author of the book we have just analyzed invites you to, turn the pages of this volume, then, and catch something of this spirit that lifts one out of the conditions of everyday life! Look into the tomorrow! With our help the new day can be made so much more rich that the old! The views have the look of romance. Romance may become reality if we humans will it to be so!" 
+</p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Albert, Allen D.</author>
+            <title TEIform="title" level="m" rend="italic">Century of Progress Exposition, Official Viewbook</title>.  Chicago: <publisher TEIform="publisher">Reuben H. Donnelly Corporation</publisher>, <date TEIform="date">1933</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <editor TEIform="editor" role="editor">Findling, John E.</editor>, editor, <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>.  <pubPlace TEIform="pubPlace">New York</pubPlace>:  <publisher TEIform="publisher">Greenwood Press</publisher>,  <date TEIform="date">1990</date>.
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Ganz, Cheryl R.</author> "<title TEIform="title" level="a">Science Advancing Mankind</title>." <title TEIform="title" level="m" rend="italic">The Society for the History of Technology</title>. <date TEIform="date">2000</date>. 
+</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Haskell, Douglas</author>. "<title TEIform="title" level="a">Mixed Metaphors at Chicago</title>."  <title TEIform="title" level="j" rend="italic">Architectural Review</title>. <date TEIform="date">August, 1933</date>. v. 74 pp. 47-49.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Kaufmann and Fabry Co.</author>
+            <title TEIform="title" level="m" rend="italic">Official Pictures of A Century of Progress Exposition</title>. Chicago: <publisher TEIform="publisher">The Reuben H. Donnelley Corporation</publisher>, <date TEIform="date">1933</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">"<title TEIform="title" level="a">The Chicago World's Fair, 1933</title>." <title TEIform="title" level="m" rend="italic">Architectural Forum</title>. <date TEIform="date">1933 July</date>, v. 59, p. 1-86. 
+
+</bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+            

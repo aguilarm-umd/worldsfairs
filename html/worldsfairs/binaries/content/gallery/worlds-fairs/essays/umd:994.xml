@@ -1,0 +1,180 @@
+
+
+<TEI.2 TEIform="TEI.2" id="name">
+  <teiHeader TEIform="teiHeader" type="text" status="new">
+    <fileDesc TEIform="fileDesc">
+      <titleStmt TEIform="titleStmt">
+        <title TEIform="title" type="main">Plan of Champ de Mars, Paris 1889</title>
+        <title TEIform="title" type="version"> An Electronic Edition</title>
+        <title TEIform="title" type="fair">
+          <name TEIform="name" reg="Exposition universelle de 1889 (Paris, France)">Exposition universelle de 1889 (Paris, France)</name>
+        </title>
+        <author TEIform="author">
+          <name TEIform="name">Ly Y. Bui</name>
+        </author>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Isabelle Gournay</name>
+          </resp>
+          <resp TEIform="resp">Edited by: <name TEIform="name">Jean McEvoy</name>
+          </resp>
+          <resp TEIform="resp">Header creation and encoding by: <name TEIform="name">Daniel Davis</name>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <extent TEIform="extent">19.0 KB</extent>
+      <publicationStmt TEIform="publicationStmt">
+        <idno TEIform="idno">15paris.xml</idno>
+        <publisher TEIform="publisher">University of Maryland Libraries</publisher>
+        <pubPlace TEIform="pubPlace">
+          <address TEIform="address">
+            <addrLine TEIform="addrLine">University of Maryland</addrLine>
+            <addrLine TEIform="addrLine">College Park</addrLine>
+            <addrLine TEIform="addrLine">Maryland 20720</addrLine>
+            <addrLine TEIform="addrLine">http://www.lib.umd.edu</addrLine>
+          </address>
+        </pubPlace>
+        <date TEIform="date" value="2005-02-08">February 8, 2005</date>
+        <availability TEIform="availability" status="free">
+          <p TEIform="p">This text is freely available for the purpose of academic teaching and research provided the text is distributed with the header information provided.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt TEIform="seriesStmt">
+        <title TEIform="title" level="m">Essays on the Material Culture of the World's Fairs</title>
+        <respStmt TEIform="respStmt">
+          <resp TEIform="resp">Edited by: <name TEIform="name">Patricia Kosco Cossard</name>
+					and 
+					<name TEIform="name">Isabelle Gournay</name>
+          </resp>
+        </respStmt>
+      </seriesStmt>
+      <notesStmt TEIform="notesStmt">
+        <note TEIform="note" anchored="yes" place="unspecified">
+          <p TEIform="p">Essay on the Plan of the Champ-de-Mars at the Exposition Universelle held in Paris, France in 1889 was created as a final assignment in 
+			<name TEIform="name">World's Fairs: Social and Architectural History</name>, 
+            <num TEIform="num">HONR 219F</num>, <date TEIform="date">Spring 2001</date>
+          </p>
+        </note>
+      </notesStmt>
+      <sourceDesc TEIform="sourceDesc" default="NO">
+        <bibl TEIform="bibl" default="NO">
+          <title TEIform="title" level="a">Plan of Champ de Mars, Paris 1889 </title>
+          <author TEIform="author">Ly Y. Bui </author>
+          <imprint TEIform="imprint">
+            <date TEIform="date" value="2005">2005</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc TEIform="encodingDesc">
+      <editorialDecl TEIform="editorialDecl" default="NO">
+        <p TEIform="p">Titles of texts, foreign words, and emphasized text have been encoded</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc TEIform="profileDesc">
+      <langUsage TEIform="langUsage" default="NO">
+        <language TEIform="language" id="en">English</language>
+      </langUsage>
+      <textClass TEIform="textClass" default="NO">
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="topical">
+            <item TEIform="item">
+              <name TEIform="name" type="corporate">
+						Paris World's Fair (1889)
+						</name>
+            </item>
+            <item TEIform="item">
+						France -- Politics and government
+						</item>
+            <item TEIform="item">
+						Exhibitions
+						</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="genre">
+            <item TEIform="item">Essay</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="temporal">
+            <item TEIform="item">1801-1900</item>
+          </list>
+        </keywords>
+        <keywords TEIform="keywords">
+          <list TEIform="list" type="geographical">
+            <item TEIform="item" n="continent">Europe</item>
+            <item TEIform="item" n="country">France</item>
+            <item TEIform="item" n="settlement">Paris</item>
+          </list>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text TEIform="text">
+    <body TEIform="body">
+      <div0 TEIform="div0" org="uniform" part="N" sample="complete">
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Plan of Champ de Mars, Paris 1889 
+<figure TEIform="figure" entity="umd:823">
+              <figDesc TEIform="figDesc">Source: <title TEIform="title" level="m" rend="italic">Guide Bleu du Figaro et Petit Journal</title>, Paris 1889.</figDesc>
+            </figure>
+          </head>
+          <p TEIform="p">This is a twenty-six by forty-eight centimeter plan of the Champ de Mars during the Exposition Universelle of 1889, used by visitors at the time of the fair, a bold political statement on the part of France, as well as an overwhelming success. The Third Republic was established in Paris in 1870, and by 1884, when preliminary studies for the the Exposition Universelle were launched, many political issues were still largely unresolved. In 1870 Napoleon III surrendered at the Battle of Sedan during the Franco-Prussian War. Two days after the defeat Republicans proclaimed the advent of the Third Republic. The Franco-Prussian war ended with Paris's capitulation in 1871. A group of Parisians found Prussia's terms humiliating and wanted to keep fighting. Later dubbed the Communards, they established a dictatorship in Paris known as the Central Committee of the National Guard, later renamed La Commune. However, before La Commune could put its principles into effect, The National Assembly sent troops into Paris to eradicate the uprising. Even with the elimination of La Commune, there was great dissention within the government. There were conflicts between and within the Left and Right movements. An economic depression began in France in 1873 and worsened into the 1880s, affecting agriculture, industry, and small-scale trade. Citizen unrest was clearly evident in the popularity of General Georges Boulanger, who promised a reform, if not revolution, of the existing government. In 1888, when Boulanger was at the height of his political esteem, the threat of governmental crisis was very palpable. 
+		</p>
+          <p TEIform="p">It was under these circumstances that the Paris exposition of 1889, to commemorate the centennial anniversary of the French Revolution, was planned. Prime Minister Jules Ferry first proposed an exposition in 1880, with three political goals of "reconciliation, rehabilitation, and imperial supremacy" in mind (73, Silverman). The exposition would portray the Third Republic in a prestigious light, restoring pride and confidence in the flagging government. It would boost the economy, bolster the metal industry with the erection of immense pavilions, and create new job opportunities for workers. Political and social differences would be suspended for the duration of the fair. </p>
+          <p TEIform="p">Several sites were considered for the exposition, including the Champs Elys??es, the Bois de Boulogne, and Bois de Vincennes. The Champ de Mars, which was finally selected as the main location for the exposition, has had a rich history. Comprising the stretch of land reaching from the Seine river to the ??cole Militaire, it was used as the military school's parade ground. In 1790 the F??te de la F??d??ration was held on its grounds, and King Louis XVI took an oath to uphold the new constitution. In 1794, it witnessed the rally of the Supreme Being, a significant episode of the French Revolution. Since then, the Champ de Mars has been the site for several expositions. Today the Champ de Mars is a park with manicured lawns, its 1889 exposition buildings long gone, with the exception of the Eiffel Tower. The exposition also included the spaces not visible on the map: Trocad??ro Palace and gardens (to the west of the Eiffel Tower), the Esplanade des Invalides (to the northeast of the Eiffel Tower), and the Quai d'Orsay. The Trocad??ro featured gardens and horticulture. The Esplanade des Invalides displayed War department exhibits, schoolhouses from various countries, and French colonies. The Quai d'Orsay hosted exhibitions on agriculture and food products. 
+</p>
+          <p TEIform="p">This plan displays only the part of the fair held on the Champ de Mars, and is actually quite delicate, one of three foldout maps found in the back of a small guidebook measuring eleven by seventeen centimeters and approximately one and a half centimeters thick. The guidebook, made especially for the 1889 exposition, was called <title TEIform="title" level="m" rend="italic">Guide Bleu du Figaro at du Petit Journal</title>, implying that it was published jointly by <title TEIform="title" level="j" rend="italic">Le Figaro</title> and <title TEIform="title" level="j" rend="italic">Le Petit Journal</title>, two newspapers based in Paris. <title TEIform="title" level="j" rend="italic">Le Figaro</title>- was published for the first time on January 15th, 1826, and remains al leading daily newspaper in Paris today. Their website can be found at
+<xref targOrder="U" TEIform="xref" from="ROOT" to="DITTO" url="http://www.figaro.fr">http://www.figaro.fr</xref>.</p>
+          <p TEIform="p">
+            <title TEIform="title" level="m" rend="italic">The Guide Bleu du Figaro et du Petit Journal</title> is approximately 288 pages long, and comprises illustrations and plans designed by S. Krakow. The first page of the book advertises five maps and thirty-one drawings. Very detailed descriptions of the pavilions are interspersed among a wide array of advertisements, no doubt to keep the price of the book down at one franc. The Online Computer Library Center (OCLC), which lists the holdings thousands of libraries around the world, reports that there are seven other <title TEIform="title" level="m" rend="italic">Guide Bleu du Figaro et du Petit Journal</title> in the United States. WorldCat, another comprehensive database of publications, lists two additional libraries that own the <title TEIform="title" level="m" rend="italic">Guide Bleu</title>.</p>
+          <p TEIform="p">
+Inspired by the historical Arc de Triomphe, the layout of the exposition itself was meant to stir pride in France. Atop the Champs-Elys??es, according to Edward Lockroy, "...it was understood that the exhibition would take the form of an Arch of Triumph laid out on the ground; the summit being formed by the Palace of Machines, the Keystone by the Central Dome, and the two extended arms by the parallel Palace of Beaux Arts and the Palace of the Liberal Arts" (Silverman, 85). 
+</p>
+          <p TEIform="p">The exposition opened the day after the official centennial celebration, which included a pilgrimage to Versailles. On May 6, President Sadi Carnot inaugurated the fair by leading a procession along the Champs-Elys??es, across the Pont d'I??na (directly west of the Eiffel tower, off the map), underneath the Eiffel Tower, along the central axis of the fair, finally stopping under the Central Dome where the opening ceremonies were held. The goal of the exposition was made clear in Carnot's speech that day:</p>
+          <q TEIform="q" direct="unspecified" type="block">Today France glorifies the dawn of a great century which has opened a new era in the history of mankind. Today we contemplate, in its brilliancy and in its splendor, the work born of this century of labor and of progress...Our dear France is worthy of attracting to her the chosen of the peoples. She has the right to be proud of herself and to celebrate with head erect the economic centenary, as also the political centenary, of 1889</q>
+          <p TEIform="p">
+						(43, United States Commission to Paris Exposition) </p>
+          <p TEIform="p">The French president wanted to establish pride in the nation and in its new government, proclaiming to the world France's status as a powerful nation. 
+</p>
+          <p TEIform="p">The exposition featured an extraordinary array of exhibits. To the west of the Eiffel Tower, running from north to south on the far left of the map, was Charles Garnier's Histoire de l'Habitation Humaine. </p>
+          <p TEIform="p">The Eiffel Tower is found towards the left of the map, surrounded by greenery. The four squares on the map labeled "Soubass du Pilier" (for soubassement) formed the corners of the tower. Built for the exposition, the building was itself a symbol of the movement towards liberal democracy, personified by Science and Technology. The arches of the first platform were designed with the Arc de Triomphe in mind, and, according to the United States commissioners to the Paris exposition, the top was modeled on the steeples of the Notre Dame. The tower was contracted by Gustave Eiffel, but the architect who actually designed its silhouette was Stephen Sauvestre, with Maurice Koechlin et Emile Nouguier acting as structural engineers. The tower was 986 feet high, weighed 7300 tons, and employed between 150 and 200 construction workers. It cost about 6,500,000 Francs. Originally, it was supposed to be in front of the Ecole Militaire and Central Dome in the middle of Champ de Mars, but eventually it was placed at the west end of the Champ de Mars. The first story was approximately 4200 square meters, and contained four restaurants: Russian, Anglo-American, French and one for Alsace-Lorraine. The second story was 1400 square meters, and had an office where the "Figaro de la Tour Eiffel" was printed. The third floor was octagonal in shape, with alternating sides of twelve and two meters in length. It held Eiffel's private office, which he used primarily for scientific observations. Today, the first floor houses a buffet, a restaurant, a post office, and souvenir shops. The second floor has another souvenir shop, buffet, and restaurant. The top floor functions mostly as an observation deck. Educational displays are found on every level of the tower. 
+</p>
+          <p TEIform="p">The Palace of Liberal Arts, southeast of the Eiffel Tower and towards the bottom center of the map, featured the first exhibit entirely devoted to primary education in a world's fair. It showcased how public education was institutionalized under the Third Republic. The Palace of Fine Arts, to the northeast of the Eiffel tower and directly opposite the Palace of Liberal Arts, held the largest exhibit of art at an exposition and most extensive display of American art in Europe up to that time, with 572 objects. Photographic realism prevailed, although a few impressionist paintings were also displayed. To the left of the Palace of Fine Arts were pavilions devoted to pastel and watercolor work. The Monaco pavilion was also located in this section. Behind the Palace of Liberal Arts were many pavilions, one of which was devoted to Thomas Edison's inventions and to electricity, and another to the Press. </p>
+          <p TEIform="p">The Machinery Hall, at the far right of the map, was called in the report of one of the United States commissioner "the boldest work of the exhibition" (p.78). Ferdinand Dutert acted as the chief architect, and Victor Contamin as structural engineer. Machinery Hall covered fifteen acres, and was 148 feet high at its apex. It used twice as much metal as the Eiffel Tower. Contamin found a way to span a 377 feet without intermediate support, a span unprecedented at the time. The building had extensive ornamentation, using multicolored brick, mosaic, stencils, paintings, and drawings. It was divided into three main parts. </p>
+          <p TEIform="p">The Central Dome can be seen near the middle of the map, at the far left of the Machinery Hall. The cupola had circular panels representing the various crafts: ceramics, glassmaking, gold smithery, and cabinet making. Behind the dome was the central gallery, where objects related to small-scale manufacturing and artisan production were displayed. This central gallery was divided into twenty-eight box-like rooms, each with cabinet cases. The third section ran from the Avenue de Suffren to the Avenue de La Bourdonnais (south to north), consisted of one long corridor. The first half of the gallery contained items related to civil engineering, ceramic arts, cabinet making, mechanisms, electricity, agriculture, mining, metallurgy, printing, and paper making. The right side of the second half of the gallery was devoted to railway material, spinning, weaving, iron, and working machinery. The left side had special places for exhibits from Switzerland, Belgium, the United States, and England. </p>
+          <p TEIform="p">Many European countries boycotted the Third Republic and shunned the exposition. They did not have any official pavilions at the site, leaving more space for other nations that had been underrepresented at previous fairs. At the western end of the map, located among the green areas of the parks, were Latin American pavilions, such as Mexico, Argentina, and Venezuela. Foreign exhibits are indicated on the map in yellow, French ones in pink. 
+</p>
+          <p TEIform="p">The fair offered a lot in terms of amusement. There were numerous restaurants, some of them scattered among the parks of the Eiffel Tower, and some inside the already discussed buildings. Military bands and theatrical groups played on the Champ de Mars, while dancing exhibits were found on the Rue du Caire, indicated to the south east of the map by a long rectangle labeled "Bazar Egyptien". The entire exposition was transformed into a fair ground at night, turning into a "grande f??te" or "ville lumi??re". Electricity, which was still rather new and exhibited at the exposition, lit up all 228 acres of the exposition. The Eiffel Tower was painted with colored enamels, and lit up with red, white, and blue lights at night. The trottoir roulant, or moving sidewalk, also made a splash at the exposition, as the technology was new. Today, moving sidewalks are used extensively in Paris, through the metro or airports. </p>
+          <p TEIform="p">The exposition managed to achieve the goals Jules Ferry originally sought. Roughly thirty two million visitors came to visit, bolstering the economy. The exposition resolved a significant portion of the political and social tension, boosting the confidence of the general public in the Republic. Boulanger's popularity diminished as Frenchmen focused on the exposition, and he fled to Belgium in April of 1889; a potential revolution was avoided. The exposition not only fostered national pride, it secured France's rank in the eyes of Europe. </p>
+        </div1>
+        <div1 TEIform="div1" org="uniform" part="N" sample="complete">
+          <head TEIform="head">Works Cited</head>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Corporate Author</author>, <title TEIform="title" level="m" rend="italic">United States Commissioner to the Paris Exposition</title>. <pubPlace TEIform="pubPlace">Washington, D.C.</pubPlace>:  <publisher TEIform="publisher">Government Printing Office</publisher>, <date TEIform="date">1891</date>.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Findling, John E.</author>, <title TEIform="title" level="m" rend="italic">Historical Dictionary of World's Fairs and Expositions, 1851-1988</title>. <pubPlace TEIform="pubPlace">New York</pubPlace>: 
+						<publisher TEIform="publisher">Greenwood Press</publisher>, <date TEIform="date"> 1990</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Jourdain, Frantz</author>, <title TEIform="title" level="m" rend="italic">Exposition Universelle de 1889</title>. <pubPlace TEIform="pubPlace">Paris</pubPlace>: 
+						<publisher TEIform="publisher">Librarie Centrale des Beaux-arts</publisher>, <date TEIform="date"> 1892</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Levin, Miriam</author>, <title TEIform="title" level="m" rend="italic">When the Eiffel Tower was New: French Visions of Progress at the Centennial of the Revolution</title>.  <pubPlace TEIform="pubPlace">South Hadley, Massachusetts</pubPlace>: 
+						<publisher TEIform="publisher">University of Massachusetts Press</publisher>,  <date TEIform="date">1989</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Silverman, Deborah L.</author>  "<title TEIform="title" level="a">The Crisis of Bourgeois Individualism</title>." <title TEIform="title" level="j" rend="italic">Oppositions</title>. vol. 8, p.70-91.</bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Walton, William</author>, <title TEIform="title" level="m" rend="italic">Chefs-d'oeuvre de l'Exposition Universelle de Paris 1889</title>. <pubPlace TEIform="pubPlace">Philadelphia</pubPlace>:  <publisher TEIform="publisher">Barrie Fr??res</publisher>, <date TEIform="date"> 1889</date>
+          </bibl>
+          <bibl TEIform="bibl" default="NO">
+            <author TEIform="author">Watson, William</author>, <title TEIform="title" level="m" rend="italic">Paris Universal Exposition</title>. <pubPlace TEIform="pubPlace"> Washington</pubPlace>: 						<publisher TEIform="publisher">Government Printing Office</publisher>, <date TEIform="date">1892</date>
+          </bibl>
+        </div1>
+      </div0>
+    </body>
+  </text>
+</TEI.2>
+                        
