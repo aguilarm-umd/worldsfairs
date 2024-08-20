@@ -42,3 +42,19 @@ scripts/browse.py > html/worldsfairs/browse.html
 ```sh
 scripts/fiximages.py
 ```
+
+### Retrieve fedora4 id and identifier and create mapping from pid to fedora4 iiif url
+
+```sh
+kuc prod
+
+k port-forward pod/fcrepo-solr-0 10000:8983
+
+curl 'http://localhost:10000/solr/fedora4/select?fl=identifier%2Cid&q=presentation_set_label%3A%22World%27s%20Fairs%22&rows=343' | \
+jq -f filter.jq > data/mapping.json
+```
+
+### Update iiif links for iframes, download all essay imgs and update their links, and add download links for essays
+```sh
+scripts/update_html.py
+```
